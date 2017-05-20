@@ -1,2 +1,2 @@
 # eduEnReaderBase
-Base for this education project!
+Base for this education project..
