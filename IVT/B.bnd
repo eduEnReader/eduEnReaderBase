@@ -1,7 +1,7 @@
 title   
-textStore lectures/IVT/B.html
+textStore eduEnReaderBase/IVT/B.html
 MD5TextStore MD5
-soundStore lectures/IVT/B.mp4
+soundStore eduEnReaderBase/IVT/B.mp4
 MD5SoundStore MD5
 Bind 111 192 15.7 22.5
 Bind 192 227 22.5 26
