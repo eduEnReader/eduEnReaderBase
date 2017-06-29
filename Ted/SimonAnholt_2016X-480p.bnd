@@ -1,0 +1,299 @@
+title 
+textStore SimonAnholt_2016X-480p.html
+MD5TextStore MD5
+soundStore SimonAnholt_2016X-480p.mp4
+MD5SoundStore MD5
+Bind 0 79 9.2 16.7
+Bind 79 127 16.7 21.5
+Bind 127 255 21.5 29.9
+Bind 255 334 29.9 35.4
+Bind 334 395 35.4 38.9
+Bind 395 461 38.9 47.1
+Bind 461 515 47.1 51.9
+Bind 515 612 51.9 58.5
+Bind 612 677 58.5 62.4
+Bind 677 800 62.4 70.4
+Bind 800 844 70.4 73.5
+Bind 844 918 73.5 78.6
+Bind 918 1010 78.6 84.6
+Bind 1010 1131 84.6 95.6
+Bind 1131 1218 95.6 101.8
+Bind 1218 1319 101.8 107.2
+Bind 1319 1388 107.2 113.2
+Bind 1388 1554 113.2 123.9
+Bind 1554 1625 123.9 128.8
+Bind 1625 1702 128.8 134.2
+Bind 1702 1854 134.2 143.7
+Bind 1854 1930 143.7 152
+Bind 1930 2068 152 158.8
+Bind 2068 2191 158.8 165.4
+Bind 2191 2318 165.4 172.4
+Bind 2318 2431 172.4 178.3
+Bind 2431 2547 178.3 184.3
+Bind 2547 2599 184.3 187.3
+Bind 2599 2729 187.3 194.9
+Bind 2729 2775 194.9 197.9
+Bind 2775 2901 197.9 205.7
+Bind 2901 3038 205.7 214.1
+Bind 3038 3163 214.1 221.9
+Bind 3163 3209 221.9 224.6
+Bind 3209 3315 224.6 231.3
+Bind 3315 3443 231.3 241.3
+Bind 3443 3585 241.3 249.1
+Bind 3585 3685 249.1 256.2
+Bind 3685 3861 256.2 267.5
+Bind 3861 3956 267.5 273.3
+Bind 3956 4040 273.3 277.5
+Bind 4040 4109 277.5 282.1
+Bind 4109 4176 282.1 288.7
+Bind 4176 4340 288.7 298.6
+Bind 4340 4440 298.6 303.7
+Bind 4440 4472 303.7 306.2
+Bind 4472 4647 306.2 316.1
+Bind 4647 4686 316.1 319.4
+Bind 4686 4861 319.4 328.3
+Bind 4861 4990 328.3 334.9
+Bind 4990 5217 334.9 348.9
+Bind 5217 5395 348.9 357.9
+Bind 5395 5470 357.9 361.5
+Bind 5470 5731 361.5 376.6
+Bind 5731 5844 376.6 382.4
+Bind 5844 5885 382.4 385.5
+Bind 5885 5964 385.5 391
+Bind 5964 6153 391 399.3
+Bind 6153 6249 399.3 404.9
+Bind 6249 6300 404.9 409.1
+Bind 6300 6436 409.1 417.1
+Bind 6436 6579 417.1 425.2
+Bind 6579 6617 425.2 428.6
+Bind 6617 6750 428.6 434.7
+Bind 6750 6902 434.7 442
+Bind 6902 7092 442 453.2
+Bind 7092 7174 453.2 459.2
+Bind 7174 7261 459.2 465.1
+Bind 7261 7359 465.1 469.2
+Bind 7359 7482 469.2 476.3
+Bind 7482 7611 476.3 483
+Bind 7611 7657 483 486.9
+Bind 7657 7844 486.9 496.7
+Bind 7844 7903 496.7 500
+Bind 7903 7966 500 504.8
+Bind 7966 8047 504.8 509.6
+Bind 8047 8135 509.6 514.4
+Bind 8135 8193 514.4 517.8
+Bind 8193 8301 517.8 524.7
+Bind 8301 8370 524.7 529
+Bind 8370 8445 529 536.2
+Bind 8445 8621 536.2 547.1
+Bind 8621 8700 547.1 552.8
+Bind 8700 8846 552.8 562
+Bind 8846 8949 562 569.6
+Bind 8949 9005 569.6 573
+Bind 9005 9122 573 580.3
+Bind 9122 9243 580.3 587.9
+Bind 9243 9278 587.9 591.6
+Bind 9278 9314 591.6 594.4
+Bind 9314 9408 594.4 601
+Bind 9408 9705 601 619.4
+Bind 9705 9852 619.4 628.7
+Bind 9852 9972 628.7 635.2
+Bind 9972 10070 635.2 644.5
+Bind 10070 10174 644.5 647.2
+Bind 10174 10226 647.2 650.1
+Bind 10226 10362 650.1 656.6
+Bind 10362 10522 656.6 664.4
+Bind 10522 10720 664.4 674.9
+Bind 10720 10836 674.9 682.6
+Bind 10836 10888 682.6 685.3
+Bind 10888 11042 685.3 692.8
+Bind 11042 11201 692.8 701.3
+Bind 11201 11281 701.3 706.4
+Bind 11281 11353 706.4 709.9
+Bind 11353 11467 709.9 715.9
+Bind 11467 11614 715.9 725.2
+Bind 11614 11714 725.2 732.3
+Bind 11714 11863 732.3 742.5
+Bind 11863 11995 742.5 749.5
+Bind 11995 12029 749.5 751.6
+Bind 12029 12115 751.6 757.1
+Bind 12115 12221 757.1 762.9
+Bind 12221 12419 762.9 773.9
+Bind 12419 12453 773.9 778.5
+Bind 12453 12561 778.5 784.3
+Bind 12561 12634 784.3 790
+Bind 12634 12727 790 796.2
+Bind 12727 12785 796.2 799.5
+Bind 12785 12886 799.5 806.2
+Bind 12886 13066 806.2 815.5
+Bind 13066 13099 815.5 817.6
+Bind 13099 13210 817.6 824.4
+Bind 13210 13258 824.4 826.9
+Bind 13258 13297 826.9 829.2
+Bind 13297 13430 829.2 838.4
+Bind 13430 13490 838.4 842.6
+Bind 13490 13598 842.6 850.2
+Bind 13598 13642 850.2 852.9
+Bind 13642 13817 852.9 863.6
+Bind 13817 13887 863.6 869.4
+Bind 13887 13952 869.4 873
+Bind 13952 14026 873 879.1
+Bind 14026 14127 879.1 886.8
+RecognizedString yes 0 2.2
+RecognizedString by the very nature global ice problems no individual country has the capability of tackling on its own 573 580.3
+RecognizedString i'm so very obviously we have to cooperate and we have to collaborate of nations if we gonna sophie's problems 580.3 587.9
+RecognizedString it's so obvious and yet we don't 587.9 591.6
+RecognizedString we don't do it neely often enough 591.6 594.4
+RecognizedString most of the time country still persistent behaving as if they will warring selfish tribes 594.4 601
+RecognizedString batley against each other much as they have been since the nation state was invented hundreds of years ago and this is got to change 601 609.2
+RecognizedString 609.2 617.3
+RecognizedString the thinking in woods 617.3 619.4
+RecognizedString is not solution to the wells problems we have to learn how to cooperate and collaborate a great deal more and compete just a tiny bit less 619.4 628.7
+RecognizedString otherwise things are going to carry on getting bad and the gonna get much worse much sooner them we anticipate 628.7 635.2
+RecognizedString well i don't even a parallel universe i live in the world and that is how the world voted 51.9 58.5
+RecognizedString let's change will only happen if we ordinary people tell a politicians that things have changed 635.2 641.9
+RecognizedString we have to tell them that the culture exchange 641.9 644.5
+RecognizedString we have to tell them that they've got a new mandate 644.5 647.2
+RecognizedString the old mandate was very simple and very single 647.2 650.1
+RecognizedString if you wanna position of power or thirty responsible for your own people and your own tiny slice of territory and that's it 650.1 656.6
+RecognizedString and if in what is the best thing for your own people use brewer everybody else on the planet that feeding betta at consider to be a bit macha 656.6 664.4
+RecognizedString today i think everybody in a position of power and responsibilities gotta do will mandate 664.4 669.7
+RecognizedString which that if you wanna position of power and responsibility your responsible for your own people and 669.7 674.9
+RecognizedString for every single man woman child an animal on the planet 674.9 679
+RecognizedString your responsible for your own slice of territory end 679 682.6
+RecognizedString so let me take you back and explain what i mean by that 58.5 62.4
+RecognizedString for every single square mile of the a surface 682.6 685.3
+RecognizedString and the atmosphere buffet and if you don't like that responsibility you should not be in power that for me is the rule of the modern age and that 685.3 692.8
+RecognizedString the message that we've got a get across to are politicians and show them but that's the way things are bum these days otherwise we will screwed 692.8 701.3
+RecognizedString i don't have a problem actually with donald trump's crito of america first 701.3 706.4
+RecognizedString it seems to me that that's a pretty but now statement what politicians 706.4 709.9
+RecognizedString i've always done and probably should always do of course there elected to represent interested their own people 709.9 715.9
+RecognizedString but what i find so boring and so old fashioned and so i'm imaginative about his take on that is that america first means everyone else last 715.9 725.2
+RecognizedString the making america great again mean making everybody else small again 725.2 730.2
+RecognizedString and he's just not true 730.2 732.3
+RecognizedString am i jobs a policy advisor of last twenty years also i've seen so many hundreds of examples of policies that harmon i's the international and the domestic needs 732.3 742.5
+RecognizedString in junice yeah i learned something cool to global that and the global vote does exactly what it says on ten 62.4 70.4
+RecognizedString and they make better policy i'm not asking nations to be outreach stick will self sacrifice him that would be ridiculous 742.5 749.5
+RecognizedString no nation whatever do that 749.5 751.6
+RecognizedString i'm asking to wake up and understand that we need a new form of governments which is possible 751.6 757.1
+RecognizedString and which harmon isis pose to needs does good for our own people and does good for everybody else 757.1 762.9
+RecognizedString since the u s selection and since bricks it is become more more obvious to me those old distractions of left wing and right wing no longer make sense anymore they really don't fit patton 762.9 773.9
+RecognizedString what does seem to matter today is very simple 773.9 778.5
+RecognizedString what are your view of the world is that you take comfort from looking in woods and backwards 778.5 784.3
+RecognizedString weather like me you find hope it looking forward and out woods 784.3 790
+RecognizedString that's when you politics that's when you division that splitting the world right down the middle 790 796.2
+RecognizedString now let me found judgemental but its not meant to be 796.2 799.5
+RecognizedString the first time in history it lets anybody 70.4 73.5
+RecognizedString i don't a tall misunderstand why so many people find comforting looking in woodson backwards 799.5 806.2
+RecognizedString when times a difficult when you should have money when you're feeling in secure in vulnerable it's almost natural human tendency to turn in would think of your own needs 806.2 815.5
+RecognizedString and to discard everybody else's 815.5 817.6
+RecognizedString i'm perhaps to start to magine that the past was somehow better and the present or the future could ever be 817.6 824.4
+RecognizedString but i happen to believe it that's a dead end 824.4 826.9
+RecognizedString history shows us river darin 826.9 829.2
+RecognizedString when people turning woodson turn back with human progress becomes reversed and things get was everybody very quickly indeed 829.2 838.4
+RecognizedString if you like me and you believe in forwards and outlets 838.4 842.6
+RecognizedString and you believe it the best thing about humanity is it's diversity 842.6 847.3
+RecognizedString and the best thing about globalization 847.3 850.2
+RecognizedString anywhere in the world vote in the election of other people's countries 73.5 78.6
+RecognizedString is the way that it's does help that diversity 850.2 852.9
+RecognizedString dot cultural mixture to make something more created more exciting more productive and as ever been before in human history then my friends we've got a job on a hands 852.9 863.6
+RecognizedString because the in woods and backwoods brigade a uniting as never before 863.6 869.4
+RecognizedString i'm not creed of in woods and backwards that fear 869.4 873
+RecognizedString anxiety playing on the simplest instincts is weeping across the world 873 879.1
+RecognizedString those are bus who believe as i believe in forwards and backwards we have to get a sounds organized 879.1 886.8
+RecognizedString because time is running out very very quickly 886.8 890.7
+RecognizedString 890.7 899.8
+RecognizedString 899.8 901.8
+RecognizedString now why would you do that what's the point let me show you would it looks like 78.6 84.6
+RecognizedString you got a will webside rather beautiful website and then you select an election he's a bunch that we've already cupboard 84.6 95.6
+RecognizedString we do about one month will there about so you can see bulgaria united states of america 95.6 101.8
+RecognizedString secretary general of the united nations the bricks it referendum at the end that 101.8 107.2
+RecognizedString select election that you're interested in and you pick the candidates 107.2 113.2
+RecognizedString 2.2 9.2
+RecognizedString these are the candidates from the recent presidential election in the tiny island mission south tahmin pcp 113.2 119.4
+RecognizedString under ninety nine thousand inhabitants of coast of west africa 119.4 123.9
+RecognizedString and then you look at the brief summary of each of those candidates 123.9 128.8
+RecognizedString which i daily hope is very neutral very informative and very sexing 128.8 134.2
+RecognizedString when you find the one you like you vote these worm the candidates cindy recent icelandic presidential election and that's the way it goes 134.2 143.7
+RecognizedString so why enough would you want to road 143.7 148.2
+RecognizedString in the countries election will 148.2 152
+RecognizedString the reason you wouldn't want to do it let me reassure you is in order to interfere in the democratic processes of another country 152 158.8
+RecognizedString that's not the pappas a to in fact you can't because usually what i do is i release the results after 158.8 165.4
+RecognizedString the electrician each individual country has already voted so there's no way that we couldn't viren up process but more importantly 165.4 172.4
+RecognizedString what of many of you know the results of the recent election worth follows 9.2 16.7
+RecognizedString i'm not particularly interested in the domestic issues of individual countries that's not what we voting on 172.4 178.3
+RecognizedString so what donald j trample hillary clinton proposed to do for the americans is frankly none of your business 178.3 184.3
+RecognizedString that something to the americans can photon 184.3 187.3
+RecognizedString no in global that you're really considering one aspect of it which is what others leaders gonna do for the rest of us 187.3 194.9
+RecognizedString and that so very important because we live 194.9 197.9
+RecognizedString as no doubt you're sick of hearing people tell you 197.9 200.4
+RecognizedString in a globalization hyper connected massive lee into dependent world 200.4 205.7
+RecognizedString weather political decisions of people in other countries can an will happen impact on our lives no matter who we are no matter where we live 205.7 214.1
+RecognizedString make the wings of the butterfly beating on one side of the pacific that can apparently create a hurricane on the other side 214.1 221.9
+RecognizedString so it is with the weld we live in today 221.9 224.6
+RecognizedString hillary clinton the democratic candidate wanna landslide victory 16.7 21.5
+RecognizedString and the welder politics there is no longer a dividing line between domestic and international a fat 224.6 231.3
+RecognizedString any country no matter how small even if its south tommy imprint super good produced the next nelson mandela 231.3 238.9
+RecognizedString for the next stolen 238.9 241.3
+RecognizedString they could polluted the atmosphere in the oceans which belong to all of us will they could be responsible and they could help all of us 241.3 249.1
+RecognizedString and yet the system is so strange because the system hasn't caught up with this global eyes reality 249.1 256.2
+RecognizedString only a small number of people are allowed to vote for those leaders even though there impact is gigantic and almost universal 256.2 263.8
+RecognizedString what number one eight hundred and forty million americans 263.8 267.5
+RecognizedString voted fuzzy next president of the united states and yet as all of us nose in a few weeks time 267.5 273.3
+RecognizedString somebody is gonna hand over the nuclear launch codes to don't j trump 273.3 277.5
+RecognizedString not that isn't having a potential impact all of us i don't know what is 277.5 282.1
+RecognizedString with fifty two percent of the overall vote jill stein the green candidate came a distance second with nineteen percent 21.5 29.9
+RecognizedString similarly the election for the referendum on via the exit vote 282.1 288.7
+RecognizedString a small number of millions of british people voted on that but the outcome of the vote whichever way wind would have had a significant impact on the lives of 288.7 298.6
+RecognizedString tens hundreds millions of people around the world and yet aaliyah tiny number could vote 298.6 303.7
+RecognizedString what kind of democracy is that 303.7 306.2
+RecognizedString huge decisions that effect all of us being decided by relatively very small numbers of people and i didn't about you but i don't think that sounds radar democratic 306.2 316.1
+RecognizedString so i'm trying to clear it up but everything 316.1 319.4
+RecognizedString we don't ask about domestic questions in fact i only have are off to questions of all of the candidates i send in the same to questions every single time i say one 319.4 328.3
+RecognizedString if you get elected what are you gonna do for the rest of us for the remainder of the seven billion who live on this planet 328.3 334.9
+RecognizedString second question what is your vision feel countries future in the world 334.9 340.1
+RecognizedString what rolled you said playing 340.1 342.2
+RecognizedString dial j trump the republican candidate was hot on her heels with fourteen percent 29.9 35.4
+RecognizedString every kind of i send the most questions 342.2 345
+RecognizedString i don't know lanza tank amy wrong i reckon if you're standing 345 348.9
+RecognizedString ah to become the next president of the united states you probably pretty tied up most of the time sign not altogether surprised that they don't all answer but many do 348.9 357.9
+RecognizedString more everytime and some of them do much more than answer 357.9 361.5
+RecognizedString samantha in the most enthusiastic and most exciting where you can imagine i just wanna say word here to save yet she simba with wanna candidates in the recent zambian presidential election 361.5 371.9
+RecognizedString he's answers today's to questions will basically an eighteen page dissertation 371.9 376.6
+RecognizedString on his view of zombie is potential roll in the world and in the international community 376.6 382.4
+RecognizedString i posted on websites anybody could read it 382.4 385.5
+RecognizedString not savior won the global vote but he didn't when the zambian election 385.5 391
+RecognizedString so i pharmacy wondering what am i going to do with this extraordinary group of people at awesome wonderful people here who won the global that we always get it wrong by the way 391 399.3
+RecognizedString and the remainder of the votes for shed between up stamos 35.4 38.9
+RecognizedString the one that we elective never the person is elected by the domestic electra 399.3 404.9
+RecognizedString maybe poly because we seem to go for the woman 404.9 409.1
+RecognizedString but i think it may also be assign but the domestic electra to still thinking very nationally the still thinking very in woodley 409.1 417.1
+RecognizedString the still asking themselves what's in it for me instead of what they should be asking today which is what's in it for wii 417.1 425.2
+RecognizedString there you go so suggestions please 425.2 428.6
+RecognizedString not right now but send me an email if you've got an idea about what we can do this amazing team of glorious losers 428.6 434.7
+RecognizedString we've got savior to shampoo i mention before we got hot le thomas tortilla who was the runner up in the icelandic presidential election 434.7 442
+RecognizedString review maxine her amazing a talk at ted women just a few weeks ago was she spoke about the need from all women to get into politics 442 449.7
+RecognizedString we got maria the navy some south tahmin principe 449.7 453.2
+RecognizedString we've got term henry clinton i don't know she's available we've got jill stein 453.2 459.2
+RecognizedString and gary johnson the libertarian candidate 38.9 43.5
+RecognizedString and we covered also the elections for the next sector general the united nations 459.2 465.1
+RecognizedString and we got the x a prime minister of new zealand who be wonderful member of the team 465.1 469.2
+RecognizedString setting maybe those people the glorious losers club to travel around the world wherever there's an election and remind people 469.2 476.3
+RecognizedString of the necessity in are modern age of thinking a little bit out what's and thinking of the international consequences 476.3 483
+RecognizedString so what comes next to the global that well 483 486.9
+RecognizedString obviously the donald and hilary show is a bit of a difficult one to follow but there's some other really important elections coming up in fact they seem to be multiplying 486.9 496.7
+RecognizedString something going on i'm should we've noticed in the world 496.7 500
+RecognizedString on the next row of elections rule critically important 500 504.8
+RecognizedString just of few days time we've got the run of the austrian presidential election 504.8 509.6
+RecognizedString with the prospect of no butthole for becoming what is commonly describes the first 509.6 514.4
+RecognizedString 43.5 47.1
+RecognizedString find right head of station europe since the second world war 514.4 517.8
+RecognizedString next year we've got germany we got france go presidential elections in iran and a doesn't albums 517.8 524.7
+RecognizedString it doesn't get less important you get more more important 524.7 529
+RecognizedString clearly the global road is not a stand alone project it's not does there on its own 529 536.2
+RecognizedString it has some background it's part of a project which i launched a back in two thousand fourteen which are cooler good country 536.2 543.9
+RecognizedString the idea for good countries basically very simple 543.9 547.1
+RecognizedString it's my simple diagnosis of what's wrong with the world and how we can fix it 547.1 552.8
+RecognizedString what's wrong with the world i've already hinton that basically we face an enormous and growing number of gigantic existential global challenges 552.8 562
+RecognizedString climate change human rights abuses mass migration terrorism economic chaos weapons for liberation 562 569.6
+RecognizedString all of the problems with threatened to wipers out 569.6 573
+RecognizedString now what parallel universe do suppose i live in 47.1 51.9

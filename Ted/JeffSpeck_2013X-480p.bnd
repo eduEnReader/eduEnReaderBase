@@ -1,0 +1,380 @@
+title 
+textStore JeffSpeck_2013X-480p.html
+MD5TextStore MD5
+soundStore JeffSpeck_2013X-480p.mp4
+MD5SoundStore MD5
+Bind 7 52 9.2 15.3
+Bind 52 150 15.3 23.8
+Bind 150 226 23.8 28.2
+Bind 226 303 28.2 32.9
+Bind 303 403 32.9 41.8
+Bind 403 423 41.8 44.2
+Bind 423 525 44.2 51.3
+Bind 525 682 51.3 59.3
+Bind 682 757 59.3 63.2
+Bind 757 821 63.2 66.5
+Bind 821 988 66.5 77.3
+Bind 988 1167 77.3 85.7
+Bind 1167 1330 85.7 94.2
+Bind 1330 1400 94.2 98.2
+Bind 1400 1575 98.2 106.2
+Bind 1575 1659 106.2 112.1
+Bind 1659 1797 112.1 118.8
+Bind 1797 1859 118.8 124.8
+Bind 1859 1905 124.8 128.1
+Bind 1905 2049 128.1 136.9
+Bind 2049 2166 136.9 143.2
+Bind 2166 2265 143.2 148
+Bind 2265 2384 148 155.5
+Bind 2384 2500 155.5 160.8
+Bind 2500 2547 160.8 163.8
+Bind 2547 2582 163.8 166.1
+Bind 2582 2671 166.1 171.5
+Bind 2671 2848 171.5 182.8
+Bind 2848 3006 182.8 190.6
+Bind 3006 3140 190.6 197.9
+Bind 3140 3202 197.9 201.6
+Bind 3202 3250 201.6 206.3
+Bind 3250 3413 206.3 214.8
+Bind 3413 3448 214.8 217.1
+Bind 3448 3562 217.1 224.9
+Bind 3562 3723 224.9 232.8
+Bind 3723 3852 232.8 238.6
+Bind 3852 3941 238.6 247.7
+Bind 3941 4041 247.7 252.3
+Bind 4041 4255 252.3 262.7
+Bind 4255 4351 262.7 267.6
+Bind 4351 4489 267.6 273.9
+Bind 4489 4618 273.9 283.9
+Bind 4618 4820 283.9 295.7
+Bind 4820 5046 295.7 304.9
+Bind 5046 5193 304.9 311.7
+Bind 5193 5240 311.7 314.6
+Bind 5240 5338 314.6 320.6
+Bind 5338 5466 320.6 327.5
+Bind 5466 5622 327.5 334.8
+Bind 5622 5680 334.8 337.1
+Bind 5680 5772 337.1 344.3
+Bind 5772 6048 344.3 358.8
+Bind 6048 6096 358.8 361.5
+Bind 6096 6304 361.5 371.8
+Bind 6304 6381 371.8 376.2
+Bind 6381 6446 376.2 379.1
+Bind 6446 6607 379.1 386.8
+Bind 6607 6734 386.8 393.6
+Bind 6734 6823 393.6 398.6
+Bind 6823 6985 398.6 407.5
+Bind 6985 7104 407.5 413.7
+Bind 7104 7151 413.7 416.2
+Bind 7151 7226 416.2 421.5
+Bind 7226 7325 421.5 427.3
+Bind 7325 7426 427.3 433.9
+Bind 7426 7491 433.9 442.2
+Bind 7491 7567 442.2 444.2
+Bind 7567 7676 444.2 450.3
+Bind 7676 7888 450.3 460.5
+Bind 7888 8013 460.5 467.9
+Bind 8013 8131 467.9 473.5
+Bind 8131 8233 473.5 479
+Bind 8233 8437 479 490.3
+Bind 8437 8532 490.3 495.6
+Bind 8532 8577 495.6 499.9
+Bind 8577 8673 499.9 505.5
+Bind 8673 8791 505.5 511.4
+Bind 8791 8917 511.4 518.7
+Bind 8917 8949 518.7 521.3
+Bind 8949 9053 521.3 526.9
+Bind 9053 9139 526.9 531.9
+Bind 9139 9222 531.9 538.3
+Bind 9222 9297 538.3 542.6
+Bind 9297 9395 542.6 548.4
+Bind 9395 9485 548.4 553.5
+Bind 9485 9652 553.5 560.9
+Bind 9652 9743 560.9 566.5
+Bind 9743 9874 566.5 573.3
+Bind 9874 9943 573.3 577.1
+Bind 9943 10085 577.1 582.8
+Bind 10085 10186 582.8 588.4
+Bind 10186 10323 588.4 594.8
+Bind 10323 10538 594.8 605.2
+Bind 10538 10629 605.2 610.1
+Bind 10629 10729 610.1 615.4
+Bind 10729 10798 615.4 620.3
+Bind 10798 11064 620.3 635.9
+Bind 11064 11109 635.9 639.8
+Bind 11109 11195 639.8 644.1
+Bind 11195 11281 644.1 649.9
+Bind 11281 11363 649.9 653.3
+Bind 11363 11392 653.3 656
+Bind 11392 11549 656 664.7
+Bind 11549 11677 664.7 671.6
+Bind 11677 11709 671.6 674.4
+Bind 11709 11868 674.4 682.8
+Bind 11868 11941 682.8 686.4
+Bind 11941 12073 686.4 694.1
+Bind 12073 12147 694.1 698.3
+Bind 12147 12260 698.3 704.9
+Bind 12260 12294 704.9 708.4
+Bind 12294 12474 708.4 717.5
+Bind 12474 12533 717.5 720.9
+Bind 12533 12786 720.9 734.7
+Bind 12786 13032 734.7 746.6
+Bind 13032 13171 746.6 754.3
+Bind 13171 13213 754.3 757.8
+Bind 13213 13276 757.8 763.1
+Bind 13276 13488 763.1 773.8
+Bind 13488 13530 773.8 776.3
+Bind 13530 13651 776.3 782.6
+Bind 13651 13750 782.6 788.2
+Bind 13750 13883 788.2 797.3
+Bind 13883 13934 797.3 801.6
+Bind 13934 13973 801.6 804.5
+Bind 13973 14092 804.5 812.1
+Bind 14092 14172 812.1 817.7
+Bind 14172 14335 817.7 825.3
+Bind 14335 14470 825.3 832.9
+Bind 14470 14537 832.9 837.3
+Bind 14537 14639 837.3 844.4
+Bind 14639 14699 844.4 848.7
+Bind 14699 14892 848.7 857.6
+Bind 14892 14962 857.6 863.4
+Bind 14962 15047 863.4 869.1
+Bind 15047 15136 869.1 873.6
+Bind 15136 15263 873.6 881.7
+Bind 15263 15366 881.7 886.7
+Bind 15366 15418 886.7 889.5
+Bind 15418 15593 889.5 899.8
+Bind 15593 15686 899.8 905.6
+Bind 15686 15793 905.6 911.6
+Bind 15793 15887 911.6 917.1
+Bind 15887 16000 917.1 923.1
+Bind 16000 16083 923.1 928.6
+Bind 16083 16193 928.6 935.5
+Bind 16193 16252 935.5 938.1
+Bind 16252 16362 938.1 945.1
+Bind 16362 16419 945.1 948.5
+Bind 16419 16568 948.5 955.7
+Bind 16568 16720 955.7 964.1
+Bind 16720 16827 964.1 971.3
+Bind 16827 16956 971.3 977.6
+Bind 16956 17074 977.6 983.9
+Bind 17074 17192 983.9 989.6
+Bind 17192 17265 989.6 994.5
+Bind 17265 17358 994.5 999.8
+Bind 17358 17438 999.8 1003.8
+Bind 17438 17553 1003.8 1010.9
+Bind 17553 17685 1010.9 1017.2
+Bind 17685 17792 1017.2 1023.5
+Bind 17792 17970 1023.5 1033.6
+Bind 17970 18142 1033.6 1044.8
+Bind 18142 18349 1044.8 1053.9
+Bind 18349 18407 1053.9 1057.7
+Bind 18407 18514 1057.7 1063
+Bind 18514 18681 1063 1072.9
+Bind 18681 18825 1072.9 1078.9
+Bind 18825 18860 1078.9 1081.3
+Bind 18860 18967 1081.3 1087.2
+Bind 18967 19065 1087.2 1092.2
+Bind 19065 19152 1092.2 1096.2
+Bind 19152 19253 1096.2 1101.7
+Bind 19253 19294 1101.7 1104.9
+Bind 19294 19367 1104.9 1109.3
+Bind 19367 19403 1109.3 1111.7
+RecognizedString yes 0 2.2
+RecognizedString this is from news week magazine hardly and esoteric publication today's engineers acknowledge that building new roads 566.5 573.3
+RecognizedString usually makes traffic worse and my response to reading this was 573.3 577.1
+RecognizedString may i please meet somebody's engineers because these are not the ones that i typically there are great exceptions that i'm working with now 577.1 582.8
+RecognizedString what is not the engineers that one typically meets working in city where they say oh that road is 582.8 588.4
+RecognizedString too crowded we need to add elaine's you add elaine and the traffic cams and they say see i told you in into that lane 588.4 594.8
+RecognizedString so the supplies both to highways and to city streeter there congested but the amazing thing about most american cities that i work in the more typical cities is they have a lot of streets that are actually 594.8 605.2
+RecognizedString oversized for the congestion there currently experiencing this was the case in oklahoma city 605.2 610.1
+RecognizedString when the mayer came running to me a very upset because they were named in prevention magazine 610.1 615.4
+RecognizedString the worst city for pedestrian in the entire country that can possibly be true 615.4 620.3
+RecognizedString but it certainly is enough to make a mayer a do something about it and we did a walk ability study and what we found looking at the car counts on the street deezer 620.3 628.8
+RecognizedString a little tongue and cheek but it's something i thought about for a long time 59.3 63.2
+RecognizedString three thousand four thousand seven thousand car counting we know that to lanes can handle ten thousand cars per day 628.8 635.9
+RecognizedString so look at these numbers right there all near or under ten thousand 635.9 639.8
+RecognizedString cars and these with a these with the street that were designated in the new 639.8 644.1
+RecognizedString downtown plan to be for lanes two six lanes wide sierra fundamental disconnect 644.1 649.9
+RecognizedString tween the number of lanes and the number of cars that wanted to use them 649.9 653.3
+RecognizedString so it was my shahab to redesign 653.3 656
+RecognizedString every street in the downtown from curb face to curb face and we did it for fifty blocks streets and we're rebuilding at now so typical unit oversized street ten 656 664.7
+RecognizedString to know where is being narrow the now under construction the project a half done the tidwell street like this note 664.7 671.6
+RecognizedString when you do that you find room 671.6 674.4
+RecognizedString for mediums you find room for bike lanes we've double d madam on street parking 674.4 679.2
+RecognizedString and i'm i like to share what i think i figured out 63.2 66.5
+RecognizedString we've added awful bike network were one it didn't exist for 679.2 682.8
+RecognizedString but not everyone has the money that oklahoma city has 682.8 686.4
+RecognizedString tuesday about extraction economy this doing quite well the typical city is malek cedar rapids were also they of all for lane system 686.4 694.1
+RecognizedString half one way system and it's a little hard to see but what we've done 694.1 698.3
+RecognizedString what we're doing it's in process right now it's in engineering right now is turning a off orleans system 698.3 704.9
+RecognizedString half one way into a all to lane system 704.9 708.4
+RecognizedString oh to way and in so doing were attic seventy percent moron street park in which the merchants love and it protect the sidewalk that parking mix the sidewalk safe 708.4 717.5
+RecognizedString and we're adding a much more robust bicycle network 717.5 720.9
+RecognizedString then the the lanes themselves how wider they that's really important the standards of change such that as undress twenty says the table road to subdivision in america allows you to see the curve picture of the earth 720.9 731.8
+RecognizedString this is a subdivision 731.8 734.7
+RecognizedString in the american city the typical american city natural american city is not washington d c or new york or san francisco it's grand rapids or cedar rapids or memphis 66.5 77.3
+RecognizedString outside of washing to from the nineteen sixty is look very carefully at the with the streets this is a subdivision from the nineteen eighty's 734.7 741.3
+RecognizedString nineteen sixty is nineteen eighty the status of change to such a degree that mild neighbour south beach 741.3 746.6
+RecognizedString when was time to fix the street that wasn't draining properly they had to widen and takeaway half are sidewalk because the standards were wider 746.6 754.3
+RecognizedString i people go faster on wider streets 754.3 757.8
+RecognizedString people know this the engineers deny it 757.8 760.5
+RecognizedString but the citizens know it so that in 760.5 763.1
+RecognizedString birmingham michigan they fight for for an hour streets of portland oregon famous lee walkable institute it's skinny streets program in it's residential neighborhood we know that skinny streets are safer 763.1 773.8
+RecognizedString the developer vince graham a in his 773.8 776.3
+RecognizedString project ion which we worked on in south carolina he goes to conferences ne shows is amazing twenty two four 776.3 782.6
+RecognizedString roads are to a roads very now right away and he shows this well known philosopher who said 782.6 788.2
+RecognizedString what in the typical american city in which most people on cars and the temptations dr them all the time 77.3 82.8
+RecognizedString broad is the road that leads to destruction narrow is the road that lisa live in this this 788.2 797.3
+RecognizedString plays very well in south now bicycles 797.3 801.6
+RecognizedString bicycles and bicycling are the current 801.6 804.5
+RecognizedString revolution underway in only some american cities but where you build a they com anissa planner i'd hate to say that 804.5 812.1
+RecognizedString what the one thing i can say is that bicycle population is a function of bicycle infrastructure 812.1 817.7
+RecognizedString i asked my friend tom brennan from nelson i guard in portland to send me some pictures of the portland bike mutiny sent me this and i said was that 817.7 825.3
+RecognizedString like to work day any said no that was tuesday when you do what portland did and you spend money on bicycle infrastructure 825.3 832.9
+RecognizedString i'm near city is double d number bikers in it several times now 832.9 837.3
+RecognizedString by painting these bright green lanes even automotive cities like long beach california vast optic 837.3 844.4
+RecognizedString in the number of bakers based on a infrastructure and of course what really does it 844.4 848.7
+RecognizedString if you're gonna get them to walk the new half the offer 82.8 85.7
+RecognizedString if you know fifteenth street here in washington d c please meet romney manuals new bike lanes in chicago the buffer lane parallel parking pulled off the curb 848.7 857.6
+RecognizedString the bikes between the cars and the park cars and curb this meant cyclist 857.6 863.4
+RecognizedString if however as in pasadena every lane as a bike lane then no lane is a bike lane 863.4 869.1
+RecognizedString and this is the only bicycles that i met in pasadena sa 869.1 873.6
+RecognizedString parallel parking i mention it essential barrier steel that to text the curb i'm restaurants for moving vehicles um 873.6 881.7
+RecognizedString this is fort lauderdale one sided history you can park the other street south st you can't 881.7 886.7
+RecognizedString this is happy hour on the parking side this is 886.7 889.5
+RecognizedString sad our honey heather side and understood trees themselves trees slow cars down they move slower when trees are next to the road and of course sometimes they slow down very quickly 889.5 899.8
+RecognizedString all the little details the curb return radius at one fourty or is it fourty feet house whoopee 899.8 905.6
+RecognizedString is that curb to determine how fast car goes and how much room you have to cross and then i love this because 905.6 911.6
+RecognizedString a walk that as good as a dr were better what does that mean it means that you need to offer for thing simultaneously needs to be a proper reason to locked 85.7 94.2
+RecognizedString this is objective journalism some say the entrance to city center is not inviting to restaurants 911.6 917.1
+RecognizedString when every aspect of the landscape is poopy is error dynamic is stream form geometric that says 917.1 923.1
+RecognizedString this is a vehicle replace so no one detail no one specialty can be allowed 923.1 928.6
+RecognizedString set the stage and here you know the street yes it will drain within a minute of the hundred year storm 928.6 935.5
+RecognizedString but does for woman asked him out the curb everyday 935.5 938.1
+RecognizedString so then copy the comfortable walk has to do with the fact that all animals seek simultaneously prospect 938.1 945.1
+RecognizedString and refuge we want to be able to see are preditors 945.1 948.5
+RecognizedString what we also wanna feel that are flags are covered and sore drawn to places that have good edges and if you don't supply the edges people want 948.5 955.7
+RecognizedString want to be there what's the proper ratio of height to it this at one two one three two one if you get beyond one to six you're not very comfortable 955.7 964.1
+RecognizedString anymore you don't feel enclosed now sixty one in salt bored can be perfectly delightful the opposite of salzburg is houston 964.1 971.3
+RecognizedString the walk has to be safe and feel safe to walk has to be comfortable 94.2 98.2
+RecognizedString write the point being the parking lot as the principal up problem here a however missing teeth 971.3 977.6
+RecognizedString does empty lots computers as well and view of missing corner because been outdated zoning code then you could ever missing 977.6 983.9
+RecognizedString nose in your neighbourhood that's we had in my neighborhood others this owning code that said i couldn't build 983.9 989.6
+RecognizedString on that site as you know dc is now or humane at washing dishes now changing it sony 989.6 994.5
+RecognizedString to allow sites like this to become sites like this we renew lotta variance is to do that 994.5 999.8
+RecognizedString triangular houses can be interesting to build but if you get one built people 999.8 1003.8
+RecognizedString generally like it so gotta phil those missing noses and then finally the interesting walk signs of humanity 1003.8 1010.9
+RecognizedString you know we're among the social prime it's nothing interested more than other people are we want signs of people so the perfect 1010.9 1017.2
+RecognizedString one two one ratio it's a great thing this is grand rapids very walkable city but nobody walks on this street 1017.2 1023.5
+RecognizedString that connects to best hotels together because on the left your ivana left you have a expose parking back in on the right you have a 1023.5 1031.5
+RecognizedString and the walk has to be interesting you need to do off for a decent simultaneously and knows the structure of my talk today's to take you through each of those 98.2 106.2
+RecognizedString carmen's facility that was apparently 1031.5 1033.6
+RecognizedString designed in admiration for that parking dec ten you don't attract at many paper 1033.6 1038.4
+RecognizedString a marriage o'reilly and is tenth term mayor of charleston south carolina tatas analytics twenty five feet of building 1038.4 1044.8
+RecognizedString to hide two hundred and fifty feet of garage this when i called chia pet garages in south beach that active ground floor and then this is are gonna end with this project that i love to show it 1044.8 1053.9
+RecognizedString by malacca architects in columbus ohio to the left 1053.9 1057.7
+RecognizedString is that convention center neighborhood full of pedestrian to the right is that short north neighbourhood f nick 1057.7 1063
+RecognizedString what restaurants great shops struggling and it wasn't doing very well because this was the bridge and no one was walking from the convention center into that neighbourhood well 1063 1072.9
+RecognizedString when they rebuilt the highway the added an extra eighty feet to the bridge that i they rebuilt the bridge over the highway 1072.9 1078.9
+RecognizedString the city paid one point nine million dollars 1078.9 1081.3
+RecognizedString they gave site to the developed to a developer developer built this and now the short notice come back to life 1081.3 1087.2
+RecognizedString the reason to walk is story i learned from my mentors andre stony and elizabeth twitter cyber 106.2 112.1
+RecognizedString and everyone says the newspapers not the planning magazines the newspaper say it because of that bridge 1087.2 1092.2
+RecognizedString so that's it that's the general theory of lock ability i think about 1092.2 1096.2
+RecognizedString your own cities think about how you can apply you've guddu all for things at once 1096.2 1101.7
+RecognizedString so final spices we have most of them n 1101.7 1104.9
+RecognizedString fix what you can a fix what still needs fixing in those places on 1104.9 1109.3
+RecognizedString i really appreciate your attention n da thank 1109.3 1111.7
+RecognizedString thank you for for coming today 1111.7 1121
+RecognizedString 1121 1123.1
+RecognizedString the founders of the new urban isn't movement and i'm i should say half the slides and half of my talk today i learn from them 112.1 118.8
+RecognizedString 2.2 9.2
+RecognizedString it's the story of planning the story of the formation of the planning profession when 118.8 124.8
+RecognizedString a in that in the nineteen century people were 124.8 128.1
+RecognizedString i'm choking from the sort of the dark satanic mills in the planner said hey let's move the housing away from the mills and lifespan 128.1 136.9
+RecognizedString increased immediately dramatically and we like to see the planners have been trying to repeat that experience ever sense 136.9 143.2
+RecognizedString so there's the onset of what we call euclid ian zoning the separation of the landscape 143.2 148
+RecognizedString into large areas of single use interrupt me when i arrive in a sweet to do a plan a plan like this already awaits me 148 155.5
+RecognizedString on the property that i'm looking at an elephant like this guarantees that you will not have walkable city 155.5 160.8
+RecognizedString because nothing is located near anything else 160.8 163.8
+RecognizedString the alternative of course it is 163.8 166.1
+RecognizedString i most walkable city i like to say you no this is a roscoe and this is a surah 166.1 171.5
+RecognizedString sony to talk to you about the walkable city 9.2 15.3
+RecognizedString just a different way to the point to let's try to different way of making places and even this map of manhattan is a bit misleading 171.5 178.9
+RecognizedString because the red color is uses that are mixed vertically 178.9 182.8
+RecognizedString so this is the big story of the new are venus is to acknowledge that there only to ways to is that a been tested by the thousands 182.8 190.6
+RecognizedString to don't communities in the world and throughout history one is the traditional neighborhood you cedar several neighborhoods of new report 190.6 197.9
+RecognizedString massachusetts on which is defined as being compact 197.9 201.6
+RecognizedString and being diverse places to live work shop recreate 201.6 206.3
+RecognizedString get educated all within walking distance on and it's defined as being walkable there a lots of small streets each one is comparable to walk on 206.3 214.8
+RecognizedString can we contrast that the other way 214.8 217.1
+RecognizedString i'm invention that happened after the second world war suburban sprout clearly not compact actually not diverse 217.1 224.9
+RecognizedString and it's not walkable because southfield the streets connect that those streets that do connect become over bird and and you won't let your kid out on them 224.9 232.8
+RecognizedString um what is the walkable city well for wanted better definition it's a city in which the car is a 15.3 23.8
+RecognizedString and i wanna thank a alex mclean the arrow photographer for many of these beautiful pictures that i'm showing you today 232.8 238.6
+RecognizedString so it's fun to break scroll down into it it's constructions 238.6 242.1
+RecognizedString parts it so easy to understand the places we only live the places where you only work 242.1 247.7
+RecognizedString the places we only shop 247.7 249.8
+RecognizedString and are super sized 249.8 252.3
+RecognizedString public institution schools gets bigger and bigger and therefore further and further from each other and the racial at the size of the parking lot of this school to the size of the school tell you all you need to know 252.3 262.7
+RecognizedString about the school witches that no child has ever walked the school no child will ever walk to the school 262.7 267.6
+RecognizedString the judy seniors and juniors of driving the freshman this off morris and of course we have the crashed artistic to prove it 267.6 273.9
+RecognizedString and in the super sizing of our other civic institutions like playing fields and it's wonderful that in a weston 273.9 281.1
+RecognizedString enough fort light in fort lauderdale area has eight 281.1 283.9
+RecognizedString hey optional instrument a freedom rather than a prosthetic device 23.8 28.2
+RecognizedString soccer fields and eight baseball diamonds and in out twenty tennis courts but look at the road that takes you to that location and would you let your child bike on it 283.9 293.2
+RecognizedString and this is why we have the soccer mom now 293.2 295.7
+RecognizedString when i was young i had one soccer field in one baseball diamond in one tennis court but i could walk to it because it was in my neighborhood and then the final part of speech all that everyone forgot to count 295.7 304.9
+RecognizedString what does ever gonna separate everything from everything else and reconnect and only with automotive infrastructure then this is what your landscape begins to 304.9 311.7
+RecognizedString to look like for the mean message here is that 311.7 314.6
+RecognizedString if you want to have a walkable city you can't start with the spa model you need bones of an urban model 314.6 320.6
+RecognizedString no this is the outcome of that form of design a as is this a and this is something with a lot of americans want 320.6 327.5
+RecognizedString what we at understand is a to part american dream if your dreaming for this then you're awesome gonna be dreaming of this off into absurd streams 327.5 334.8
+RecognizedString only build i landscape to comedy cars 334.8 337.1
+RecognizedString first inexpensive being a nice place is this is not photoshop walter coolidge took the slide 337.1 344.3
+RecognizedString i like to talk about why we need the walkable city i like to talk about 28.2 32.9
+RecognizedString it's a it's in panama city this isn't this is a real place and being a driver can be a bit of a nuisance 344.3 350.4
+RecognizedString 350.4 358.8
+RecognizedString the fact that we have society will you drive 358.8 361.5
+RecognizedString to the parking lot to take the escalator to treadmill shows that we're doing something wrong but we know how to do better so hear the to models contrast didn't i show the sly which has been a formative 361.5 371.8
+RecognizedString document of the new organism now for thomas thirty years to show that the that's 371.8 376.2
+RecognizedString bra and the traditional neighborhood contain the same things 376.2 379.1
+RecognizedString it's just how big are they and how close today to each other and how they interests first together and you have a street network rather than a cul de sac 379.1 386.8
+RecognizedString collector system of streets saw me look at it downtown ariana place that has a hope of being walkable and mostly that are 386.8 393.6
+RecognizedString down towns in america cities and neighbor and towns and villagers we look at them and we say 393.6 398.6
+RecognizedString we want the proper balance of uses so what is missing or under represented and again in the typical american citizen which most americans live it is housing 398.6 407.5
+RecognizedString how to do the walkable city most of the talks i give these days are about why we need at a butt 32.9 41.8
+RecognizedString that is lacking the jobs to housing balance is off at you find that when you bring housing back these other things 407.5 413.7
+RecognizedString start to come back to and housing is usually first 413.7 416.2
+RecognizedString among those thanks and of course finally the thing that shows up last and eventually is the schools 416.2 421.5
+RecognizedString because a the people have to move and the young i'm in a pioneers have to move in 421.5 427.3
+RecognizedString get older have kids and fight and then the schools get pretty good eventually the other part of this of this 427.3 433.9
+RecognizedString part the use the useful city part is transit 433.9 439.1
+RecognizedString and in or you can have a perfectly walkable neighborhood without it 439.1 442.2
+RecognizedString the perfectly walkable cities 442.2 444.2
+RecognizedString require transit because if you don't have access to the whole city as a presbyterian then you get a car 444.2 450.3
+RecognizedString i need to get a car the city begins to re shape itself around your needs industries get wider and the parking lots gets bigger and you no longer have a walkable city sir transit is essential but every transit 450.3 460.5
+RecognizedString you guys are smart 41.8 44.2
+RecognizedString experience of transit trip begins are ansal as a walk it's we have to remember to build walk ability around are transit stations 460.5 467.9
+RecognizedString next category the biggest one is the safe walk it's what must walk ability experts talk about it is 467.9 473.5
+RecognizedString essential but i alone not enough to get people to walk and there so many moving parts 473.5 479
+RecognizedString that adopt walkable city the first is block size is portland oregon famous lee 479 484.2
+RecognizedString two hundred foot blocks famous lee walkable 484.2 486.9
+RecognizedString what's a salt lake city famous lee six hundred foot blocks 486.9 490.3
+RecognizedString famous leon walkable too it's almost like two different planets buddy spices we're both built by humans 490.3 495.6
+RecognizedString and in fact of the stories that when you have a two hundred foot 495.6 499.9
+RecognizedString block city you can have a to lane city or a two to four lane city and a six hundred foot block city 499.9 505.5
+RecognizedString is a six lane city and that's a problem these are the crash to to sticks when you doubled the block size 505.5 511.4
+RecognizedString and also i gave that talk exactly a month ago and you can see that ted dot com saturday i wanna talk about 44.2 51.3
+RecognizedString this is steve twenty four california sleaze when you double the block size you quadruple almost quadruple the number fatal accidents 511.4 518.7
+RecognizedString on nine highway streets soap 518.7 521.3
+RecognizedString how many lanes do we have this is where i am gonna tell you what i tell every audience i meet witches 521.3 526.9
+RecognizedString to remind you about induced demand an induced amanda plies both to highways 526.9 531.9
+RecognizedString into city streets and wanted indus demand tells us the only widen streets to except 531.9 538.3
+RecognizedString the congestion that were anticipating are the additional chips that were anticipating 538.3 542.6
+RecognizedString in congested systems it is print sibley that congestion that is constraint ing to man 542.6 548.4
+RecognizedString and so that the winding comes and they're all these leyton trips that are ready to happen 548.4 553.5
+RecognizedString people move for the from work in a make other choices about when they commute and those lanes philip very quickly with traffic so we widen the street again 553.5 560.9
+RecognizedString and they philip again we've learned the in congested systems we cannot satisfy the automobile 560.9 566.5
+RecognizedString how to do it in a lot of time thinking about this app come up with what i call the general theory of walk ability a bit of a pretentious term it's 51.3 59.3

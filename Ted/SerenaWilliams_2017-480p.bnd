@@ -1,0 +1,344 @@
+title 
+textStore SerenaWilliams_2017-480p.html
+MD5TextStore MD5
+soundStore SerenaWilliams_2017-480p.mp4
+MD5SoundStore MD5
+Bind 45 100 9.2 21.4
+Bind 100 162 21.4 25.4
+Bind 162 262 25.4 30.5
+Bind 262 473 30.5 41.9
+Bind 473 623 41.9 53.4
+Bind 623 750 53.4 64.1
+Bind 750 1205 64.1 83.8
+Bind 1205 1326 83.8 89.1
+Bind 1326 1463 89.1 95.5
+Bind 1463 1557 95.5 100.6
+Bind 1557 1636 100.6 104.5
+Bind 1636 1844 104.5 118.1
+Bind 1844 2000 118.1 123.9
+Bind 2000 2042 123.9 127.2
+Bind 2042 2182 127.2 138.3
+Bind 2182 2703 138.3 173.7
+Bind 2703 2986 173.7 189.7
+Bind 2986 3036 189.7 192.2
+Bind 3036 3156 192.2 201.6
+Bind 3156 3311 201.6 207
+Bind 3311 3540 207 219.2
+Bind 3540 3623 219.2 224.6
+Bind 3623 3804 224.6 231.8
+Bind 3804 4009 231.8 239.8
+Bind 4009 4085 239.8 244.9
+Bind 4085 4189 244.9 249.1
+Bind 4189 4333 249.1 256.9
+Bind 4333 4444 256.9 262.1
+Bind 4444 4540 262.1 265.7
+Bind 4540 4670 265.7 270.8
+Bind 4670 4980 270.8 291.4
+Bind 4980 5054 291.4 294.5
+Bind 5054 5250 294.5 304.7
+Bind 5250 5313 304.7 307.4
+Bind 5313 5582 307.4 321.6
+Bind 5582 5646 321.6 324.7
+Bind 5646 5747 324.7 328.4
+Bind 5747 5913 328.4 338.7
+Bind 5913 5995 338.7 343.7
+Bind 5995 6147 343.7 352.3
+Bind 6147 6227 352.3 356.9
+Bind 6227 6399 356.9 365.5
+Bind 6399 6492 365.5 369.5
+Bind 6492 6630 369.5 377.3
+Bind 6630 6645 377.3 379.7
+Bind 6645 7370 379.7 415.8
+Bind 7370 7498 415.8 422.8
+Bind 7498 7678 422.8 437.1
+Bind 7678 7768 437.1 443.1
+Bind 7768 7821 443.1 446
+Bind 7821 7872 446 450.2
+Bind 7872 8078 450.2 459.9
+Bind 8078 8208 459.9 467.2
+Bind 8208 8266 467.2 470.4
+Bind 8266 8402 470.4 478.1
+Bind 8402 8518 478.1 483.7
+Bind 8518 8621 483.7 490.2
+Bind 8621 8691 490.2 494.3
+Bind 8691 8724 494.3 499.5
+Bind 8724 8861 499.5 507.1
+Bind 8861 8938 507.1 511.7
+Bind 8938 9221 511.7 525.6
+Bind 9221 9349 525.6 531
+Bind 9349 9449 531 536.7
+Bind 9449 9602 536.7 543.7
+Bind 9602 9644 543.7 546.8
+Bind 9644 9741 546.8 553.1
+Bind 9741 9788 553.1 556
+Bind 9788 9918 556 563.2
+Bind 9918 10104 563.2 574.4
+Bind 10104 10206 574.4 582.2
+Bind 10206 10275 582.2 584.8
+Bind 10275 10346 584.8 587.8
+Bind 10346 10502 587.8 595.7
+Bind 10502 10676 595.7 601.7
+Bind 10676 10740 601.7 610.7
+Bind 10740 10835 610.7 619.4
+Bind 10835 11061 619.4 626.4
+Bind 11061 11318 626.4 639.5
+Bind 11318 11375 639.5 643.5
+Bind 11375 11565 643.5 653.8
+Bind 11565 11666 653.8 658.7
+Bind 11666 11699 658.7 660.9
+Bind 11699 11797 660.9 666.1
+Bind 11797 11894 666.1 672.3
+Bind 11894 12027 672.3 681.1
+Bind 12027 12066 681.1 683.3
+Bind 12066 12104 683.3 685.7
+Bind 12104 12173 685.7 690
+Bind 12173 12332 690 697.7
+Bind 12332 12608 697.7 712.4
+Bind 12608 12678 712.4 717.1
+Bind 12678 12827 717.1 725.2
+Bind 12827 12901 725.2 730.1
+Bind 12901 13113 730.1 740.9
+Bind 13113 13372 740.9 758.7
+Bind 13372 13750 758.7 775.9
+Bind 13750 13941 775.9 785.6
+Bind 13941 14014 785.6 790.8
+Bind 14014 14165 790.8 795.8
+Bind 14165 14391 795.8 805.3
+Bind 14391 14450 805.3 812.1
+Bind 14450 14681 812.1 826.2
+Bind 14681 14922 826.2 835.9
+Bind 14922 15079 835.9 845.7
+Bind 15079 15208 845.7 851.6
+Bind 15208 15370 851.6 857
+Bind 15370 15528 857 866.6
+Bind 15528 15706 866.6 875.8
+Bind 15706 15793 875.8 880.4
+Bind 15793 15912 880.4 886.7
+Bind 15912 16028 886.7 893.5
+Bind 16028 16137 893.5 897.5
+Bind 16137 16271 897.5 903.4
+Bind 16271 16455 903.4 913.1
+Bind 16455 16619 913.1 921.6
+Bind 16619 16662 921.6 924.2
+Bind 16662 16772 924.2 930.6
+Bind 16772 16855 930.6 937.5
+Bind 16855 17052 937.5 950.1
+Bind 17052 17286 950.1 961.9
+Bind 17286 17507 961.9 973.6
+Bind 17507 17736 973.6 986.8
+Bind 17736 17848 986.8 993
+Bind 17848 17958 993 998.6
+Bind 17958 17984 998.6 1000.7
+Bind 17984 18054 1000.7 1007.7
+Bind 18054 18112 1007.7 1010.6
+Bind 18112 18140 1010.6 1013.3
+Bind 18140 18233 1013.3 1018
+Bind 18233 18334 1018 1024.3
+Bind 18334 18402 1024.3 1029.8
+Bind 18402 18476 1029.8 1033.2
+Bind 18476 18708 1033.2 1044.6
+Bind 18708 19014 1044.6 1061.7
+Bind 19014 19096 1061.7 1065.4
+Bind 19096 19174 1065.4 1069.4
+Bind 19174 19509 1069.4 1085.8
+RecognizedString yes 0 2.2
+RecognizedString i want a reset feeling of your first championship is really know feeling in the world like it 563.2 568.4
+RecognizedString yeah and it's like you have all the is years training and be in a little kid in playing and then 568.4 574.4
+RecognizedString winning is this is a wonderful experience so for me i'm a boy spelt like 574.4 580
+RecognizedString i love that feeling and nine 580 582.2
+RecognizedString obviously i don't like the filling up losing i feel like 582.2 584.8
+RecognizedString no in fact people close to say you're very bad loser 584.8 587.8
+RecognizedString i'm not the best loser picture very very very very now applet no champion like to lose 587.8 593.7
+RecognizedString i gotta but they say when it comes 593.7 595.7
+RecognizedString losing you are very very very bad i am number one elephant tattoos 595.7 601.7
+RecognizedString yeah i'm always curious about the dynamic between you and venus 601.7 610.7
+RecognizedString saving at em how i didn't really tell rp pottery quite honest 59.7 64.1
+RecognizedString because everybody that knows you wanna fall the story nose it you tour very close 610.7 614.7
+RecognizedString and you always bring your a game in whatever you do but often wonder when you're playing her 614.7 619.4
+RecognizedString do you bring your a minus game because you wanna 619.4 622.7
+RecognizedString do something for do bring a plus plus game cause you wanna crusher 622.7 626.4
+RecognizedString is it harder for you playing her well easy lang venus is like playing myself is bb gra playing each other we get practicing the gather 626.4 634.5
+RecognizedString 634.5 639.5
+RecognizedString tall she's fast she hits hard like macy's serves like me 639.5 643.5
+RecognizedString every it's it's really like playing with you and finish but she knows one hitting the baba for hit it so it's something that is not very easy but it's really about am 643.5 653.8
+RecognizedString when i go out there i really have to shut down my mind i have to say to myself you know what 653.8 658.7
+RecognizedString i'm just playing a great player 658.7 660.9
+RecognizedString i'm and i've been saving it n 64.1 66.3
+RecognizedString but today i have to be better i don't care who it is epis my sister with my friend 660.9 666.1
+RecognizedString today's the day i have to show up and i have to be better and i have to one it more than anyone else 666.1 672.3
+RecognizedString at this moment anywhere on this world so never on the court do you fall back for venus because you know where is always 672.3 681.1
+RecognizedString venus and serena yes 681.1 683.3
+RecognizedString in and now baby sister is past 683.3 685.7
+RecognizedString older sister do you feel guilty about that you feel joy i'm not 685.7 690
+RecognizedString is that a difficult designer you i don't feel anything in that from in my life it still in forever is always gonna be venus and serena cheese 690 697.7
+RecognizedString really love of my life please my best friend she's my soulmate i mean 697.7 702.2
+RecognizedString would there's pictures of her fishing mean really low potty pictures or else i wanna sharath emma for fishing me uninstaller on it tennis court and joyce akira may have eyes 702.2 712.4
+RecognizedString no my alarms money on ice cream for arkansas anna 712.4 717.1
+RecognizedString you know social medias if restaurant button so thirty minutes late i get my phone next doesn't mean that much environment later 66.3 75.7
+RecognizedString see what take her money in give it to meeting at school make sure i have something to eat in chicago without in that's what kind of person she actually is 717.1 725.2
+RecognizedString since i've always known or i'm so we always have this incredible reese 725.2 730.1
+RecognizedString text for each other ennis incredible love and i think it's important we put a realize you can be 6s over you can still have a wonderful relation 730.1 737.3
+RecognizedString i'm a quart we're mortal enemy second we shake hands 737.3 740.9
+RecognizedString it is a we are best friends again in 740.9 744.3
+RecognizedString you know if i lose my below add a later for me but i mean what were you shut the bones a that's worth 744.3 755.8
+RecognizedString brain when you get the robot 755.8 758.7
+RecognizedString you never have any moment like i feel like she should have a moment i she's never done anything batumi but 758.7 764.4
+RecognizedString i'm young guess i'm the younger sister never done anything that you really sisters i can think of someone dhanbad 764.4 772.9
+RecognizedString i'm lessee brainwash me to for dition 772.9 775.9
+RecognizedString i miss like for carson and like that's weird and i think that bananas like oh no 75.7 80.8
+RecognizedString love the love you have for her i know is very pure i know that ass i know the we were always brought up to be super close and we are incredibly close not only her have 775.9 785.6
+RecognizedString a three other sisters well and we were always so close but i'm 785.6 790.8
+RecognizedString so before big match the to if you don't get together and say look we're gonna go out there and what is 790.8 795.8
+RecognizedString find the australian open yeah we're in the locker macgyver m 795.8 800.5
+RecognizedString i'm always pick a recipe for my camera macias change it s i take a note 800.5 805.3
+RecognizedString totally inappropriate bye see you stop and i was just laughing at her butt 805.3 812.1
+RecognizedString that's what kind of really sure that you have that we have in like i said the second we stapler court like it was like we're word definitely morrow 812.1 821.4
+RecognizedString enemies but the second we stopped off in moments before where does 821.4 826.2
+RecognizedString it is when is into the day show it to my sister i'm not gonna play australia in well who knows i'm fine forever 826.2 833.5
+RecognizedString i don't think i plan and fifty years person 833.5 835.9
+RecognizedString so when was the get my gonna wait literally just 80.8 83.8
+RecognizedString i don't know there's never been anybody like human you think about it never been anybody who was intersect gender and race the way you have 835.9 845.7
+RecognizedString the dominance it you haven't the scrutiny that you have and when you were growing up did you say i want to be like that 845.7 851.6
+RecognizedString because now little girls are looking you sing i want to be like that who was the i want to be like that for you 851.6 857
+RecognizedString well its interesting um bye profit up i'm for me when i grow always wanted to be the best and i said 857 863.4
+RecognizedString do you wanna be the best can emulator beso 863.4 866.6
+RecognizedString when i started to go on tour when i was really ya i was steffy gravity monica thousand apple even cp fam press i'm and i would see what they did in 866.6 875.8
+RecognizedString i notice that steffy and monica didn't really talk to a lot of the other players in 875.8 880.4
+RecognizedString what kind of we're on their own and they were just so focused and i would say that p pampers the technie teddy did in 880.4 886.7
+RecognizedString and i was like i want to do that so i did that and i felt like to be the best if you wanna be the best 886.7 893.5
+RecognizedString you have to hang around people and you have to look at people that are the best kiss 893.5 897.5
+RecognizedString a five or six more days of that's ok final because it was words are in a cause it only said twenty weeks 83.8 89.1
+RecognizedString you're not gonna be the best if you're looking at someone that's not appetite sullivan people say nobody works as hard as you 897.5 903.4
+RecognizedString i'm a very hard worker l that's i heard people say oh she's 903.4 907.2
+RecognizedString calendar cheese athletic no actually i wasn't i was really smart for major group on a got out when i got older 907.2 913.1
+RecognizedString and i have to work really hard i think that's why the wifi so hard network so hard is because i was really really really smart yeah and um 913.1 921.6
+RecognizedString you are no longer small no i mean 921.6 924.2
+RecognizedString um no and but i with my when i was really i'm for whatever is arriving penis maybe a radha 924.2 930.6
+RecognizedString where do you know the other they will talk when is your body your body brings men and women to there knees 930.6 937.5
+RecognizedString a lot is a lot of and i mean it a good way i'm in a good way been made about your body it's a work of art it's masculine it's a gloria's issa 937.5 947.7
+RecognizedString there's never been anything like it 947.7 950.1
+RecognizedString do you have body issues when you were going up web yours been comfortable with your body its interesting cause when you're a teenager female growing up in the public i 950.1 959.8
+RecognizedString yeah so its not like that was a whole lot of information on that's robin doing all the time i am 89.1 95.5
+RecognizedString it is a lot of screwed me that you face 959.8 961.9
+RecognizedString nf any female that's a teenager i definitely with not comfortable in my body i didn't like it 961.9 967.2
+RecognizedString i didn't understand why have muscles i didn't understand what i stop lifting weights like i'm not in adidas within 967.2 973.6
+RecognizedString after one us open i realize that my body help me which goals that i wanted to region 973.6 978.7
+RecognizedString i wanted to be happy with the and i'm with so appreciative are there in i was i'm always help the i'm really fortune on super blast and i felt like 978.7 986.8
+RecognizedString not only am i happy with my by but i want other people another young girls have experience what i've experience 986.8 993
+RecognizedString i'm to be happy with themselves whatever people say masculine whatever too much to little 993 998.6
+RecognizedString i'm okay with it as long as 998.6 1000.7
+RecognizedString i love myself i know you learn a lot 1000.7 1007.7
+RecognizedString winning but what have you learned from losing 1007.7 1010.6
+RecognizedString just tracking get eighteen nineteen every week i just take a picture in favorite and i've been 95.5 100.6
+RecognizedString um i hate lose but i thing losing ham 1010.6 1013.3
+RecognizedString brought me to here today is the only reason i am who i am is because i'm i losses 1013.3 1018
+RecognizedString an samantha marks tingly painful but i wouldn't how take any of them away because 1018 1024.3
+RecognizedString everytime i lose it's really long time me to lose again because i learned so much from it 1024.3 1029.8
+RecognizedString am i think i'm hurts like everyone that i talk to my listen 1029.8 1033.2
+RecognizedString if you loser if something happens madden sports in business or in score learn from it 1033.2 1039.1
+RecognizedString don't live in the password when the president of the same effects my future in something that alisha live by 1039.1 1044.6
+RecognizedString why no now your plan a wedding and i want to know what should we are where's destination wedding in the cats poconos are you doing bunny doing florida what do you thinking 1044.6 1054.9
+RecognizedString no 1054.9 1056.9
+RecognizedString where thinking medium size what am i de to be like on can we can't say notice 1056.9 1061.7
+RecognizedString so good about it and this is the one time that 100.6 104.5
+RecognizedString this person this versus our thinking medium size just thinkin 1061.7 1065.4
+RecognizedString my personality is a lot of fun oh free coffee that'll be today i'm not too serious 1065.4 1069.4
+RecognizedString can you like your diana fun pain in the next capture for serena williams is what 1069.4 1074.9
+RecognizedString oh next to me i'm obviously i'm gonna have a baby stay fit in can back and play tennyson 1074.9 1082.1
+RecognizedString keep working on my fashion library relief i'm dean of it's a boy or girl 1082.1 1085.8
+RecognizedString i don't have a feeling of one or the other colors 1085.8 1089.5
+RecognizedString sex 1089.5 1093.4
+RecognizedString say whatever you want a like we're jerry 1093.4 1098.3
+RecognizedString i'm your turn you on fade away likely 1098.3 1109.9
+RecognizedString 1109.9 1112.6
+RecognizedString address of eclipse congratulate okay i'll make it you really is ok when you heard the news where you at 104.5 111.8
+RecognizedString 2.2 9.2
+RecognizedString 1112.6 1116
+RecognizedString cited were you afraid worry worry that you're pregnant i mean 111.8 115
+RecognizedString so i heard it i'm i two weeks 115 118.1
+RecognizedString today's for the ask the beginning of the australian open which is the biggest grand finale two days before 118.1 123.9
+RecognizedString yeah so why is before and i knew 123.9 127.2
+RecognizedString how is nervous i wasn't quite sure what a thing but i just knew that moment it was really important for me 127.2 134.9
+RecognizedString status focus right there effie australian open n 134.9 138.3
+RecognizedString you know i was definitely not sure what you know to do as i can i play and i know it's very dangerous maybe sometimes in the first 138.3 147.6
+RecognizedString set twelve weeks are search had a lotta question but not only did you play 147.6 152.6
+RecognizedString miss williams you what day i just 152.6 161
+RecognizedString say twenty three gran 161 163.1
+RecognizedString should we say harvest 9.2 17.3
+RecognizedString why i'm still you work for another handicap play differently that game knowing you 163.1 173.7
+RecognizedString pregnant i did i'm it wasn't very easy i your aldi stories about pluto ne pregnant they get 173.7 179.8
+RecognizedString second you now they have you had money i know i ok so fortunate in so i haven't 179.8 185.4
+RecognizedString so bye take it really tired and a it really you know stressed out in 185.4 189.7
+RecognizedString i have to really take all that energy 189.7 192.2
+RecognizedString printer paper bag soda say in throw it away cause i really felt like i didn't have time to deal with any extra motions any extra anything because 192.2 201.6
+RecognizedString pregnant or not no one new and i was supposed to when that time and as i'm everytime that i show up imax 201.6 207
+RecognizedString text it to win and if i don't when it's actually much pick a new yeah when you don't when that's a big story for me i had to really take 207 215.3
+RecognizedString anything negative anaemia motion for i was feeling app app point 215.3 219.2
+RecognizedString n kinda just just bottle map and n really figure out what the next app for me today was 219.2 224.6
+RecognizedString mom 17.3 21.4
+RecognizedString no you listen you have a lot of support you have a lotta love illinois coming here people stop me at the airport w singer fight attend the pilot 224.6 231.8
+RecognizedString guess what i'm going is it oh my god rissa what she's fine it but then you always eddie's cranky yankees on the way over here somebody was telling me about elena staffing 231.8 239.8
+RecognizedString who said sunbury unkind inappropriate say racial thanks you have responded to him 239.8 244.9
+RecognizedString what did you say i'm gonna dignify what he said but you honey why did you respond 244.9 249.1
+RecognizedString i think you are very inappropriate comments anatomy that i am i've been really supported on my tears nappy but i work with for 249.1 256.9
+RecognizedString i'm having a pro from us twenty years and so for me it's really important a whole women i need something that 256.9 262.1
+RecognizedString what is young women i'll come to the locker and i want to take pictures with me 262.1 265.7
+RecognizedString ann for me assist like i want to be able to be a good leader nigger example for them so 265.7 270.8
+RecognizedString not only today p have rude things about me and my period i thought it was important for us to stand up for each other understand it for me 270.8 281.4
+RecognizedString self an appointment was really important for me to say like i'm not afraid i'm not 281.4 286.5
+RecognizedString no dot you guys like may you saw the are relief 21.4 25.4
+RecognizedString i'm not going anywhere but if you know this is inappropriate never timers 286.5 291.4
+RecognizedString place for everything and that really wasn't time laplace 291.4 294.5
+RecognizedString we got the party said you're not going anywhere cause you'll be thirty six timber babies coming sex you know and your code said ages always important but in tennis it's very important 294.5 304.7
+RecognizedString what he has no doubt that you're coming back if you thought 304.7 307.4
+RecognizedString am i coming back will i take some time off i know the women on the tour thank 307.4 312.1
+RecognizedString how long does it take ever baby why modi either pick the five isaiah now show me everything is really mental an arm 312.1 321.6
+RecognizedString i just like that i'm coming back i'm not done yet i am 321.6 324.7
+RecognizedString i'm really inspired by my sister she's a year older than me annette something that she 324.7 328.4
+RecognizedString define i know i to buy an rv 328.4 333.2
+RecognizedString show me roger federer he's a little bit older the menu the winning everything from my ass 333.2 338.7
+RecognizedString up serena that great yellow bathing suit last week and when i saw all i can think of was 25.4 30.5
+RecognizedString i know i can do that counting yellow inspiring to me expecially recently 338.7 343.7
+RecognizedString and i know about it something i wanna do and i my stories daphne not over yet i was talking to my coach about it and we were talking about how it's all it's 343.7 352.3
+RecognizedString this is just a new part of my life on my baby's gonna be in a stanton 352.3 356.9
+RecognizedString hopefully cheering for mean akron tonight so no euro to get a letter to your baby yesterday that you said you know from the oldest mommy to youngest wanted eat 356.9 365.5
+RecognizedString to the oldest to the youngest i can't wait for you to get here a lot of people feel that 365.5 369.5
+RecognizedString i saw you about a year ago cause i think about your life serena you've had three life changing things and fix my time pregnant 369.5 377.3
+RecognizedString huge when fell in love 377.3 379.7
+RecognizedString and when i saw you last year use i was saying inotia love i love you so medha guy he's a nerdy carnegie vs 379.7 388
+RecognizedString i said you about that yet can you set a letter head yeah she's awesome 388 395.3
+RecognizedString yeah i whenever put you with a nerd iggy can you wanna be honest 395.3 399.2
+RecognizedString cost why couldn't you waited till we set on facebook i was very selfish i know so i ask you about that picture and you said nobody with was a see that picture what do you mean 30.5 41.9
+RecognizedString no i need a bad thing for me to deliver i'm ready 399.2 406.9
+RecognizedString 406.9 411.5
+RecognizedString i like him very much 411.5 415.8
+RecognizedString so how sexy when others a failed how we see the one that you new this is the one 415.8 420.4
+RecognizedString well 420.4 422.8
+RecognizedString i'm gonna say that but 422.8 425
+RecognizedString yes 425 428.7
+RecognizedString well 428.7 437.1
+RecognizedString would you marry loving any very kind and my mom says he's very confederate and i when she took 437.1 443.1
+RecognizedString say that to me i'm really is i'm 443.1 446
+RecognizedString well actually of an accident 41.9 44.5
+RecognizedString it's a little things that really make a huge defined lyin in life i'm 446 450.2
+RecognizedString something simple i'm my fashion company i was that we harris we have a show ever years old and i show last year i was riding around like crazy can i do everything for the show in 450.2 459.9
+RecognizedString and everything for at and so we i was my run like crazy and it was a simple jesse rubbish shirt perry had any jus 459.9 467.2
+RecognizedString want to make sure that i have to say manu is it 467.2 470.4
+RecognizedString it's a where store it was better in person i weather wonderful proposal because or was it out the beyonce song 470.4 478.1
+RecognizedString if you like of any auto butter ring on are you feeling pressure to get married did you not was coming 478.1 483.7
+RecognizedString yeah i actually never felt pressure to get married and i'm cafe i'm the marion type of person i really i'm 483.7 490.2
+RecognizedString love my life i love my freedom am i heard that kind of changes 490.2 494.3
+RecognizedString but i'm i love everything i do n um 494.3 499.5
+RecognizedString and i love my career in always like i didn't want anything to interfere with arab actually been so career oriented and in fact 499.5 507.1
+RecognizedString um i was on vacation taken from time for my elephant um i have a thing-y a i've been email checking my my status on 44.5 53.4
+RecognizedString ah when you propose i was almost angry now almost i was angry because 507.1 511.7
+RecognizedString it was right in the middle of my training fever and i gotta when the australian open ice i can 511.7 517
+RecognizedString flight around busy wanted take me to wrong vanessa care i i gotta when but that's how focus now no i can't go to rome 517 525.6
+RecognizedString what i was really focus on on region my goals and i knew it that point at there was one player that 525.6 531
+RecognizedString i wanted to passenger past effie grass record and that really mental lot to me and when i put my mind 531 536.7
+RecognizedString something i really am determined to reach at no matter what yeah you know you said that free i've heard you say that winning 536.7 543.7
+RecognizedString is addictive to it is what do you mean 543.7 546.8
+RecognizedString um i feel like winning for me is super addictive i feel like once you experience it 546.8 553.1
+RecognizedString you always wanna get that feeling again and 553.1 556
+RecognizedString when i won my first championship i was only seventeen years old and i forgot that feeling and i feel like everytime i when one 556 563.2
+RecognizedString taking pictures every week sia far alone i'm going and sharing it with friends maybe no actually a bitch just been 53.4 59.7

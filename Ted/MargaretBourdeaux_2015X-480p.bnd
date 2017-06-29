@@ -1,0 +1,282 @@
+title 
+textStore MargaretBourdeaux_2015X-480p.html
+MD5TextStore MD5
+soundStore MargaretBourdeaux_2015X-480p.mp4
+MD5SoundStore MD5
+Bind 8 258 9.2 27.3
+Bind 258 322 27.3 34.3
+Bind 322 412 34.3 39.9
+Bind 412 582 39.9 52.7
+Bind 582 620 52.7 55.4
+Bind 620 703 55.4 60.9
+Bind 703 825 60.9 68.8
+Bind 825 868 68.8 76
+Bind 868 959 76 82.6
+Bind 959 1018 82.6 86.3
+Bind 1018 1154 86.3 95.3
+Bind 1154 1172 95.3 99
+Bind 1172 1249 99 107.6
+Bind 1249 1356 107.6 113.7
+Bind 1356 1414 113.7 118.9
+Bind 1414 1469 118.9 123.2
+Bind 1469 1546 123.2 128.1
+Bind 1546 1691 128.1 137.7
+Bind 1691 1757 137.7 143.6
+Bind 1757 1856 143.6 149.2
+Bind 1856 1922 149.2 154.3
+Bind 1922 1995 154.3 161.6
+Bind 1995 2057 161.6 165.8
+Bind 2057 2144 165.8 172.2
+Bind 2144 2285 172.2 179.7
+Bind 2285 2353 179.7 184.9
+Bind 2353 2466 184.9 191.9
+Bind 2466 2507 191.9 194.7
+Bind 2507 2641 194.7 202
+Bind 2641 2741 202 208.5
+Bind 2741 2818 208.5 214.2
+Bind 2818 2899 214.2 221.3
+Bind 2899 2931 221.3 224.1
+Bind 2931 3074 224.1 232.7
+Bind 3074 3185 232.7 242.2
+Bind 3185 3301 242.2 250.8
+Bind 3301 3545 250.8 263.9
+Bind 3545 3578 263.9 266.8
+Bind 3578 3668 266.8 272.2
+Bind 3668 3786 272.2 280.3
+Bind 3786 4084 280.3 294.9
+Bind 4084 4133 294.9 300.3
+Bind 4133 4275 300.3 309.4
+Bind 4275 4338 309.4 315.4
+Bind 4338 4422 315.4 321.7
+Bind 4422 4470 321.7 324.4
+Bind 4470 4580 324.4 331.9
+Bind 4580 4724 331.9 339.7
+Bind 4724 4749 339.7 342.9
+Bind 4749 4833 342.9 348.6
+Bind 4833 4926 348.6 355.2
+Bind 4926 5008 355.2 360.4
+Bind 5008 5051 360.4 364.8
+Bind 5051 5123 364.8 370.2
+Bind 5123 5226 370.2 378.7
+Bind 5226 5317 378.7 385.8
+Bind 5317 5444 385.8 393.2
+Bind 5444 5499 393.2 397.1
+Bind 5499 5643 397.1 407.1
+Bind 5643 5746 407.1 413.9
+Bind 5746 5764 413.9 416.2
+Bind 5764 5866 416.2 422.1
+Bind 5866 6071 422.1 436.6
+Bind 6071 6126 436.6 440.3
+Bind 6126 6192 440.3 445.5
+Bind 6192 6285 445.5 451.1
+Bind 6285 6426 451.1 460.8
+Bind 6426 6478 460.8 465
+Bind 6478 6550 465 470.6
+Bind 6550 6696 470.6 482.1
+Bind 6696 6833 482.1 490.9
+Bind 6833 6867 490.9 493.1
+Bind 6867 6937 493.1 497.6
+Bind 6937 7027 497.6 502.2
+Bind 7027 7133 502.2 509.4
+Bind 7133 7239 509.4 515.9
+Bind 7239 7310 515.9 521.1
+Bind 7310 7354 521.1 524.5
+Bind 7354 7464 524.5 531.8
+Bind 7464 7617 531.8 539.7
+Bind 7617 7668 539.7 543.2
+Bind 7668 7807 543.2 551.8
+Bind 7807 7905 551.8 558.4
+Bind 7905 8103 558.4 573.7
+Bind 8103 8254 573.7 583.7
+Bind 8254 8333 583.7 589
+Bind 8333 8424 589 595
+Bind 8424 8549 595 601.1
+Bind 8549 8689 601.1 611.9
+Bind 8689 8836 611.9 619.1
+Bind 8836 8981 619.1 627.7
+Bind 8981 9046 627.7 631.3
+Bind 9046 9234 631.3 641.8
+Bind 9234 9297 641.8 645.7
+Bind 9297 9362 645.7 650.8
+Bind 9362 9471 650.8 658.6
+Bind 9471 9556 658.6 663.9
+Bind 9556 9603 663.9 668.8
+Bind 9603 9671 668.8 677.1
+Bind 9671 9773 677.1 683.8
+Bind 9773 9837 683.8 687.2
+Bind 9837 10089 687.2 704.7
+Bind 10089 10239 704.7 713.8
+Bind 10239 10294 713.8 716.9
+Bind 10294 10385 716.9 723.9
+Bind 10385 10447 723.9 727.9
+Bind 10447 10649 727.9 740.9
+Bind 10649 10739 740.9 747.3
+Bind 10739 10861 747.3 755.6
+Bind 10861 10943 755.6 761.8
+Bind 10943 10988 761.8 765.7
+Bind 10988 11080 765.7 772.3
+Bind 11080 11152 772.3 777.6
+Bind 11152 11248 777.6 784.9
+Bind 11248 11378 784.9 793.5
+Bind 11378 11496 793.5 803.6
+Bind 11496 11519 803.6 806.5
+Bind 11519 11682 806.5 821.1
+Bind 11682 11784 821.1 823.2
+Bind 11784 11928 823.2 832
+Bind 11928 12035 832 839.7
+Bind 12035 12088 839.7 843.3
+Bind 12088 12162 843.3 849.5
+Bind 12162 12202 849.5 852.8
+Bind 12202 12255 852.8 856.2
+RecognizedString yes 0 2.2
+RecognizedString involved in the world bank in two thousand two investing heavily and identifying training in promoting 573.7 580.6
+RecognizedString afghani health sector liters 580.6 583.7
+RecognizedString please call sector leaders have pulled off an incredible feet afghanistan 583.7 589
+RecognizedString they have aggressively increased access to healthcare for the majority the population 589 595
+RecognizedString they are rapidly improving the hell status of the akon population with used to be the worst in the world 595 601.1
+RecognizedString and fat napkin ministry of health does things that i was we doing america these things like data to make policy of incredible 601.1 611.9
+RecognizedString you have a concerning here a lot about is made of can afford it we just we just had the money it's just 611.9 616.9
+RecognizedString i'm just annabelle 616.9 619.1
+RecognizedString it's a michio that the current situation and a current system we have is the most expensive inefficient systemic possibly can siva 619.1 627.7
+RecognizedString the current situation is that when governments like the u s 627.7 631.3
+RecognizedString and when the worries over i got permission unbelievably for my medical school 55.4 60.9
+RecognizedString you are a latte the collection of government makeup european commission every year bay spent fifteen billion dollars on just humanity aryan emergency and disaster relief worldwide 631.3 641.8
+RecognizedString guess nothing about foreign a that's just disaster relief 641.8 645.7
+RecognizedString ninety five percent of that goes to international relief agencies 645.7 650.8
+RecognizedString that then have to import resources into these areas in it together sometime of temporary health system let 650.8 658.6
+RecognizedString say and then what stay dismantle and send away when they renata money 658.6 663.9
+RecognizedString so i job the turns out is very clear 663.9 668.8
+RecognizedString we as the global health community policy experts 668.8 673.6
+RecognizedString are first job is we need become experts 673.6 677.1
+RecognizedString and what and how to monitor the strings and von abilities of health systems in threatened situations 677.1 683.8
+RecognizedString ok a math when we see doctors liang when we see 683.8 687.2
+RecognizedString take some time off an follow some other families that i'd befriended in camp back to there village in kosovo 60.9 68.8
+RecognizedString health resources drying up when we see institutions grumbling that's the emergency that's when we need to sammy alarm in weber arms 687.2 695.5
+RecognizedString k not now comfy that's an emergency tell him out 695.5 701.5
+RecognizedString my number two 701.5 704.7
+RecognizedString places like where i work at harvard need to take your q from the world bank experience in afghanistan and we need and we will bill robust 704.7 713.8
+RecognizedString platforms to support how sector liters like these 713.8 716.9
+RecognizedString ok these people rest there lives i think we can master courage with some support 716.9 723.9
+RecognizedString number three we need to reach out and make me partner shops 723.9 727.9
+RecognizedString at our global health center we have lunch new initiative with nato another security policy makers to explorer fam what can bay do to protect 727.9 737.7
+RecognizedString health system institutions during deployment 737.7 740.9
+RecognizedString we want them to see that protecting health systems and other critical social institutions 740.9 747.3
+RecognizedString understand how they navigated life in this post were setting 68.8 76
+RecognizedString is a integral part of there mission it's not just about avoiding collateral damage it's about winning the peace 747.3 755.6
+RecognizedString but the most important partner we need to engage is you heavy american public 755.6 761.8
+RecognizedString energy the world public because unless you 761.8 765.7
+RecognizedString understand the value of social institutions like hell systems in these fragile settings 765.7 772.3
+RecognizedString you won't support efforts to save them you won't work on that article 772.3 777.6
+RecognizedString that talks about hey does doctors are on the run country x i wonder what that means 777.6 784.9
+RecognizedString i wonder what that means for that health systems ability to let's say detect influenza 784.9 791.5
+RecognizedString spell when i got it 791.5 793.5
+RecognizedString let's read tire shop on the screen up i've put out my three favorite american institution defenders and builders 793.5 803.6
+RecognizedString ever here is george the marshall 803.6 806.5
+RecognizedString so post work roosevelt was a very interesting place because nato troops where they are 76 82.6
+RecognizedString he was the guy that propose the marshall plan to save all of your ups economic institutions after world war two 806.5 814
+RecognizedString and this is the eleanor roosevelt her work on human rights really services foundation for oliver international 814 821.1
+RecognizedString human rights organizations 821.1 823.2
+RecognizedString then my big favourite is ben franklin who did many things and terms a creating institution that was the midwife of our constitution 823.2 832
+RecognizedString i don't feel you that these are folks that when our country was threatened or i worldwide threatened 832 839.7
+RecognizedString they didn't retreat didn't talk about building walls 839.7 843.3
+RecognizedString they talk about building institutions for to protect human security 843.3 849.5
+RecognizedString for there generation and also for hours 849.5 852.8
+RecognizedString and i think are generation chiddy the same 852.8 856.2
+RecognizedString thank you 856.2 863.6
+RecognizedString mostly to make sure that the word in break out again 82.6 86.3
+RecognizedString 863.6 865.7
+RecognizedString 865.7 870
+RecognizedString but other than that it was actually a lawless place and almost every social institution bus public and private had been destroyed 86.3 95.3
+RecognizedString so i can tell you 95.3 99
+RecognizedString that's when you going to one of these situations and settings it is absolutely thrilling 99 107.6
+RecognizedString for about thirty minutes because that's about how long it takes before you run into a situation 107.6 113.7
+RecognizedString where you realize how incredibly vulnerable you are 113.7 118.9
+RecognizedString 2.2 9.2
+RecognizedString for me that mama came when i had across the first checkpoint 118.9 123.2
+RecognizedString and i realize that as i drove app that i would be negotiating passage 123.2 128.1
+RecognizedString through this checkpoint with a heavenly armed individual who matthew decided to shoot me right then and they're he actually wouldn't be doing anything illegal 128.1 137.7
+RecognizedString but the since a boner bility that i had was absolutely nothing 137.7 143.6
+RecognizedString in comparison to the boner bility of the families that i got to go over that year 143.6 149.2
+RecognizedString you see live in a society where there are no social institutions 149.2 154.3
+RecognizedString is riddles with danger and uncertainty in simple questions like what are we gonna eat tonight 154.3 161.6
+RecognizedString are very complicated to answer 161.6 165.8
+RecognizedString questions about security when you don't have any security systems are terrifying 165.8 172.2
+RecognizedString the alter cation i have a fat neighbor down the block and turn into a violent episode them and my life from my family's life 172.2 179.7
+RecognizedString so you ever wondered what a be like to live in a place 9.2 17.3
+RecognizedString health concerns when there is no hell system for also terrifying 179.7 184.9
+RecognizedString i listened as many families head to sort through questions like my infant has a fever what am i gonna do 184.9 191.9
+RecognizedString my sister who is pregnant is bleeding 191.9 194.7
+RecognizedString what should i do you should i turn to where are the doctors where are the nurses if i could find one are they trustworthy 194.7 202
+RecognizedString how i pay them in what currency will i pay them if i need medications where will i find them 202 208.5
+RecognizedString if i take his medications are the actually counterfeit in on and on 208.5 214.2
+RecognizedString so life in the settings the dominick's deam the damn it feature of life 214.2 221.3
+RecognizedString is the incredible varner ability 221.3 224.1
+RecognizedString that people have to manage day anand day out because of the lack of social systems in actually turns out that this feature of life 224.1 232.7
+RecognizedString isn't it ugly difficult to explain and be understood by people who living outside of it 232.7 238.5
+RecognizedString what no rules 17.3 19.4
+RecognizedString so i discovered this 238.5 242.2
+RecognizedString when i left kosovo i came back to boston i became a physician i became a global public health policy researcher 242.2 250.8
+RecognizedString i join the harvard medical school and brigham and women's hospital division of global house 250.8 255.2
+RecognizedString and i ever recent you're really want to get surnames prom right away like how do we reduce the crushing boner bolivia people 255.2 263.9
+RecognizedString living in these types of fragile settings 263.9 266.8
+RecognizedString is there any way that we can start to think about how to protect and quickly recover 266.8 272.2
+RecognizedString the institutions that are critical to survival like the hell system and i have to say i have amazing colleagues ok 272.2 280.3
+RecognizedString but when interesting thing about it was that this was sort of unusual question for them 280.3 284.7
+RecognizedString you can i have a interview workin worry does that mean you 284.7 288
+RecognizedString where can refugee can center of a work on document in math atrocity is witches by the way very very very important 288 294.9
+RecognizedString call wake up when morning however and your scary that reason learner rolls is because there's no government 19.4 27.3
+RecognizedString don't be a while for explain why orissa passionate about this issue 294.9 300.3
+RecognizedString i'm tell about six years ago and that's when this landmark study but looked at and describe the public health consequences of war with published 300.3 309.4
+RecognizedString and they came to a incredible provocative conclusion 309.4 315.4
+RecognizedString these researchers concluded that the best majority of death and disability from war 315.4 321.7
+RecognizedString happens after this association of conflict 321.7 324.4
+RecognizedString cinemas dangerous time to be a person living in a conflict affected state 324.4 329.4
+RecognizedString is after the for faizan of hostility is it 329.4 331.9
+RecognizedString after the p steel has been signed is we met political solution has been received that seems so puzzle ing but of course its not 331.9 339.7
+RecognizedString because war kills people 339.7 342.9
+RecognizedString by robbing them other clinics 342.9 345.5
+RecognizedString an vernon was in fat all social institutions have disappeared 27.3 34.3
+RecognizedString under hospitals of there's apply james 345.5 348.6
+RecognizedString there doctors are targeted are killed are on run and more invisible and yet more deadly 348.6 355.2
+RecognizedString is the destruction of the health governance institutions enter finances 355.2 360.4
+RecognizedString so this is really not surprising at all to me 360.4 364.8
+RecognizedString but what is surprising n somewhat does man is how little impact 364.8 370.2
+RecognizedString this insight has had in terms of how we think about human suffering and more 370.2 376.4
+RecognizedString i media couple examples 376.4 378.7
+RecognizedString last year you may remember that ebola hit the west african country of liberia 378.7 385.8
+RecognizedString and there's a lot of reporting about this group doctors without borders sounding the alarm in calling for aiden assistance 385.8 393.2
+RecognizedString but not a lot of that reporting answer the question 393.2 397.1
+RecognizedString so there's no schools is no hospitals there's no police there's no banks 34.3 39.9
+RecognizedString why is doctors web what does evening liberia there's a borders is an amazing organization dedicated in designed to providing emergency care in war zones 397.1 407.1
+RecognizedString liberia civil war had ended in two thousand three that was eleven years before ebola even struck 407.1 413.9
+RecognizedString when ebola struck liberia 413.9 416.2
+RecognizedString you're an less than fifty doctors in the entire country of for point five million people 416.2 422.1
+RecognizedString doctors appointment in liberia becca's liberia still doesn't really help functioning health system eleven years later 422.1 429.6
+RecognizedString when the earthquake head haiti in two thousand and ten the out pouring of international aid was phenomenal 429.6 436.6
+RecognizedString what did you know that only to percent of that funding 436.6 440.3
+RecognizedString when's the rebuild haitian public institutions including it's health center 440.3 445.5
+RecognizedString from that perspective haitian continue to die from the earth quake even today 445.5 451.1
+RecognizedString i recently met this gentleman as is dr nazir is met is a minister of health in the northern autonomous region iraq and kurdistan 451.1 460.8
+RecognizedString there's no athletic clubs disney titties while i know a little bit about what this is like 39.9 47.7
+RecognizedString here he is announcing met the last nine months 460.8 465
+RecognizedString his country is region has increased reform million people to five million people 465 470.6
+RecognizedString that's a twenty five percent increase thousands of is new arrivals have experience incredible trauma 470.6 476.7
+RecognizedString he's doctors are working sixty nowadays without pie 476.7 482.1
+RecognizedString he's budget has not increased by twenty five percent it has decreased by twenty percent as funding has load to security confirm 482.1 490.9
+RecognizedString an too short term relief efforts 490.9 493.1
+RecognizedString when he's hell sector fails enough history is any guided will 493.1 497.6
+RecognizedString how do you think i'm influence the decision making of the five million people 497.6 502.2
+RecognizedString in his region as they think about whether they should lee that type of hon living situation 502.2 509.4
+RecognizedString so you can see this is a for screen topic for me and i really try to understand why the reluctant 509.4 515.9
+RecognizedString because when i was america's president in nineteen ninety nine i worked into refugee camp 47.7 52.7
+RecognizedString to protect in support indigenous health systems an security systems 515.9 521.1
+RecognizedString play usually tier two concerns to arguments 521.1 524.5
+RecognizedString the first concern is about corruption emma concern people in the settings are correct and they are and trustworthy 524.5 531.8
+RecognizedString and i will admit that i have met on favorite character is working in hell sectors any situations but i will tell you that the opposite 531.8 539.7
+RecognizedString it's absolutely true and every case i've worked on 539.7 543.2
+RecognizedString from afghanistan to libya to coast voda haiti liberia i've met inspiring people who won the chips were down for there country 543.2 551.8
+RecognizedString favorites to everything to save there health institutions 551.8 555
+RecognizedString the track for the outsider wants to hell 555 558.4
+RecognizedString is identifying you those individuals are and building a pathway for them to lead and that is exactly what happened in afghanistan 558.4 567.3
+RecognizedString whenever i'm song and untold stories of our nation building effort in afghanistan 567.3 573.7
+RecognizedString and the balkan during the civil war 52.7 55.4

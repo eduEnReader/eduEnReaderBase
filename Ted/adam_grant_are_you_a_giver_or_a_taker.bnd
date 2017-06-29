@@ -1,0 +1,267 @@
+title 
+textStore adam_grant_are_you_a_giver_or_a_taker.html
+MD5TextStore MD5
+soundStore adam_grant_are_you_a_giver_or_a_taker.mp4
+MD5SoundStore MD5
+Bind 5 122 9.2 17.6
+Bind 122 319 17.6 28.5
+Bind 319 363 28.5 31.2
+Bind 363 488 31.2 38.5
+Bind 488 610 38.5 44.9
+Bind 610 769 44.9 52.5
+Bind 769 1084 52.5 69.8
+Bind 1084 1297 69.8 80.5
+Bind 1297 1396 80.5 85.6
+Bind 1396 1486 85.6 92
+Bind 1486 1716 92 101.8
+Bind 1716 1791 101.8 105.7
+Bind 1791 1903 105.7 110.7
+Bind 1903 2114 110.7 122.4
+Bind 2114 2252 122.4 130.1
+Bind 2252 2359 130.1 140.7
+Bind 2359 2419 140.7 144.4
+Bind 2419 2635 144.4 154.3
+Bind 2635 2910 154.3 168.8
+Bind 2910 2961 168.8 173.3
+Bind 2961 3215 173.3 185.1
+Bind 3215 3354 185.1 191.9
+Bind 3354 3483 191.9 197.9
+Bind 3483 3533 197.9 202.2
+Bind 3533 3570 202.2 205.9
+Bind 3570 3673 205.9 211.6
+Bind 3673 3707 211.6 214.8
+Bind 3707 3792 214.8 220.7
+Bind 3792 3904 220.7 224.7
+Bind 3904 4178 224.7 239.8
+Bind 4178 4298 239.8 245.9
+Bind 4298 4376 245.9 250.8
+Bind 4376 4487 250.8 257.5
+Bind 4487 4537 257.5 259.6
+Bind 4537 4779 259.6 272.7
+Bind 4779 5003 272.7 283.6
+Bind 5003 5106 283.6 290.4
+Bind 5106 5220 290.4 295.3
+Bind 5220 5371 295.3 302.1
+Bind 5371 5555 302.1 311.9
+Bind 5555 5648 311.9 316.7
+Bind 5648 5878 316.7 329
+Bind 5878 6022 329 335.9
+Bind 6022 6068 335.9 338.8
+Bind 6068 6144 338.8 343.3
+Bind 6144 6217 343.3 349
+Bind 6217 6367 349 356.7
+Bind 6367 6517 356.7 364.8
+Bind 6517 6624 364.8 368.9
+Bind 6624 6695 368.9 372.3
+Bind 6695 6848 372.3 381.6
+Bind 6848 6981 381.6 387.7
+Bind 6981 7129 387.7 395.8
+Bind 7129 7277 395.8 402.6
+Bind 7277 7362 402.6 408.3
+Bind 7362 7479 408.3 413.4
+Bind 7479 7557 413.4 417
+Bind 7557 7640 417 421
+Bind 7640 7813 421 429.8
+Bind 7813 7956 429.8 437.6
+Bind 7956 8052 437.6 442.2
+Bind 8052 8096 442.2 444.9
+Bind 8096 8225 444.9 451.3
+Bind 8225 8358 451.3 457.8
+Bind 8358 8541 457.8 466.8
+Bind 8541 8686 466.8 473.8
+Bind 8686 8777 473.8 479.3
+Bind 8777 8846 479.3 483.4
+Bind 8846 8955 483.4 489
+Bind 8955 9059 489 495
+Bind 9059 9111 495 497.1
+Bind 9111 9140 497.1 500.9
+Bind 9140 9232 500.9 506.3
+Bind 9232 9467 506.3 518.8
+Bind 9467 9592 518.8 526.8
+Bind 9592 9743 526.8 533.2
+Bind 9743 9809 533.2 536.6
+Bind 9809 9859 536.6 540.5
+Bind 9859 9936 540.5 545.1
+Bind 9936 9997 545.1 547.5
+Bind 9997 10335 547.5 566.6
+Bind 10335 10421 566.6 570.2
+Bind 10421 10565 570.2 576.2
+Bind 10565 10655 576.2 585.2
+Bind 10655 10771 585.2 592.1
+Bind 10771 10869 592.1 597.5
+Bind 10869 10941 597.5 600.1
+Bind 10941 11202 600.1 613.6
+Bind 11202 11322 613.6 619.6
+Bind 11322 11448 619.6 624.9
+Bind 11448 11616 624.9 637.4
+Bind 11616 11671 637.4 643.4
+Bind 11671 11802 643.4 651.5
+Bind 11802 11924 651.5 659
+Bind 11924 12016 659 664.1
+Bind 12016 12097 664.1 668.7
+Bind 12097 12212 668.7 676.1
+Bind 12212 12368 676.1 683.4
+Bind 12368 12480 683.4 688.5
+Bind 12480 12553 688.5 693.1
+Bind 12553 12657 693.1 699.5
+Bind 12657 12766 699.5 704.2
+Bind 12766 12833 704.2 709.6
+Bind 12833 12947 709.6 715.8
+Bind 12947 13095 715.8 724.7
+Bind 13095 13168 724.7 728
+Bind 13168 13374 728 737.9
+Bind 13374 13468 737.9 743.2
+Bind 13468 13523 743.2 746.4
+Bind 13523 13681 746.4 754.6
+Bind 13681 13815 754.6 761.8
+Bind 13815 13902 761.8 766.5
+Bind 13902 14013 766.5 773.9
+Bind 14013 14132 773.9 779.1
+Bind 14132 14170 779.1 785.3
+Bind 14170 14225 785.3 789.4
+Bind 14225 14295 789.4 795.1
+Bind 14295 14405 795.1 800.4
+RecognizedString yes 0 2.2
+RecognizedString where 556.7 559.9
+RecognizedString 559.9 566.6
+RecognizedString another the winning entry was going to be is canadian is maple syrup ice hockey 566.6 570.2
+RecognizedString but now canadiens voted for there new national flow going to be a kid you not at canadian as possible 570.2 576.2
+RecognizedString under the circumstances now for those if your highly agreeable or maybe slightly canadian 576.2 585.2
+RecognizedString you get fifth right away how could i ever sam anyone thing when constantly adopting to try to please other people 585.2 592.1
+RecognizedString does agreeable people do less of at the more critical skeptical challenging ann 592.1 597.5
+RecognizedString for more likely there peers to go to losses 597.5 600.1
+RecognizedString that's not a joke at actually empirical fat so i was a fin that agreeable people were gilbertson just agreeable people are takers 600.1 609.5
+RecognizedString but then i gotta did i know it's undefined no correlation between their straights 609.5 613.6
+RecognizedString 58.7 62
+RecognizedString he has it turns out that agreeable nice disagree molester outer veneer how pleasant it to interact with you 613.6 619.6
+RecognizedString where is getting and taking your more of your inner motives what are your values what your intentions toward others 619.6 624.9
+RecognizedString if you really wanted judge people accurately you have to get to the moment that every consultant in the room is waiting for and draw two by two 624.9 632
+RecognizedString 632 637.4
+RecognizedString the agreeable give a easy to spot they say yes to everything 637.4 643.4
+RecognizedString did this agreeable takers are also recognize quickly although you mike call them by a slightly different name 643.4 651.5
+RecognizedString we forget about the other to combination there are this agreeable diverse in are organizations 651.5 659
+RecognizedString there people who griffin tough on the surface but underneath have others best interested heart 659 664.1
+RecognizedString or as an engineer put at ode disagree but keepers like somebody with the 664.1 668.7
+RecognizedString bad user interface but i great operating system if if that helps here 668.7 676.1
+RecognizedString 62 69.8
+RecognizedString disagree about everson most under value people in are organizations because they're the once you get the critical feedback that no one wants to hear 676.1 683.4
+RecognizedString but everyone needs to here we need to do a much better job value english people as opposed to writing them off 683.4 688.5
+RecognizedString early and sing a kinda prickly must be a selfish taker 688.5 693.1
+RecognizedString the other combination we forget about the deadly won the agreeable taker also known as the faker 693.1 699.5
+RecognizedString this is a person is nice your face and then will stab you right in the back 699.5 704.2
+RecognizedString and my favorite way to catch these people any interview process 704.2 709.6
+RecognizedString is to ask the question can you give me the names of for people who's careers you have fundamentally improved 709.6 715.8
+RecognizedString and the takers will give you for names and they will all be more influential the because takers are great at kissing up and then kicking doubt 715.8 724.7
+RecognizedString give me some more likely to name people where below them in a hierarchy 724.7 728
+RecognizedString who don't have as much power who can do them now good and what fifth at your now you can learn a lot about character by watching how someone treat the restaurant server or uber driver 728 737.9
+RecognizedString this is the only thing i will say today that has no data behind it but 69.8 74.4
+RecognizedString so if we do all this well if we can we takers out of organizations if we can make it safe 737.9 743.2
+RecognizedString to ask for help if we can protective hours from burnout 743.2 746.4
+RecognizedString and make it ok for them to be ambitious in pursuing their own goals as well a trying to help other people we can actually change the way the people define success 746.4 754.6
+RecognizedString instead of saying it's all about winning a contract a competition people realize success is really more about contribution 754.6 761.8
+RecognizedString i believe it the most meaningful way to succeed is to help other people succeed 761.8 766.5
+RecognizedString if we can spread that belief we can actually turn paranoia upside down there's a name for that it's called pro noir 766.5 773.9
+RecognizedString pro noida is the delusional believe that other people applaud in your well beings 773.9 779.1
+RecognizedString better going around behind your back 779.1 785.3
+RecognizedString i'm saying exceptionally glowing things about you 785.3 789.4
+RecognizedString emily griefing about a culture of divers is that's not a delusion it's reality 789.4 795.1
+RecognizedString i'm convince longer take your laughing is cartoon the more worried me to be that you're a take it 74.4 80.5
+RecognizedString look i want to live in a world where giver succeed and i hope you will help me create that worlds 795.1 800.4
+RecognizedString thank you 800.4 809.9
+RecognizedString 809.9 812.2
+RecognizedString 812.2 816
+RecognizedString of course not all takers are narcissist summer just give us who got burned one too many times 80.5 85.6
+RecognizedString and there's another kind of taker that we won't be addressing today and that's coldest psychopath 85.6 92
+RecognizedString i've curious the about how common music streams are and so i stayed over thirty thousand people across industry is around the world's cultures and i found the most people are right in the middle 92 101.8
+RecognizedString between giving and taking they choose the third dial caden matching 101.8 105.7
+RecognizedString if you're a matter you try to keep an even balance of given take quid pro quo i'll do something for you 105.7 110.7
+RecognizedString if you do something for me and i'll seems like a safeway to live your life what is the most effective and productive way to live your life 110.7 117.8
+RecognizedString 2.2 9.2
+RecognizedString the answer the questions a very definitive 117.8 120.4
+RecognizedString maybe 120.4 122.4
+RecognizedString nah i studied doesn't organizations thousands of people i had engineers measuring there productivity 122.4 130.1
+RecognizedString i look good medical students grades 130.1 135.3
+RecognizedString even phil peoples revenue 135.3 137.8
+RecognizedString n unexpectedly 137.8 140.7
+RecognizedString the worst performers in each views jobs were the give hours 140.7 144.4
+RecognizedString the engineers who got a lease work done with once you didn't more favorite and they got back there were so busy doing other people's jobs the literally ran at a time and energy get there on where completed 144.4 154.3
+RecognizedString in medical school the lowest grades belong in a few to remote strongly with statement like i love helping 154.3 161.5
+RecognizedString others which suggested are toyota trash can meds growth no desire help 161.5 166.6
+RecognizedString i want you to look around the rim for a minute and try to find the most paranoid person here 9.2 17.6
+RecognizedString anybody 166.6 168.8
+RecognizedString nfl few the lowest revenue accrued in the most generous salespeople 168.8 173.3
+RecognizedString and i actually reach out to one of those sales people who had a very high giver score and ask him 173.3 178.5
+RecognizedString why do you suck at your to add and after that but what's the cost of generosity in sales 178.5 185.1
+RecognizedString any sad well i just care so deeply about my customers that i would never saw them one of crappy products 185.1 191.9
+RecognizedString could you thought of curiosity how many of yourself identify more is giver than takers are matters raise your hands 191.9 197.9
+RecognizedString kevin more before we talked about these data 197.9 202.2
+RecognizedString but actually it turns out there's a twist here 202.2 205.9
+RecognizedString because giver is are often sacrifice in themselves but they make the organizations better 205.9 211.6
+RecognizedString we have a huge body of evidence 211.6 214.8
+RecognizedString and then i want you to point a person for me 17.6 21.1
+RecognizedString many many studies looking at the frequency of giving behavior that exists in a team organization 214.8 220.7
+RecognizedString and the more often people are helping ensuring there knowledge and providing mentor 220.7 224.7
+RecognizedString the better organizations you and every metric lynn measure hire prophets customer satisfaction employer attention even lower operating expenses 224.7 233.1
+RecognizedString so how given a lotta time trying to help other people improve atm fortunately they suffer along the way 233.1 239.8
+RecognizedString and i want to talk about would it take to build cultures where give urs actually get to succeed so 239.8 245.9
+RecognizedString i wonder drivers of the worst performers who are the best performers 245.9 250.8
+RecognizedString and the mr the good news it's not the takers pickers tender rise quickly but also fall quickly and most jobs 250.8 257.5
+RecognizedString and they for banda matters 257.5 259.6
+RecognizedString you're a matter you believe in an eye for and i adjust world and so when you me to take her you feel like intermission life to punish the hell out of that person 259.6 269.4
+RecognizedString an hour justice get served what 269.4 272.7
+RecognizedString 21.1 28.5
+RecognizedString most people are matters than that means if you're a taker attends to catch up with you eventually what goes around will come or not 272.7 278.9
+RecognizedString 278.9 283.6
+RecognizedString but they're not in every job in every organization ever study the best results belong to beginners again 283.6 290.4
+RecognizedString to take a look at them data than a gathered from hundreds of salespeople tracking the revenue 290.4 295.3
+RecognizedString where you can see that beginners go to both streams they make up the majority the people bringing the lowest revenue but also the highest revenue 295.3 302.1
+RecognizedString and the same patterns richer for engineers productivity and medical students grades giver upper over represented at the bottom and the top of every success metric that i can track 302.1 311.9
+RecognizedString which raise the question how do we create a world where more these rivers get to xl 311.9 316.7
+RecognizedString i wanna talk about how to do that not justin businesses but also a non profit schools even governments a ready 316.7 323.9
+RecognizedString i'll get dude anyway but i appreciate it is as a 323.9 329
+RecognizedString the first thing with really credit card is recognize the give erza your most valuable people but if they're not careful they burnout 329 335.9
+RecognizedString and i find paranoia everywhere 28.5 31.2
+RecognizedString do you have to protect diverse in your met 335.9 338.8
+RecognizedString and i learned a great lesson about this from fortunes best network are 338.8 343.3
+RecognizedString if the guy not a cat his name is adam rafting 343.3 349
+RecognizedString it's a very successful serial entrepreneur spencer huge amount of time helping other people any secret weapon is five minute favor 349 356.7
+RecognizedString adams about you don't have to be mother teresa are gandhi to be a giver he just after find small ways add large value to other people's lives 356.7 364.8
+RecognizedString and i could you simple is making introduction between two people who could benefit from knowing each other 364.8 368.9
+RecognizedString it could be sharing your knowledge or giving a little bit of feedback 368.9 372.3
+RecognizedString or it might be even something is basic saying you know i'm going to try to figure out if i can recognize somebody's work was gone unnoticed 372.3 381.6
+RecognizedString and those five minute favors a really critical to helping diverse at boundaries and protect themselves 381.6 387.7
+RecognizedString and thirty minute matters if you wanna build a culture giver sick fetus you actually do culture were help seeking is the norm where people ask a lot 387.7 395.8
+RecognizedString paranoia caused by people that i call takers takers urself serving in there interactions it's all about what can you do for me 31.2 38.5
+RecognizedString let me hit a little too close to home for some of you 395.8 399.3
+RecognizedString 399.3 402.6
+RecognizedString what you see what successful diverse is day recognized at it ok to be a receiver to 402.6 408.3
+RecognizedString and if you're running organization we can actually make this easier we can make it easier for people ask for help 408.3 413.4
+RecognizedString couple colleagues and i studied hospitals and we found uncertain floors 413.4 417
+RecognizedString nurses did a lot of help sticking and another for they did very little evett 417 421
+RecognizedString and a factor this shit out on the first where help sticking with comment where was the norm was there it's just one nurse who sold job at was to help other nurses on the unit 421 429.8
+RecognizedString and when i was available nurses said out if i'm bear thing its not vulnerable asked for help it actually incorrect 429.8 437.6
+RecognizedString the help thinking of important just for protecting success and the well being of divers 437.6 442.2
+RecognizedString it's also critically getting more people applications 442.2 444.9
+RecognizedString the opposite is a giver it somebody who approaches motor actions by asking what can i do for you 38.5 44.9
+RecognizedString because i didn't say that summer between seventy five ninety percent of all giving in organization starts with a request 444.9 451.3
+RecognizedString but all people on ask they don't wanna lick incompetent they don't know where to turn they don't wanna burden others 451.3 457.8
+RecognizedString and yet if nobody ever after help yellow other frustrated gibson york has ation who would love to step up in contribute if they only new who could benefit and how 457.8 466.8
+RecognizedString but i think the most important fake if you wanna build a culture of successful gamers history thoughtful about who you're on your tim 466.8 473.8
+RecognizedString i figured you wanna culture productive generosity you should hire a bunch of diverse 473.8 479.3
+RecognizedString but i will surprise to discover actually that that was not right 479.3 483.4
+RecognizedString that the negative impact of at taker on a culture is usually double triple deposit interactive giver 483.4 489
+RecognizedString think about it this way one about apple consuela barrel but one good ed just of not make a dozen 489 495
+RecognizedString i don't know that means 495 497.1
+RecognizedString but i hope you dear no 497.1 500.9
+RecognizedString how are you chesapeake about your own style we all have moments of giving and taking it i was just how you tree most the people most the time 44.9 52.5
+RecognizedString let even one taker in few at theme and you will fit the diverse will stop helping 500.9 506.3
+RecognizedString no sam surrounded by bunch of snakes in sharks why should i can trivia 506.3 510.7
+RecognizedString where's if you let one different do a team ya can explosive of generosity more often bieber leg credit pepper thing to do all i work 510.7 518.8
+RecognizedString the effective hiring in screening and tim building is not about burning in the diverse it's about reading out the takers 518.8 526.8
+RecognizedString if you can do that well you'll be left with gilbertson matters the giver lobby generous because they don't have to worry about the consequences 526.8 533.2
+RecognizedString and a beauty of the matters is that they follow the norm 533.2 536.6
+RecognizedString how do you catch a take right before it's too late 536.6 540.5
+RecognizedString were actually pretty bad at figuring out who's a taker special and first impressions 540.5 545.1
+RecognizedString and there's a personality trait that process off 545.1 547.5
+RecognizedString called agreeable ness when the major dimension the personality across cultures agreeable people are warm and friendly they're nice there polite you find a lot of them in canada 547.5 556.7
+RecognizedString your default triva short test that you can take to figure out if you're more of a giver or a taker and you can take it right now 52.5 58.7

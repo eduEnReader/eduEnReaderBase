@@ -1,0 +1,322 @@
+title 
+textStore PeterWeinstock_2016X-480p.html
+MD5TextStore MD5
+soundStore PeterWeinstock_2016X-480p.mp4
+MD5SoundStore MD5
+Bind 46 100 16.4 20.9
+Bind 100 193 20.9 29.7
+Bind 193 256 29.7 35.8
+Bind 256 354 35.8 41.9
+Bind 354 395 41.9 45.5
+Bind 395 577 45.5 60.3
+Bind 577 854 60.3 79
+Bind 854 878 79 81.4
+Bind 878 1001 81.4 87.6
+Bind 1001 1146 87.6 95.9
+Bind 1146 1170 95.9 98.6
+Bind 1170 1209 98.6 100.8
+Bind 1209 1328 100.8 107.7
+Bind 1328 1493 107.7 113.3
+Bind 1493 1534 113.3 115.9
+Bind 1534 1615 115.9 121
+Bind 1615 1666 121 125.2
+Bind 1666 1777 125.2 130.9
+Bind 1777 1855 130.9 135.1
+Bind 1855 1961 135.1 141.1
+Bind 1961 2035 141.1 145.9
+Bind 2035 2222 145.9 159.6
+Bind 2222 2365 159.6 167.9
+Bind 2365 2439 167.9 172
+Bind 2439 2573 172 183
+Bind 2573 2642 183 188.5
+Bind 2642 2743 188.5 194.8
+Bind 2743 2780 194.8 198.9
+Bind 2780 2954 198.9 209.8
+Bind 2954 2995 209.8 215.6
+Bind 2995 3021 215.6 217.8
+Bind 3021 3104 217.8 222.7
+Bind 3104 3194 222.7 228.8
+Bind 3194 3303 228.8 236.9
+Bind 3303 3374 236.9 242
+Bind 3374 3477 242 250.6
+Bind 3477 3522 250.6 257.7
+Bind 3522 3557 257.7 261.2
+Bind 3557 3658 261.2 268.9
+Bind 3658 3733 268.9 275.1
+Bind 3733 3863 275.1 282.4
+Bind 3863 3988 282.4 291.8
+Bind 3988 4032 291.8 295.7
+Bind 4032 4150 295.7 304.7
+Bind 4150 4235 304.7 309.6
+Bind 4235 4453 309.6 325.4
+Bind 4453 4577 325.4 333.5
+Bind 4577 4672 333.5 342.2
+Bind 4672 4879 342.2 353.2
+Bind 4879 4920 353.2 356.2
+Bind 4920 5025 356.2 361.4
+Bind 5025 5130 361.4 367.5
+Bind 5130 5267 367.5 375.8
+Bind 5267 5321 375.8 380.2
+Bind 5321 5416 380.2 386.1
+Bind 5416 5484 386.1 391.3
+Bind 5484 5590 391.3 399.4
+Bind 5590 5648 399.4 403.5
+Bind 5648 5714 403.5 409.1
+Bind 5714 5830 409.1 415.8
+Bind 5830 5941 415.8 422.2
+Bind 5941 6134 422.2 436.1
+Bind 6134 6395 436.1 452.3
+Bind 6395 6516 452.3 458.9
+Bind 6516 6632 458.9 466.1
+Bind 6632 6733 466.1 472.8
+Bind 6733 6761 472.8 475.6
+Bind 6761 6950 475.6 490.7
+Bind 6950 7043 490.7 495.7
+Bind 7043 7163 495.7 503.7
+Bind 7163 7203 503.7 507.1
+Bind 7203 7279 507.1 511.9
+Bind 7279 7334 511.9 518.2
+Bind 7334 7487 518.2 527.4
+Bind 7487 7547 527.4 530.5
+Bind 7547 7674 530.5 540.6
+Bind 7674 7713 540.6 543.1
+Bind 7713 7778 543.1 547.5
+Bind 7778 8018 547.5 562.7
+Bind 8018 8202 562.7 577.4
+Bind 8202 8286 577.4 583.8
+Bind 8286 8471 583.8 593.9
+Bind 8471 8507 593.9 598.3
+Bind 8507 8588 598.3 603.4
+Bind 8588 8652 603.4 608.6
+Bind 8652 8785 608.6 617.9
+Bind 8785 8816 617.9 620.1
+Bind 8816 8897 620.1 627.2
+Bind 8897 8944 627.2 630.5
+Bind 8944 8997 630.5 636.7
+Bind 8997 9098 636.7 643
+Bind 9098 9219 643 650.8
+Bind 9219 9265 650.8 654.5
+Bind 9265 9439 654.5 665.9
+Bind 9439 9464 665.9 668.4
+Bind 9464 9526 668.4 674.3
+Bind 9526 9642 674.3 683.3
+Bind 9642 9737 683.3 689.8
+Bind 9737 9819 689.8 695.3
+Bind 9819 9844 695.3 698.8
+Bind 9844 10021 698.8 710.6
+Bind 10021 10171 710.6 719
+Bind 10171 10275 719 725.5
+Bind 10275 10420 725.5 737.5
+Bind 10420 10588 737.5 750.9
+Bind 10588 10672 750.9 758
+Bind 10672 10748 758 763.3
+Bind 10748 10859 763.3 770.6
+Bind 10859 10958 770.6 776.1
+Bind 10958 11052 776.1 784.6
+Bind 11052 11125 784.6 791.5
+Bind 11125 11170 791.5 795.2
+Bind 11170 11241 795.2 799.1
+Bind 11241 11380 799.1 805.6
+Bind 11380 11467 805.6 813.6
+Bind 11467 11562 813.6 818.7
+Bind 11562 11658 818.7 825.2
+Bind 11658 11695 825.2 828.2
+Bind 11695 11823 828.2 838
+Bind 11823 11941 838 845.9
+Bind 11941 12062 845.9 851.9
+Bind 12062 12095 851.9 854.9
+Bind 12095 12681 854.9 890.3
+Bind 12681 12843 890.3 901.4
+Bind 12843 13003 901.4 910.5
+Bind 13003 13038 910.5 913.4
+Bind 13038 13150 913.4 922.7
+Bind 13150 13234 922.7 927.7
+Bind 13234 13345 927.7 934.6
+Bind 13345 13427 934.6 940.3
+Bind 13427 13544 940.3 946.8
+Bind 13544 13669 946.8 957.1
+Bind 13669 13725 957.1 963.6
+Bind 13725 13869 963.6 975
+Bind 13869 14035 975 989.4
+Bind 14035 14127 989.4 994.9
+Bind 14127 14234 994.9 1003.8
+RecognizedString yes 0 2.2
+RecognizedString and what surgeons do is a sticker scope into the pepper and they do what is called a feedback to me 562.7 568.8
+RecognizedString they use this scope to remove feeds 568.8 574.5
+RecognizedString using a little tweeter 574.5 577.4
+RecognizedString and that is a way to get under there belts the rudimental three components doing this surgery 577.4 583.8
+RecognizedString and then they had right into the apprenticeship model seeing many of them as they present themselves then doing it and then teaching it waiting for these patience to arrive 583.8 593.9
+RecognizedString we can do a lot better we are manufacturing 593.9 598.3
+RecognizedString re productions of children in order for surgeons in surgical teams 598.3 603.4
+RecognizedString to rehearse in the most relevant possible ways enemy show you this 603.4 608.6
+RecognizedString so here's my team in what's called the sim engineering division of the simulator program 608.6 615
+RecognizedString this is an amazing team individuals 615 617.9
+RecognizedString is lifelike rehearsal 56.8 60.3
+RecognizedString they are mechanical engineers 617.9 620.1
+RecognizedString you're seeing here illustrator is take primary data from city scans and amor eyes 620.1 627.2
+RecognizedString translate it into digital information 627.2 630.5
+RecognizedString animated put it together into the components of the child itself 630.5 636.7
+RecognizedString surface scan elements of the child that have been cast it as needed depending on the surgery itself 636.7 643
+RecognizedString and then take this digital data and be able to out put it on state of the or three dimensional printing devices 643 650.8
+RecognizedString that allow us to print the components exactly 650.8 654.5
+RecognizedString to the micron detail of with the childs anatomy will look like and you can see here the scarlett this child being printed in the hours before we perform the surgery 654.5 665.9
+RecognizedString but we could not do this 665.9 668.4
+RecognizedString work without are dear friends on the west coast in hollywood california 668.4 674.3
+RecognizedString this life like rehearsal is being delivered for medical simulation i thought i with start with the case 60.3 69.1
+RecognizedString and these are individuals that are incredibly talented epping able to recreate reality and it was not a long 674.3 683.3
+RecognizedString leap for us more we got into this biltmore it became clear to us that we are doing cinema tucker 683.3 689.8
+RecognizedString are we doing filmmaking it's just that the actors are not actors 689.8 695.3
+RecognizedString there real doctors in nurses 695.3 698.8
+RecognizedString answer these are some photos of our dear friends at fracture to facts in hollywood california and emmy award winning special effects from 698.8 707.4
+RecognizedString add and this is just in raleigh in his group 707.4 710.6
+RecognizedString this is not one of our patients kind of the squeeze it worked appease individuals do and we have now collaborate it and fuse 710.6 719
+RecognizedString are experience bringing bear group to boston children's hospital sending our group out to hollywood california 719 725.5
+RecognizedString and exchanging around this to be able to develop please type of simulator is what i'm about to show you 725.5 731.9
+RecognizedString is a reproduction of this child 731.9 737.5
+RecognizedString 69.1 74.7
+RecognizedString and your notice your that every hair on the child head is reproduce 737.5 743.7
+RecognizedString and it fat this is also 743.7 746.7
+RecognizedString 746.7 750.9
+RecognizedString but that is a reproduction in simulation of the child are about to operate on 750.9 758
+RecognizedString and hears that membrane we talked about the inside of this childs brain 758 763.3
+RecognizedString and what you're gonna be sing here is on once i be actual patient and on the other side simulator 763.3 770.6
+RecognizedString yes i mention days scope a little camera needs to make its way down you sing that here 770.6 776.1
+RecognizedString i need to make a small hole in this membrane allow this fluid fussy pout 776.1 782.1
+RecognizedString i want you were 782.1 784.6
+RecognizedString quit show to see who thanks which side is which but on the right is simulator 784.6 791.5
+RecognizedString going to improve healthcare by it's critical to healthcare 74.7 79
+RecognizedString it's so surgeons canal produce 791.5 795.2
+RecognizedString training opportunities duty surgeries has many times they want 795.2 799.1
+RecognizedString until there hearts content until they feel comfortable and then and only then bring the child into the operating room 799.1 805.6
+RecognizedString but we don't stop here we know turkey steptoe this is not just skill itself a combining that skill 805.6 813.6
+RecognizedString with a team who's gonna deliver that care and so now we turn to formula one 813.6 818.7
+RecognizedString and here's an example of a technician putting a tire and doing that time and time again on this car 818.7 825.2
+RecognizedString but that is very quickly going to be incorporated 825.2 828.2
+RecognizedString within team training experiences now as a full team or priest rating exchange of tires and getting this car back on the speedway 828.2 838
+RecognizedString it's a we done that step in healthcare see now even about to see if this is now a simulated operation 838 845.9
+RecognizedString we taking simulator i just described to eat brought it into the operating room it boston children's hospital 845.9 851.9
+RecognizedString is a child is born 79 81.4
+RecognizedString andy's individuals these native teams 851.9 854.9
+RecognizedString operative teams are doing the surgery beef for the surgery operate twice cut once 854.9 862.8
+RecognizedString let me show that to me 862.8 867.4
+RecognizedString in a little bit 867.4 871.4
+RecognizedString like a robot 871.4 880.4
+RecognizedString a 880.4 887.9
+RecognizedString philly amazing in second 887.9 890.3
+RecognizedString stop to this which is critical is we take is teams out immediately and we debrief 890.3 895
+RecognizedString 895 901.4
+RecognizedString can we bring them out and we talk about what wet right but more importantly we talk about with didn't go well and how we going to fix it 901.4 910.5
+RecognizedString young girl dave life zero we call it first day of life just born into the world in just a she's being born 81.4 87.6
+RecognizedString enemy bingham right back in we do it again 910.5 913.4
+RecognizedString deliberate if batting practice in the moments when it matters most let's go back to this case now 913.4 922.7
+RecognizedString same child but now let me describe how we care for this child boston children's house 922.7 927.7
+RecognizedString what is child is born to three o'clock in the morning at two o'clock in the morning we assembled the team 927.7 934.6
+RecognizedString and chuck the reproduce to natalie that we would gain out of scans and images 934.6 940.3
+RecognizedString and brought that team to the virtual bedside to a simulated bedside the same teen that's good operate on this 940.3 946.8
+RecognizedString child in hours ahead and we have them do the procedure 946.8 951.2
+RecognizedString show your moment office she's not a real incision 951.2 957.1
+RecognizedString and the baby has not yet been bored magine this 957.1 963.6
+RecognizedString so now the conversations that i have with families in intensive care unit boston children's hospital are totally different 963.6 971.7
+RecognizedString we notice very quickly the cheese deteriorated for heart rate is going up for blood pressure is going down sheet breathing very very fast 87.6 95.9
+RecognizedString magine this conversation 971.7 975
+RecognizedString not only do we take care of this disorder frequently in are i see you and not only have weekend surgeries like 975 982.6
+RecognizedString the surgery we're going to do on your child but we have done your child surgery 982.6 989.4
+RecognizedString and we did it two hours ago and we did it ten times 989.4 994.9
+RecognizedString and now we're prepared to take them back to the operating 994.9 999.2
+RecognizedString 999.2 1003.8
+RecognizedString lifelike rehearsal practicing prior to game time 1003.8 1010.9
+RecognizedString thank you 1010.9 1019.9
+RecognizedString 1019.9 1022.8
+RecognizedString 1022.8 1026
+RecognizedString and the reason for this 95.9 98.6
+RecognizedString is displayed in this chest x ray 98.6 100.8
+RecognizedString escada baby graham in this is a full x-ray of a child's barrio infants body and it you look on the top side of this 100.8 107.7
+RecognizedString 2.2 9.2
+RecognizedString that's where the hearts in lungs are supposed to be in as you look at the bottom and that's where the abdomen is ness for the intestines are suppose 107.7 113.3
+RecognizedString maybe you can see how there sorted that 113.3 115.9
+RecognizedString translucent area that made its way up into the right side of this tiles chest 115.9 121
+RecognizedString and that are the intestines in the wrong place 121 125.2
+RecognizedString it is result there pushing on the lungs in making it very difficult for this poor baby debrief 125.2 130.9
+RecognizedString in fix for this problems to take this child immediately to the operating room 130.9 135.1
+RecognizedString bring those intestines back into the abdomen let the lungs expand and allow this child breathe again 135.1 141.1
+RecognizedString but before she can gary operating room she musket with the way to the i see you 141.1 145.9
+RecognizedString where i work and i work with surgical teams sam we gather around her and we place this child on heart lung bypass 145.9 154.5
+RecognizedString we put it asleep we naked tiny rolling fishing in the neck 154.5 159.6
+RecognizedString 9.2 16.4
+RecognizedString replace catheter is into the major vessels of the neck and i can tell you that he's vessels about the size of a pen the tip of a pen 159.6 167.9
+RecognizedString let me have blood drawn from the body we bring it through a machine account 167.9 172
+RecognizedString oxygen aided any goes back into the body and we say for life and get her safely to the operating room 172 179.7
+RecognizedString here's the problem 179.7 183
+RecognizedString these disorders what is known as congenital die frog matic hernia 183 188.5
+RecognizedString this hole in the diaphragm that is allowed is intestines to sneak up these disorders are rare 188.5 194.8
+RecognizedString even in the best hands in the world 194.8 198.9
+RecognizedString there is still a challenge to get the volume the natural volume of these patience norridge get are expertise corbett a hundred percent justin present that off 198.9 209.8
+RecognizedString so how do you make the rare comment 209.8 215.6
+RecognizedString here's the other pramod 215.6 217.8
+RecognizedString that when placed in the hands of doctors in nurses 16.4 20.9
+RecognizedString in the healthcare system that i train for over twenty years 217.8 222.7
+RecognizedString what currently exist mandala training is call the apprenticeship model spin around for centuries 222.7 228.8
+RecognizedString it's based on this idea that you see a surgery maybe once maybe several times you then go do that surgery 228.8 236.9
+RecognizedString and then ultimately you teach that surgery today next generation 236.9 242
+RecognizedString implicit in this model i don't need to tell you this is that we practice on the very patience 242 250.6
+RecognizedString that we're delivering care to that's a problem 250.6 257.7
+RecognizedString i think there's a better approach 257.7 261.2
+RecognizedString medicine me very well be the last high stakes industry that does not practice prior to game time 261.2 268.9
+RecognizedString i don't wanna described you a better approach through medical simulation 268.9 275.1
+RecognizedString well the first thing we do we went to other high stakes industries 275.1 279.2
+RecognizedString improved outcomes for children and adults patience of all ages reduce pain in suffering 20.9 29.7
+RecognizedString 279.2 282.4
+RecognizedString this is nuclear power nuclear power runs scenario son regular basis in order to practice with a hope will never 282.4 291.8
+RecognizedString and as we're all very familiar the airline industry 291.8 295.7
+RecognizedString we all get on planes now converted by the idea that pilots in cruise have trained on simulator is much like these 295.7 304.7
+RecognizedString training on scenario is that we help will never occur but we know if they did 304.7 309.6
+RecognizedString day would be prepared for the worst in fact 309.6 313.8
+RecognizedString 313.8 322.5
+RecognizedString this isn't evaluation drill simulator 322.5 325.4
+RecognizedString so that again effect ever wear to happen nice rare rear events they are ready to act on the drop of da 325.4 333.5
+RecognizedString i guess the most compelling for me in some ways sports industry 333.5 339.8
+RecognizedString reduced time in the operating rooms reduced anesthetic times 29.7 35.8
+RecognizedString argue ugly high stakes 339.8 342.2
+RecognizedString you think about how baseball team baseball players practice setting it's a beautiful example of progressive training the first thing they do is they go out to spring training they go to spring training camp 342.2 353.2
+RecognizedString perhaps a simulator in baseball 353.2 356.2
+RecognizedString you're not on the real feel better on a simulated field in there playing in the pregame season 356.2 361.4
+RecognizedString been a maker way to the feel during 361.4 363.9
+RecognizedString the season games in the first thing they do before they 363.9 367.5
+RecognizedString start the game going to the batting cage naidu batting practice for hours having different types of pictures being throne 367.5 375.8
+RecognizedString hitting paul after ball as the limburger there muscles 375.8 380.2
+RecognizedString getting ready for the game itself in here's the most phenomenal part of this 380.2 386.1
+RecognizedString it roddy watch any sport event you will see this phenomena happen 386.1 391.3
+RecognizedString had the old tomatoes response curve that the more you did it the better it benefit patience 35.8 41.9
+RecognizedString the batter gets into the battery spock's the picture gets ready to pitch right before the pictures throne 391.3 399.4
+RecognizedString what does that bad urdu to batter steps out of the box 399.4 403.5
+RecognizedString and takes a practice when he wouldn't do it any other way 403.5 409.1
+RecognizedString i want to talk to you better rebuilding practice wings like this in madison wi a building batting cages 409.1 415.8
+RecognizedString for the patience that we care about at boston children's i want to use this case that we recently bill 415.8 422.2
+RecognizedString the case of a four year old weather progressive lee in lodging head 422.2 426.5
+RecognizedString 426.5 436.1
+RecognizedString so quick quick study in narrow surgery so there's the brain and you can see the cranium surrounding the brain 436.1 443.3
+RecognizedString and what's around the brain actually between the rain in the cranium something call sorry bro spinal fluid are fluid 443.3 449.9
+RecognizedString which access the shock absorb are 449.9 452.3
+RecognizedString here's a kicker it has no side effects 41.9 45.5
+RecognizedString in your head right now there is cerebral spinal fluid just bathing your brains and making its way around it is 452.3 458.9
+RecognizedString produced in one ariane flows through and then is re exchange in this beautiful flow pattern occurs for all of us 458.9 466.1
+RecognizedString but i'm fortunately and some children there's a blockage of this flow petr much like a traffic jam 466.1 472.8
+RecognizedString it is a result the fluid accumulate 472.8 475.6
+RecognizedString in the brain is push to saw it has difficulty growing 475.6 481
+RecognizedString 481 488.4
+RecognizedString set the your for this 488.4 490.7
+RecognizedString is surgery in traditional surgeries to take a picture of the cranium off a bit of skull 490.7 495.7
+RecognizedString rain this fluid out stick it rain in place and then eventually bring this train internal to the body big operation 495.7 503.7
+RecognizedString but i'm great news is that advances in neurosurgeon 503.7 507.1
+RecognizedString it is available no matter where cares delivered 45.5 49
+RecognizedString siri surgical cares have allowed to develop mentally invasive approaches 507.1 511.9
+RecognizedString to the surgery so small pinole a camera can be inserted 511.9 518.2
+RecognizedString let it to the deep straight brain structure and cause a little hole in a membrane that allows all that fluid drain much like it would be in sink 518.2 527.4
+RecognizedString and all sudden now the brain as no longer under pressure 527.4 530.5
+RecognizedString henry expand enriqe you're the child through a single hall incision 530.5 535.5
+RecognizedString what is the problem i just selfless is relatively rare 535.5 540.6
+RecognizedString is there a no good training methods 540.6 543.1
+RecognizedString to get really good at getting this scope to the right place but 543.1 547.5
+RecognizedString surgeons have been quite creative about this even around and they come up with training models here's the current training model 547.5 556.7
+RecognizedString i could you not is red pepper not maiden hollywood to real red pepper 556.7 562.7
+RecognizedString 49 56.8

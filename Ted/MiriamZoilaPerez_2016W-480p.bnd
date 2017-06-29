@@ -1,0 +1,255 @@
+title 
+textStore MiriamZoilaPerez_2016W-480p.html
+MD5TextStore MD5
+soundStore MiriamZoilaPerez_2016W-480p.mp4
+MD5SoundStore MD5
+Bind 0 63 9.2 16.9
+Bind 63 129 16.9 22.6
+Bind 129 182 22.6 27.1
+Bind 182 265 27.1 31.3
+Bind 265 358 31.3 36.9
+Bind 358 468 36.9 44.1
+Bind 468 583 44.1 50.9
+Bind 583 622 50.9 53.6
+Bind 622 718 53.6 59.5
+Bind 718 833 59.5 65.8
+Bind 833 916 65.8 71.9
+Bind 916 952 71.9 75.1
+Bind 952 1057 75.1 81.3
+Bind 1057 1124 81.3 85.3
+Bind 1124 1214 85.3 90.5
+Bind 1214 1317 90.5 95.7
+Bind 1317 1440 95.7 104.4
+Bind 1440 1488 104.4 108.1
+Bind 1488 1640 108.1 117.9
+Bind 1640 1743 117.9 123.8
+Bind 1743 1849 123.8 130.3
+Bind 1849 1904 130.3 133.7
+Bind 1904 2011 133.7 139.1
+Bind 2011 2134 139.1 146
+Bind 2134 2271 146 154.8
+Bind 2271 2347 154.8 160.2
+Bind 2347 2397 160.2 163.5
+Bind 2397 2456 163.5 166.7
+Bind 2456 2558 166.7 172.1
+Bind 2558 2587 172.1 174.8
+Bind 2587 2711 174.8 183.3
+Bind 2711 2791 183.3 189.6
+Bind 2791 2858 189.6 193.7
+Bind 2858 3018 193.7 203.7
+Bind 3018 3088 203.7 207.6
+Bind 3088 3129 207.6 211.5
+Bind 3129 3291 211.5 220.6
+Bind 3291 3392 220.6 226.3
+Bind 3392 3441 226.3 229.1
+Bind 3441 3703 229.1 243.9
+Bind 3703 3753 243.9 247.4
+Bind 3753 3904 247.4 255.9
+Bind 3904 3963 255.9 259.4
+Bind 3963 4073 259.4 266
+Bind 4073 4146 266 271.4
+Bind 4146 4290 271.4 283
+Bind 4290 4394 283 289
+Bind 4394 4505 289 296.4
+Bind 4505 4627 296.4 305
+Bind 4627 4754 305 311.1
+Bind 4754 4876 311.1 316.8
+Bind 4876 4995 316.8 323.9
+Bind 4995 5086 323.9 329.3
+Bind 5086 5110 329.3 331.7
+Bind 5110 5289 331.7 343.8
+Bind 5289 5392 343.8 349.7
+Bind 5392 5470 349.7 356.1
+Bind 5470 5581 356.1 363.8
+Bind 5581 5609 363.8 365.9
+Bind 5609 5678 365.9 370.1
+Bind 5678 5825 370.1 377.9
+Bind 5825 5899 377.9 382.5
+Bind 5899 5967 382.5 386.3
+Bind 5967 6120 386.3 393.9
+Bind 6120 6249 393.9 401.4
+Bind 6249 6587 401.4 421.2
+Bind 6587 6673 421.2 426.9
+Bind 6673 6794 426.9 434.5
+Bind 6794 6831 434.5 437.8
+Bind 6831 6872 437.8 441.2
+Bind 6872 6982 441.2 447.9
+Bind 6982 7054 447.9 452.9
+Bind 7054 7154 452.9 458.8
+Bind 7154 7297 458.8 467.5
+Bind 7297 7365 467.5 471.6
+Bind 7365 7476 471.6 477.2
+Bind 7476 7592 477.2 485.3
+Bind 7592 7713 485.3 491.8
+Bind 7713 7748 491.8 494.3
+Bind 7748 7874 494.3 500.7
+Bind 7874 7967 500.7 506.8
+Bind 7967 8073 506.8 513.4
+Bind 8073 8130 513.4 518.1
+Bind 8130 8274 518.1 525.2
+Bind 8274 8339 525.2 529.5
+Bind 8339 8486 529.5 538.8
+Bind 8486 8614 538.8 546.8
+Bind 8614 8817 546.8 557.6
+Bind 8817 8904 557.6 563.8
+Bind 8904 8972 563.8 567.8
+Bind 8972 9079 567.8 572.7
+Bind 9079 9215 572.7 580.7
+Bind 9215 9328 580.7 585.9
+Bind 9328 9438 585.9 592.8
+Bind 9438 9524 592.8 598.8
+Bind 9524 9560 598.8 601.6
+Bind 9560 9608 601.6 605.1
+Bind 9608 9641 605.1 608
+Bind 9641 9751 608 612.7
+Bind 9751 9905 612.7 622.4
+Bind 9905 9960 622.4 625.3
+Bind 9960 10092 625.3 631.2
+Bind 10092 10168 631.2 639.4
+Bind 10168 10440 639.4 656.5
+Bind 10440 10570 656.5 665
+Bind 10570 10683 665 670.4
+Bind 10683 10780 670.4 675.8
+Bind 10780 10837 675.8 678.3
+Bind 10837 10947 678.3 686.1
+Bind 10947 11130 686.1 695.9
+Bind 11130 11175 695.9 699.6
+Bind 11175 11395 699.6 712.4
+Bind 11395 11544 712.4 719.3
+Bind 11544 11592 719.3 722.4
+Bind 11592 11720 722.4 728.6
+Bind 11720 11790 728.6 732.5
+Bind 11790 11919 732.5 739.8
+RecognizedString yes 0 2.2
+RecognizedString lastly when you find me are call back to see the provider 563.8 567.8
+RecognizedString you already taken your own weight in the waiting room and done your own t test in the bathroom 567.8 572.7
+RecognizedString this is a big departure from the crystal medical model because places responsibility and information back in the woman's hands 572.7 580.7
+RecognizedString so rather than a medical setting where you might be chastise for not keeping up with provider recommendations 580.7 585.9
+RecognizedString the kind of settings often available to low income women jenny's model is to be a supportive as possible 585.9 592.8
+RecognizedString and that support provides a crucial buffer through the stress of racism and discrimination 592.8 598.8
+RecognizedString facing these women everyday 598.8 601.6
+RecognizedString but here's the best thing about jenny's model 601.6 605.1
+RecognizedString it's been incredibly successful 605.1 608
+RecognizedString remember that as i told you that black women are more likely to give birth to early 608 612.7
+RecognizedString that sounds blood and oxygen to the organs in muscles that i might need to respond quickly to potential 53.6 59.5
+RecognizedString forget birth lower birth wait babies devin died you're pregnant complications of pregnancy and childbirth while the jj way has almost entirely eliminated those problems 612.7 622.4
+RecognizedString starting of what jenny calls skinny babies 622.4 625.3
+RecognizedString she's been able to get almost all her clients term with healthy chunky babies like this one 625.3 631.2
+RecognizedString this is a am infinity baby girl burns what kind of jenny this past june 631.2 639.4
+RecognizedString so similar demographic of women in jenny's area who gave birth of the same hospital her clients dead 639.4 645.3
+RecognizedString where is three times more likely to give birth to a baby below a healthy way 645.3 650.6
+RecognizedString jenny is making headway into wiseman fiend for decades isn't almost interact about problem 650.6 656.5
+RecognizedString some of my be thinking this august one on one attention that the jj requires must be too expensive to scale for ub wrong 656.5 665
+RecognizedString the descent the visit with the provider is not the center of jenny's moto and for good reason 665 670.4
+RecognizedString those visitor expensive and an orange maintain her model she's gotta see a lot of clients to cover cos 670.4 675.8
+RecognizedString rat but there's a problem with this response and that is that i can get over activated 59.5 65.8
+RecognizedString but jenny doesn't have to spend time with eads 675.8 678.3
+RecognizedString woman if all the members for team can provide the support information and care that her clients need 678.3 686.1
+RecognizedString the bata beauty of jenny's model is that she actually believes that can be implemented in pretty much any healthcare setting it's a revolution care just waiting to happen 686.1 695.9
+RecognizedString please problems i'm chatting with you are big 695.9 699.6
+RecognizedString they come from long histories of racism 699.6 702.2
+RecognizedString 702.2 712.4
+RecognizedString but there's one thing i've learned from my work as a doula it's a little bit of unconditional support can go really long way 712.4 719.3
+RecognizedString history shona people are incredibly resilient 719.3 722.4
+RecognizedString mlb can't rata kate racism or the stress that results from it overnight we might just be able to crate environment 722.4 728.6
+RecognizedString the provider buffer to what people of color experience on a daily basis 728.6 732.5
+RecognizedString if i fiftieth kinda freshers on daily basis particularly over an extended period of time 65.8 71.9
+RecognizedString and during pregnancy that buffer can be an incredible tool for shifting the impact of racism on generations to come 732.5 739.8
+RecognizedString thank you 739.8 749.8
+RecognizedString 749.8 751.9
+RecognizedString i my system can get overloaded 71.9 75.1
+RecognizedString so basically epis response happens in frequently super necessary for my well being and survival 75.1 81.3
+RecognizedString but it happens to much a can actually make me sick 81.3 85.3
+RecognizedString there's a growing body research examining the relationship between chronic stress and illness 85.3 90.5
+RecognizedString things like heart disease uneven cancer are being shown to have a relationship to stress 90.5 95.7
+RecognizedString that's because overtime too much activation from stress can interfere with my bodies 95.7 101.8
+RecognizedString process he's the keep me healthy 101.8 104.4
+RecognizedString 2.2 9.2
+RecognizedString note imagine for a moment that i was pregnant 104.4 108.1
+RecognizedString what my this kind of stress particularly over the length of my pregnancy what kind of impact might that have on the health of my developing fetus 108.1 117.9
+RecognizedString i probably won't be surprise when i tell you that this kind of stress during pregnancy is not good 117.9 123.8
+RecognizedString i can even cause the body to initiate labor too early because in a basic sands distress communicate 123.8 130.3
+RecognizedString that the warm is no longer a safe place for the child 130.3 133.7
+RecognizedString stress during pregnancy linked with things like high blood pressure and low infant birth wait 133.7 139.1
+RecognizedString any can beginner cascade of health challenges that make birth much more dangerous for about parent and child 139.1 146
+RecognizedString now course reston are particular modern lifestyle is somewhat universal experience right maybe never setup to give it ted talk 146 154.8
+RecognizedString what you faced a big presentation at work a sudden job lost a big test 154.8 160.2
+RecognizedString a heated conflict with the family member are friend 160.2 163.5
+RecognizedString so most of you can probably relate to what i'm feeling right now 9.2 16.9
+RecognizedString but it turns out that that kind of stress we experience 163.5 166.7
+RecognizedString and weather able to stay in a relax date long enough to keep our bodies working properly 166.7 172.1
+RecognizedString depends alot on who we are 172.1 174.8
+RecognizedString there's also growing body research examining that showing that people experience more discrimination are more likely to have poor health 174.8 183.3
+RecognizedString even a threat of discrimination like wearing you might be stop by police while driving a car 183.3 189.6
+RecognizedString can have am can haven't impact a negative impact on your health 189.6 193.7
+RecognizedString harvard professor doctor david williams the person who painted the tools that approval need languages says the more marge lies good smarter siry 193.7 203.7
+RecognizedString spirits more discrimination and more impacts on their house 203.7 207.6
+RecognizedString five min interested in me issues for over a decade 207.6 211.5
+RecognizedString uh when i became interested in maternal health when a failed pre metra directory instead sent me doubt a path looking for other ways to help pregnant people 211.5 220.6
+RecognizedString my heart is racing and my chest mike palms are little bit clammy 16.9 22.6
+RecognizedString i became a doula ole person train to support two people during pregnancy and childbirth 220.6 226.3
+RecognizedString and because i'm matina and a spanish speaker 226.3 229.1
+RecognizedString and my first volunteer doula gay gotta public hospital in north carolina i for clearly how race and class impact of experiences of the women that i supported 229.1 238.5
+RecognizedString that we take a look at obsessed sex evaporate illness during pregnancy and childbirth 238.5 243.9
+RecognizedString wi-fi clearly the pattern outline by dr williams 243.9 247.4
+RecognizedString african american women in particular haven't entirely different experience than white women when it comes to weather there babies are born healthy 247.4 255.9
+RecognizedString uncertain part of the country particularly the deep south 255.9 259.4
+RecognizedString the rate of mother an infant death for black women actually approximate those rates in subs the hair in africa 259.4 266
+RecognizedString in those same communities the rates for white women are near zero 266 271.4
+RecognizedString even nationally black women are four times more likely to died during pregnancy and childbirth than white women 271.4 280
+RecognizedString i'm sweating and my brothers little bit shallow 22.6 27.1
+RecognizedString four times more likely to die 280 283
+RecognizedString there also twice as like leave for there infants die before the first you're alive and white and fence 283 289
+RecognizedString and two to three times more likely to give birth to early or too skinny assign of insufficient development 289 296.4
+RecognizedString native women are also more likely to have hire rates of these problems than white women as are some groups of latinas 296.4 305
+RecognizedString for the last decade as a doula turned journalist and blotter i've been trying to raise the alarm about just how different dicks 305 311.1
+RecognizedString cancel the woman of color but particularly black women are when it comes to pregnancy and birth and the u s 311.1 316.8
+RecognizedString when i tell people about is appalling statistics i'm usually matt with and assumption that it's about either poverty 316.8 323.9
+RecognizedString or lack of access to care 323.9 325.9
+RecognizedString edit turns out neither anything tell the whole story 325.9 329.3
+RecognizedString even middle class black women 329.3 331.7
+RecognizedString now boost familiar sensations are obviously the result of standing up in front of me 27.1 31.3
+RecognizedString still have much worth outcomes there might middle class white counterpart the goth actually wide and among us group 331.7 339.7
+RecognizedString am i access the carries daphne still a problem 339.7 343.8
+RecognizedString even women of color receive the recommended prenatal care still suffer from these hi res 343.8 349.7
+RecognizedString and so we come back to the past from discrimination to stress to por health 349.7 356.1
+RecognizedString and a begins to paint a picture that many people of color no to be trail racism is actually making a sec 356.1 363.8
+RecognizedString still sound like a stretch 363.8 365.9
+RecognizedString consider this immigrants particularly black and latina immigrants 365.9 370.1
+RecognizedString actually have better health when they first arrive in the united states of the longer they stay in is country the worst there health become 370.1 377.9
+RecognizedString people like me or in the united states to cuban immigrant parents 377.9 382.5
+RecognizedString actually more likely have worth health than my grandparents dead 382.5 386.3
+RecognizedString thousand of you and giving a talk that might been screamed on lines of perhaps a million more 31.3 36.9
+RecognizedString it's what researches call the immigrant paradox and it further illustrate there's something in the us environment that is making a sec 386.3 393.9
+RecognizedString but here's the thing this problem that racism making couple of color but especially black women and baby sec is avast 393.9 401.4
+RecognizedString i can find all my time with you talking about at but i won't because i wanted pink sure to tell you that one solution 401.4 407.5
+RecognizedString i'm a good news is it's a sushant isn't vertical expensive 407.5 411.4
+RecognizedString 411.4 418.3
+RecognizedString meet jenny joseph 418.3 421.2
+RecognizedString she's a midwife amir lando florida area who's been serving pregnant women for over a decade 421.2 426.9
+RecognizedString and what she calls are easy access clinics jenny in her team provide prenatal carrots over six hundred women per year 426.9 434.5
+RecognizedString her clients most of whom are black 434.5 437.8
+RecognizedString haitian and latina deliver at the local hospital 437.8 441.2
+RecognizedString but the fifth of often seasons i'm experiencing right now actually result of a much more basic mind body mechanism 36.9 44.1
+RecognizedString but by providing excessible and respectful prenatal care jenny has a cheap something remarkable 441.2 447.9
+RecognizedString almost all of her clients give birth to healthy full term babies 447.9 452.9
+RecognizedString her method is deceptive we simple jenny says the oliver appointment start at the front desk 452.9 458.8
+RecognizedString every member of her team and every moment of a woman is at her clinic is as supportive as possible no one is turned away to lack of finance 458.8 467.5
+RecognizedString the jj way is to make a finances work matter what the hurdles 467.5 471.6
+RecognizedString no one is chastise for sign up late to the appointments no one is talk down to or billet old 471.6 477.2
+RecognizedString jenny's waiting room feels more like your aunts livingroom than a clinic cause the space a classroom in disguise 477.2 485.3
+RecognizedString by with plus chairs arranged and a circle women wait for there appointments in one on one chats with a staff educator 485.3 491.8
+RecognizedString or in group prenatal classes 491.8 494.3
+RecognizedString when you finally arcle back to your appointment your greeted by alexis or trina to of jenny's medical assistance 494.3 500.7
+RecognizedString my nervous system is sending a lot of hormones like quarters all and adrenaline into my bloodstream 44.1 50.9
+RecognizedString both are young african american and moms themselves there approach is casual and friendly 500.7 506.8
+RecognizedString during one visit i observed trina chatted with a young soon to be mom while she took her blood pressure 506.8 513.4
+RecognizedString this latina mama's having trouble keeping food down do to naza 513.4 518.1
+RecognizedString as trina to flight of the blood pressure cuz she said what's the about changing are prescription okay we can't have you not eating 518.1 525.2
+RecognizedString that we is actually really crucial aspect of jenny's model 525.2 529.5
+RecognizedString she sees her staff as part of a team that alongside the woman and her family has one goal get montu term with a healthy baby 529.5 538.8
+RecognizedString jennifer's at three not alexis actually the center of her care model 538.8 542.7
+RecognizedString i'm at her roll is provider is justice support there work 542.7 546.8
+RecognizedString tryna find a lot of are day on her cell phone texting with clients about all sorts of things one woman texted to asked if a medication that was prescribed at the hospital was ok to take while pregnant 546.8 557.6
+RecognizedString be answer was now another woman text with pictures of an infant born under jenny's care 557.6 563.8
+RecognizedString it's very old and i necessary response 50.9 53.6

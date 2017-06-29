@@ -1,0 +1,339 @@
+title 
+textStore PeggyOrenstein_2016W-480p.html
+MD5TextStore MD5
+soundStore PeggyOrenstein_2016W-480p.mp4
+MD5SoundStore MD5
+Bind 0 63 9.2 16.5
+Bind 63 95 16.5 18.9
+Bind 95 181 18.9 24.9
+Bind 181 236 24.9 28.6
+Bind 236 299 28.6 33.1
+Bind 299 363 33.1 37.8
+Bind 363 442 37.8 45.8
+Bind 442 515 45.8 52.1
+Bind 515 622 52.1 59.7
+Bind 622 708 59.7 62.8
+Bind 708 754 62.8 71.4
+Bind 754 851 71.4 81.4
+Bind 851 961 81.4 84.8
+Bind 961 1028 84.8 88.2
+Bind 1028 1069 88.2 91.6
+Bind 1069 1195 91.6 99.9
+Bind 1195 1306 99.9 112.4
+Bind 1306 1399 112.4 114.8
+Bind 1399 1520 114.8 123.2
+Bind 1520 1613 123.2 128.8
+Bind 1613 1728 128.8 136.8
+Bind 1728 1786 136.8 147.8
+Bind 1786 1935 147.8 151.4
+Bind 1935 2047 151.4 160.5
+Bind 2047 2240 160.5 173.3
+Bind 2240 2354 173.3 184.6
+Bind 2354 2466 184.6 188.2
+Bind 2466 2517 188.2 191.3
+Bind 2517 2622 191.3 195.9
+Bind 2622 2723 195.9 203
+Bind 2723 2791 203 208.8
+Bind 2791 2914 208.8 215.9
+Bind 2914 3007 215.9 225.5
+Bind 3007 3072 225.5 230.3
+Bind 3072 3119 230.3 233.3
+Bind 3119 3164 233.3 235.9
+Bind 3164 3269 235.9 244
+Bind 3269 3355 244 249.5
+Bind 3355 3461 249.5 256.4
+Bind 3461 3555 256.4 263.9
+Bind 3555 3654 263.9 269.4
+Bind 3654 3712 269.4 274.6
+Bind 3712 3820 274.6 283.9
+Bind 3820 3927 283.9 291.5
+Bind 3927 4021 291.5 297.6
+Bind 4021 4137 297.6 305.2
+Bind 4137 4193 305.2 309.6
+Bind 4193 4266 309.6 313.7
+Bind 4266 4385 313.7 321
+Bind 4385 4525 321 334.4
+Bind 4525 4578 334.4 337.8
+Bind 4578 4715 337.8 346.9
+Bind 4715 4787 346.9 357.8
+Bind 4787 4935 357.8 365.5
+Bind 4935 5030 365.5 371.3
+Bind 5030 5092 371.3 376.8
+Bind 5092 5140 376.8 381.2
+Bind 5140 5415 381.2 401.4
+Bind 5415 5446 401.4 404.5
+Bind 5446 5486 404.5 410
+Bind 5486 5587 410 417
+Bind 5587 5864 417 437.6
+Bind 5864 5949 437.6 443.7
+Bind 5949 6008 443.7 447.3
+Bind 6008 6055 447.3 451.3
+Bind 6055 6119 451.3 456.7
+Bind 6119 6229 456.7 466.2
+Bind 6229 6309 466.2 472.9
+Bind 6309 6347 472.9 476.8
+Bind 6347 6407 476.8 480.3
+Bind 6407 6570 480.3 491.9
+Bind 6570 6600 491.9 495.7
+Bind 6600 6717 495.7 502.9
+Bind 6717 6803 502.9 508.2
+Bind 6803 6881 508.2 514.4
+Bind 6881 6927 514.4 518.8
+Bind 6927 7003 518.8 526.1
+Bind 7003 7068 526.1 530.9
+Bind 7068 7095 530.9 534.8
+Bind 7095 7176 534.8 541.7
+Bind 7176 7304 541.7 551.2
+Bind 7304 7327 551.2 553.2
+Bind 7327 7461 553.2 561.9
+Bind 7461 7508 561.9 564.8
+Bind 7508 7661 564.8 573.3
+Bind 7661 7756 573.3 579.7
+Bind 7756 7886 579.7 589.9
+Bind 7886 8019 589.9 597.9
+Bind 8019 8131 597.9 605.7
+Bind 8131 8220 605.7 611.5
+Bind 8220 8328 611.5 617.7
+Bind 8328 8347 617.7 620.1
+Bind 8347 8397 620.1 625.2
+Bind 8397 8571 625.2 639.7
+Bind 8571 8617 639.7 642.1
+Bind 8617 8758 642.1 652
+Bind 8758 8945 652 665.7
+Bind 8945 9040 665.7 671.9
+Bind 9040 9094 671.9 677.9
+Bind 9094 9142 677.9 681.6
+Bind 9142 9260 681.6 689.5
+Bind 9260 9308 689.5 693
+Bind 9308 9370 693 696.8
+Bind 9370 9412 696.8 699.1
+Bind 9412 9469 699.1 704
+Bind 9469 9558 704 710
+Bind 9558 9643 710 714.9
+Bind 9643 9807 714.9 737.3
+Bind 9807 10014 737.3 742.7
+Bind 10014 10053 742.7 745.2
+Bind 10053 10129 745.2 751
+Bind 10129 10230 751 757.1
+Bind 10230 10354 757.1 768.6
+Bind 10354 10417 768.6 774.9
+Bind 10417 10507 774.9 781.9
+Bind 10507 10631 781.9 791
+Bind 10631 10652 791 793.2
+Bind 10652 10697 793.2 799.2
+Bind 10697 10784 799.2 804.9
+Bind 10784 10893 804.9 812.8
+Bind 10893 11027 812.8 821.2
+Bind 11027 11081 821.2 824.8
+Bind 11081 11200 824.8 833.9
+Bind 11200 11266 833.9 839.1
+Bind 11266 11329 839.1 843.1
+Bind 11329 11396 843.1 848.3
+Bind 11396 11503 848.3 855.6
+Bind 11503 11575 855.6 860.9
+Bind 11575 11647 860.9 866.3
+Bind 11647 11798 866.3 875
+Bind 11798 11819 875 877.2
+Bind 11819 11842 877.2 879.3
+Bind 11842 11896 879.3 883.7
+Bind 11896 12004 883.7 892.6
+Bind 12004 12096 892.6 899
+Bind 12096 12163 899 905.9
+Bind 12163 12238 905.9 911.7
+Bind 12238 12296 911.7 917.2
+Bind 12296 12312 917.2 919.6
+Bind 12312 12406 919.6 925.7
+Bind 12406 12525 925.7 935.6
+Bind 12525 12555 935.6 939.4
+Bind 12555 12598 939.4 943.3
+Bind 12598 12717 943.3 958.5
+Bind 12717 12878 958.5 963.9
+Bind 12878 12960 963.9 971.9
+Bind 12960 13022 971.9 977.6
+Bind 13022 13071 977.6 982.6
+Bind 13071 13107 982.6 987
+Bind 13107 13223 987 998.8
+Bind 13223 13301 998.8 1003
+Bind 13301 13386 1003 1011.2
+RecognizedString yes 0 2.2
+RecognizedString and there's nothing wrong with wanted if you're close to your partner wanting him to be happy an orgasm isn't the only measure of an experience 564.8 573.3
+RecognizedString but absence of pain very low bar for your unsexual of cement 573.3 579.7
+RecognizedString listen to olive doesn't thinking about it i began to realize that we performed 579.7 585.9
+RecognizedString 585.9 589.9
+RecognizedString starting an infant see parents of baby boys are more likely to name other body parts let me sophie here's your pp 589.9 597.9
+RecognizedString parents of baby girls go right from navel to knees and they leave this whole situation in here on named 597.9 605.7
+RecognizedString there's no better way to make something on speakable the not to name it 605.7 611.5
+RecognizedString then kids going to there puberty education classes and they learn that boys have erections and a jaculation 611.5 617.7
+RecognizedString and girls have 617.7 620.1
+RecognizedString periods and unwanted pregnancy and they see that 620.1 625.2
+RecognizedString and that includes breaking the biggest taboo of all and talking to young people about women's capacity for 52.1 59.7
+RecognizedString internal diagram of a woman's reproductive system you know the one that looks kinda like a deer head 625.2 630.3
+RecognizedString edit always grey's out between my legs so we never say volver 630.3 639.7
+RecognizedString we certainly never say clitoris 639.7 642.1
+RecognizedString no surprise fewer than half of teenage girls eight fourteen seventeen have ever masturbate 642.1 648.8
+RecognizedString and then they go into there partner experience 648.8 652
+RecognizedString and we expected somehow da think sex is about done that will be able to articulate 652 658
+RecognizedString there needs desires there limits if an realistic 658 663.3
+RecognizedString your something though 663.3 665.7
+RecognizedString growth investment in there partners pleasure remains regardless of the gender of the partner 665.7 671.9
+RecognizedString so and fame sex encounters the orgasm gap disappears 671.9 677.9
+RecognizedString entitle meant to sexual pleasure 59.7 62.8
+RecognizedString and young women climax at the same rate s man 677.9 681.6
+RecognizedString lesbian and bisexual girls but tell me that they felt liberated to get off the script frida create an encounter 681.6 689.5
+RecognizedString that worked for them gay grove also challenged 689.5 693
+RecognizedString the idea of first intercourse is the definition of virginity 693 696.8
+RecognizedString not because intercourse isn't a big deal 696.8 699.1
+RecognizedString but it's worth questioning why we consider this one act 699.1 704
+RecognizedString which most girls associate with discomfort or pain to be the line in the sand of sexual adult hood 704 710
+RecognizedString so much more meaningful so much more transformer to than anything else 710 714.9
+RecognizedString and it's worth considering how this is serving girls weather it's keeping them safer from disease coalition betrayal assault 714.9 725.2
+RecognizedString weather it's encouraging neutrality and carrying 725.2 728.9
+RecognizedString yeah i spit three years talking to girls agent 62.8 71.4
+RecognizedString what it means about the way they see other sex acts weather it's giving them more control over enjoy and they're experience 728.9 737.3
+RecognizedString and what it means about gay teens who can have multiple sex partners 737.3 742.7
+RecognizedString without heterosexual intercourse 742.7 745.2
+RecognizedString sorry after gay girl that i met how do you know you weren't virgin anymore 745.2 751
+RecognizedString she said she a to google it 751 754.7
+RecognizedString in google wasn't sure 754.7 757.1
+RecognizedString she finally decided that she wasn't virgin anymore after shithead her first orgasm with a partner 757.1 765.5
+RecognizedString and i thought wow 765.5 768.6
+RecognizedString what if just for a second we imagined that was the definition 768.6 774.9
+RecognizedString again now because intercourse isn't a big deal of course it is but it isn't the only big deal 774.9 781.9
+RecognizedString fifteen to twenty about the attitudes and experience of sex 71.4 75.4
+RecognizedString and rather than thinking about sex is a race to ago all this help says re conceptual i said as a pool of experience 781.9 791
+RecognizedString that include form 791 793.2
+RecognizedString affection arousal desire touch intimacy 793.2 799.2
+RecognizedString and it's worth asking young people who's really the more sexually experienced person 799.2 804.9
+RecognizedString the one who makes up with a partner for three hours and experiments with sensual tension and communication 804.9 812.8
+RecognizedString are the one who get wasted at a party and hooks up with a random in order to dump there virginity before they get to college 812.8 821.2
+RecognizedString the only way that shifting thinking can happen though 821.2 824.8
+RecognizedString if we talked to young people more about facts if we normal lies does discussions integrating them into everyday life 824.8 833.9
+RecognizedString talking about those intimate acts in a different way the way we 833.9 839.1
+RecognizedString mostly have changed in the way that we talk about women in the public rome 839.1 843.1
+RecognizedString and what i found was that while young women mayfield entitled to engage in sexual behavior 75.4 81.4
+RecognizedString consider a survey of three hundred randomly chosen girls 843.1 848.3
+RecognizedString from a dutch and an american university to similar universities talking about there early experience of sex 848.3 855.6
+RecognizedString the dutch girls and bodied everything we say we want from or girls 855.6 860.9
+RecognizedString they had fewer negative consequences like disease pregnancy regret 860.9 866.3
+RecognizedString more positive outcomes like being able to communicate with your partner who they said they new very well preparing for the experience response sibley 866.3 875
+RecognizedString enjoying themselves 875 877.2
+RecognizedString what was there secret 877.2 879.3
+RecognizedString the dutch girls said that there doctors teachers and parents 879.3 883.7
+RecognizedString talk to them candid lee from an early h about sex pleasure and the importance of mutual trust 883.7 892.6
+RecognizedString what's more while american parents weren't necessarily left comfortable talking about sex 892.6 899
+RecognizedString they don't necessarily feel entitled to enjoy it 81.4 84.8
+RecognizedString we to frame those conversations entirely in terms of risk in danger 899 905.9
+RecognizedString where is dutch parents talk about balancing responsibility enjoy 905.9 911.7
+RecognizedString i have to tell you as a parent myself that hit me hard 911.7 917.2
+RecognizedString because i know 917.2 919.6
+RecognizedString had i not tilt into that research i would've talk to my own child about can't reception 919.6 925.7
+RecognizedString about disease protection about consent because i'm a modern parent and i would've thought job well done 925.7 935.6
+RecognizedString now i know that's not enough 935.6 939.4
+RecognizedString i also know what i hope for for are girls 939.4 943.3
+RecognizedString i want them to see sexuality as a source of self knowledge creativity and communication despite is potential risks 943.3 952.5
+RecognizedString i want them to be able to revel in there body sexuality without being reduced to it 952.5 958.5
+RecognizedString take the sophomore at the ivy league college she told me 84.8 88.2
+RecognizedString i want them to be able to ask her what they want in bad and get it 958.5 963.9
+RecognizedString i want them to be safe from unwanted pregnancy disease cruelty to human station 963.9 971.9
+RecognizedString violence if they are assaulted i wanted to have records 971.9 977.6
+RecognizedString from there schools there employers the court 977.6 982.6
+RecognizedString it's a lot to ask but it's not too much 982.6 987
+RecognizedString as parents teachers advocates an active if we have raised a generation of girls to have a voice 987 995.9
+RecognizedString to expect gala terry in treatment 995.9 998.8
+RecognizedString in the home in the classroom in the workplace 998.8 1003
+RecognizedString now it's time to demand that intimate justice and they're person alive as well 1003 1011.2
+RecognizedString thank you 1011.2 1019.9
+RecognizedString i confirm along line of smart strong women 88.2 91.6
+RecognizedString 1019.9 1024
+RecognizedString 1024 1026.1
+RecognizedString my grandmother was a firecracker my mom is a professional my sister and i are loud in that are form of feminine power 91.6 99.9
+RecognizedString she then proceeded to describe preset five to me a series of one off hookups starting when she was thirteen that word 99.9 107.9
+RecognizedString 2.2 9.2
+RecognizedString not especially responsible not especially reciprocal 107.9 112.4
+RecognizedString and not especially enjoyable 112.4 114.8
+RecognizedString she shrugged i guess we girls are to socialize to be these docile creatures we're done express are wants or needs 114.8 123.2
+RecognizedString wait a minute i replied didn't you just tell me what a smart strong woman you are 123.2 128.8
+RecognizedString she hampton hod i guess you finally said no one told me that that smart strong m enterprise to sucks 128.8 136.8
+RecognizedString i should probably say right up top that despite the hype 136.8 140.9
+RecognizedString teenagers are not engaging in intercourse more often or a younger age them they were twenty five years ago 140.9 147.8
+RecognizedString they are however engaging in other behavior 147.8 151.4
+RecognizedString and when we ignore that when we label that is not sex that open the door to risky behavior and disrespect 151.4 160.5
+RecognizedString that's particularly true of oral sex which teenagers consider to be less intimate than intercourse 160.5 167
+RecognizedString for several years now preventing dated international debate 9.2 16.5
+RecognizedString girls with tommy it's no big deal with it already same instruction manual 167 173.3
+RecognizedString at least if boys were under receiving ant 173.3 177.1
+RecognizedString young women have lots of reasons for participating it made them she'll desired it was a way to boost social status 177.1 184.6
+RecognizedString sometimes it was a way to get out of uncomfortable situation 184.6 188.2
+RecognizedString as a freshman at west coast college that to me 188.2 191.3
+RecognizedString a girl give a guy a blow job at the end of the night because she doesn't want to have sex with them 191.3 195.9
+RecognizedString and he expected to be satisfied so if i want him to leave and i don't want anything to happen 195.9 203
+RecognizedString i hurt so many stories of girls performing one sided oral sex 203 208.8
+RecognizedString but i started asking what everytime you were along with a guy he told you to getting a glass of water from the kitchen 208.8 215.9
+RecognizedString and he never got you a glass of water or if he did it was like 215.9 221.8
+RecognizedString about sexual assault on campus 16.5 18.9
+RecognizedString you want me to ah 221.8 225.5
+RecognizedString you don't totally bug rushing you wouldn't stand for it 225.5 230.3
+RecognizedString but it wasn't always that boys didn't wanna 230.3 233.3
+RecognizedString it was that girls didn't want them to 233.3 235.9
+RecognizedString gross expressed a sense of shame around or genitals a sense of humor simultaneously icky and sacred 235.9 244
+RecognizedString women feelings about there genitals have been directly linked to there enjoyment of sex 244 249.5
+RecognizedString yet debbie her benahk a researcher at indiana university believes that girls genital self images 249.5 256.4
+RecognizedString under siege with more pressure than ever to see them as unacceptable enter natural state 256.4 263.9
+RecognizedString according to research about three quarters of college women remove there pubic hair 263.9 269.4
+RecognizedString olivet at least application and more than have tea so regularly 269.4 274.6
+RecognizedString no question its crusher that young people understand the ground rules for consent 18.9 24.9
+RecognizedString girls with tell me that hair removal made them feel cleaner that it was a personal choice 274.6 281.8
+RecognizedString nope 281.8 283.9
+RecognizedString kinda wondered if left alone on a desert island if this was how they would shoes spend your time 283.9 291.5
+RecognizedString and when i pushed further a darker motivation a merged avoiding humiliation 291.5 297.6
+RecognizedString guys act like they would be disgusted by at one young woman told me now and wants to be talked about like that 297.6 305.2
+RecognizedString the ryven pubic hair removal reminded me of the nineteen twenties 305.2 309.6
+RecognizedString when women first started regularly shaving there armpits and your legs 309.6 313.7
+RecognizedString that's when flapper dresses came into style and women limbs were suddenly visible open to public scrutiny 313.7 321
+RecognizedString there's a way that i think that this to is assign that a girl's must intimate part is open to public scrutiny 321 329.2
+RecognizedString open to critique to becoming more about how it looks to someone else 329.2 334.4
+RecognizedString but that's where the conversation about sex is ending 24.9 28.6
+RecognizedString then how it feels to her 334.4 337.8
+RecognizedString the shooting trenton sparked another rise in libya plasti lady a plasti which is the trimming of the enter and outer libya 337.8 346.9
+RecognizedString is the fastest growing cosmetic surgery among teenage girls 346.9 352.8
+RecognizedString it rose eighty percent between two thousand fourteen and two thousand fifteen 352.8 357.8
+RecognizedString and where is girls under eighteen comprise two percent of all cosmetic surgery is they are five percent of lady a plasti 357.8 365.5
+RecognizedString the mossad after look incidentally in which the outer libya appear fuse like a clam show 365.5 371.3
+RecognizedString is called wait for it 371.3 374.8
+RecognizedString the barbie 374.8 376.8
+RecognizedString i trust i don't have to tell you that barbie is 376.8 381.2
+RecognizedString a made of plastic in be has no genitalia 381.2 387.4
+RecognizedString and in that vacuum of information the media and the internet 28.6 33.1
+RecognizedString the lady a plasti travis become so worry some 387.4 391
+RecognizedString 391 401.4
+RecognizedString and who side effects include 401.4 404.5
+RecognizedString scoring numbness pain and diminish sexual sensation 404.5 410
+RecognizedString no admitted leigh ann blessid lay the number of girls involved is still quite small 410 417
+RecognizedString but you could see them of canaries in a ca mine telling something important about the way girl cedar bodies 417 424.7
+RecognizedString sarah mclachlan 424.7 427.2
+RecognizedString 427.2 437.6
+RecognizedString that's the idea that sex has political as well as personal implications just like 437.6 443.7
+RecognizedString who does the dishes in your house or who vacuums the rug 443.7 447.3
+RecognizedString set new digital street corner are educating are kids for us 33.1 37.8
+RecognizedString and it rita similar issues about inequality 447.3 451.3
+RecognizedString about economic disparity violence physical and mental health 451.3 456.7
+RecognizedString intimate justice ask fifty consider who is entitled to in cajun and experience who is entitled to enjoy it 456.7 466.2
+RecognizedString who is the primary beneficiary and how does each partner define good enough 466.2 472.9
+RecognizedString honestly i think this questions or tricky 472.9 476.8
+RecognizedString i'm from times traumatic for adult women to confront 476.8 480.3
+RecognizedString but when we're talking about girls i just keep coming back to the idea that there early sexual experience shouldn't have to be something that they get over 480.3 491.9
+RecognizedString in her work mcclellan found 491.9 495.7
+RecognizedString that young women we're more likely than young man to use there partners pleasure as a measure of there satisfaction 495.7 502.9
+RecognizedString so that's a things like if he's sexually satisfied then i'm sexually satisfied 502.9 508.2
+RecognizedString if we truly what young people to engaged safely ethic leigh ann guess enjoy up lee 37.8 45.8
+RecognizedString young men warmer likely to measure there satisfaction by their own orgasm 508.2 514.4
+RecognizedString young women also defined bad sex differently 514.4 518.8
+RecognizedString in the largest ever survey ever conducted an american sexual behavior they reported 518.8 526.1
+RecognizedString pain in there sexual encounters thirty percent of the time 526.1 530.9
+RecognizedString they also use words like depressing 530.9 534.8
+RecognizedString humiliated to grading the young man never use that language 534.8 541.7
+RecognizedString so when young women report sexual satisfaction levels that are equal to or greater than young man's and they do in research 541.7 551.2
+RecognizedString that can be deceptive 551.2 553.2
+RecognizedString if a grow goes into an encounter hoping that it won't hurt wanting to feel close to her partner and expecting him to have an orgasm 553.2 561.9
+RecognizedString show me satisfied if there's criteria are met 561.9 564.8
+RecognizedString it's time to have open honest discussion about what happens after yes 45.8 52.1

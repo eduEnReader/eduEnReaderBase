@@ -1,0 +1,289 @@
+title 
+textStore MauriceConti_2016X-480p.html
+MD5TextStore MD5
+soundStore MauriceConti_2016X-480p.mp4
+MD5SoundStore MD5
+Bind 0 31 9.2 14.6
+Bind 31 134 14.6 20.6
+Bind 134 248 20.6 32.2
+Bind 248 332 32.2 39.8
+Bind 332 414 39.8 45.1
+Bind 414 483 45.1 51.1
+Bind 483 533 51.1 54.8
+Bind 533 643 54.8 62.3
+Bind 643 706 62.3 66.6
+Bind 706 809 66.6 75.7
+Bind 809 884 75.7 82.5
+Bind 884 967 82.5 84.8
+Bind 967 1061 84.8 90.9
+Bind 1061 1209 90.9 101.9
+Bind 1209 1304 101.9 107.1
+Bind 1304 1373 107.1 111.2
+Bind 1373 1447 111.2 118.4
+Bind 1447 1556 118.4 125.7
+Bind 1556 1590 125.7 128.1
+Bind 1590 1657 128.1 133.3
+Bind 1657 1708 133.3 136.9
+Bind 1708 1752 136.9 140.6
+Bind 1752 1862 140.6 147.6
+Bind 1862 1989 147.6 155.1
+Bind 1989 2051 155.1 160.2
+Bind 2051 2145 160.2 165.3
+Bind 2145 2295 165.3 173.6
+Bind 2295 2378 173.6 178.9
+Bind 2378 2446 178.9 184.7
+Bind 2446 2469 184.7 186.7
+Bind 2469 2605 186.7 195.7
+Bind 2605 2728 195.7 202.7
+Bind 2728 2764 202.7 204.9
+Bind 2764 2899 204.9 211
+Bind 2899 3053 211 221.5
+Bind 3053 3145 221.5 227.4
+Bind 3145 3258 227.4 233.6
+Bind 3258 3336 233.6 239.2
+Bind 3336 3434 239.2 243
+Bind 3434 3584 243 254.5
+Bind 3584 3687 254.5 260.8
+Bind 3687 3769 260.8 267.3
+Bind 3769 3953 267.3 278.9
+Bind 3953 4083 278.9 286
+Bind 4083 4177 286 293.9
+Bind 4177 4213 293.9 296.3
+Bind 4213 4276 296.3 301.1
+Bind 4276 4407 301.1 307.8
+Bind 4407 4639 307.8 322.8
+Bind 4639 4876 322.8 341.8
+Bind 4876 4960 341.8 350.7
+Bind 4960 5073 350.7 357.5
+Bind 5073 5372 357.5 379.8
+Bind 5372 5533 379.8 389.9
+Bind 5533 5671 389.9 399.3
+Bind 5671 5747 399.3 405.9
+Bind 5747 5881 405.9 419.8
+Bind 5881 6022 419.8 428.9
+Bind 6022 6170 428.9 437
+Bind 6170 6307 437 443.9
+Bind 6307 6385 443.9 447.2
+Bind 6385 6467 447.2 454.6
+Bind 6467 6585 454.6 461.9
+Bind 6585 6760 461.9 471.8
+Bind 6760 6879 471.8 478.4
+Bind 6879 6948 478.4 485.6
+Bind 6948 7041 485.6 489.8
+Bind 7041 7173 489.8 499.3
+Bind 7173 7280 499.3 505.9
+Bind 7280 7362 505.9 511.7
+Bind 7362 7539 511.7 521.5
+Bind 7539 7592 521.5 524.7
+Bind 7592 7722 524.7 533.2
+Bind 7722 7760 533.2 536.5
+Bind 7760 7808 536.5 541.3
+Bind 7808 8000 541.3 551.4
+Bind 8000 8053 551.4 554.2
+Bind 8053 8180 554.2 561.7
+Bind 8180 8290 561.7 567.2
+Bind 8290 8427 567.2 575
+Bind 8427 8608 575 584.7
+Bind 8608 8699 584.7 589.6
+Bind 8699 8886 589.6 599.3
+Bind 8886 8949 599.3 604.1
+Bind 8949 9254 604.1 623.6
+Bind 9254 9327 623.6 628.9
+Bind 9327 9429 628.9 634.6
+Bind 9429 9541 634.6 640
+Bind 9541 9617 640 645.9
+Bind 9617 9719 645.9 652
+Bind 9719 9781 652 656.1
+Bind 9781 9937 656.1 665.8
+Bind 9937 10160 665.8 676.2
+Bind 10160 10230 676.2 681.1
+Bind 10230 10366 681.1 689.3
+Bind 10366 10472 689.3 694.7
+Bind 10472 10585 694.7 702.9
+Bind 10585 10778 702.9 712.4
+Bind 10778 10879 712.4 719.4
+Bind 10879 10980 719.4 725.9
+Bind 10980 11082 725.9 731.6
+Bind 11082 11159 731.6 736.3
+Bind 11159 11231 736.3 739.7
+Bind 11231 11390 739.7 749.8
+Bind 11390 11454 749.8 753.3
+Bind 11454 11568 753.3 760
+Bind 11568 11680 760 766.8
+Bind 11680 11823 766.8 779.9
+Bind 11823 11854 779.9 782.6
+Bind 11854 11970 782.6 789.3
+Bind 11970 12093 789.3 795.2
+Bind 12093 12377 795.2 812.3
+Bind 12377 12492 812.3 820.3
+Bind 12492 12564 820.3 828.3
+Bind 12564 12770 828.3 841.2
+Bind 12770 12992 841.2 859.6
+Bind 12992 13140 859.6 865.8
+Bind 13140 13254 865.8 875.7
+Bind 13254 13345 875.7 881.8
+Bind 13345 13426 881.8 887.1
+Bind 13426 13572 887.1 896.8
+Bind 13572 13760 896.8 910.3
+RecognizedString yes 0 2.2
+RecognizedString here's another cool project official park on the goal of this project which call the hiv 561.7 567.2
+RecognizedString what's the prototype experience of humans computers in robot all working together to solve highly complex divine prop 567.2 575
+RecognizedString the humans artist labor the christina construction fight manipulate at the bamboo which by the way 575 581.2
+RecognizedString nice murphy material is super hiv robot studio at 581.2 584.7
+RecognizedString what's on the robots do the fighter winding what does almost impossible for human today 584.7 589.6
+RecognizedString and then we had an ai that was controlling i'm everything was telling that humans what to do is telling robots what to do in keeping track of thousands of individual components 589.6 599.3
+RecognizedString what's interesting is building is pavilion simply not possible 599.3 604.1
+RecognizedString without human robot and a i augment ing each other 604.1 609.1
+RecognizedString okay show when my project o2 crazy 609.1 612.9
+RecognizedString working with amsterdam based artist yours lauren entertainment imax 3d to generally design and robotic rent the world's first autonomous we manufactured bridge 612.9 623.6
+RecognizedString laundry gather is lasted several million years 51.1 54.8
+RecognizedString so you're a liar designing this thing right now as we speak in amsterdam 623.6 628.9
+RecognizedString and when they're done you can he go and robots will start 3d printing in stainless steel 628.9 634.6
+RecognizedString and then i gonna keep printing without simon intervention until the bridges finished 634.6 640
+RecognizedString so is computers gonna augment are ability to imagine a design you stuff 640 645.9
+RecognizedString robotic systems are gonna help with builder make things that we've never been able to make before 645.9 652
+RecognizedString but what about are ability to fans in controlled is thanks 652 656.1
+RecognizedString what about a nervous system for the things that we make i want nervous system human ever system tells us everything that's going on around us 656.1 665.8
+RecognizedString put the nervous system of a things we make is rudimental report 665.8 669.8
+RecognizedString a francis a car doesn't tell the cities public works if i'm interested apart hold the corner broadway morrison 669.8 676.2
+RecognizedString building doesn't tells designers weather not the people inside like being there 676.2 681.1
+RecognizedString and then the agricultural age lasted several thousand years industrial age lasted a couple of centuries 54.8 62.3
+RecognizedString and the toy manufacturer doesn't know for toy is actually dean playlist how when where weather not a telephone 681.1 689.3
+RecognizedString look up sugar designers imagined this lifestyle for barbie when they designer 689.3 694.7
+RecognizedString but what if it turns out barbies actually really lonely 694.7 698.8
+RecognizedString 698.8 702.9
+RecognizedString designer set leonel was really happening real world with their designs throw the building in barbie picture of use that knowledge to create an experience that was better for the user 702.9 712.4
+RecognizedString and what's missing is a nervous system connecting esta all the things that we design make news 712.4 719.4
+RecognizedString what have olive you had that kind of information find you from the things you create in the real world 719.4 725.9
+RecognizedString with all the stuff we make we spend a tremendous amount of money energy in fact last you about 725.9 731.6
+RecognizedString a two trillion dollars convincing people to buy the things that we've mate 731.6 736.3
+RecognizedString but if you how does connection to the things that you designing create 736.3 739.7
+RecognizedString and now the information age has last adjust a few decades 62.3 66.6
+RecognizedString after the out in the real world after events older launched or whatever we could actually change that and go for making people want our stuff 739.7 749.8
+RecognizedString to just making stuff the people want in first place 749.8 753.3
+RecognizedString the good uses we're working on digital nervous system that collectors to the things we design 753.3 760
+RecognizedString i'm okay one project with a couple guys don't in los angeles called bendigo brothers and they're team 760 766.8
+RecognizedString what other things guys do is build insane cars pet do absolutely insane things 766.8 773.9
+RecognizedString these guys are crazy in the best way 773.9 779.9
+RecognizedString and what we're doing with an 779.9 782.6
+RecognizedString is a taking a traditional race car chassis and giving it nervous system so we instrument with doesn't answers 782.6 789.3
+RecognizedString and then we put a world class driver behind a we'll get out of the desert dro the hell out of it for week 789.3 795.2
+RecognizedString emma cars nervous system captured everything that was happening to the car we captured four billion data points 795.2 802.3
+RecognizedString a now today ron the cost of our next great era as a species welcome to the augmented h 66.6 75.7
+RecognizedString all the forces ever subtract two to then we did something crazy 802.3 806.7
+RecognizedString we took all about data infected into jeanette of design a either we call dreamcatcher 806.7 812.3
+RecognizedString so what do you get when you give a design toy nervous system and you ask a to go to the ultimate car chassis 812.3 820.3
+RecognizedString you get this 820.3 823.3
+RecognizedString this is something that a human could never have design 823.3 828.3
+RecognizedString except a human to define f but it was a human there was augmented thai general design a i additional nervous system and robot that can actually fabric it something like this 828.3 839.1
+RecognizedString save this is the future 839.1 841.2
+RecognizedString the augmented age and we're gonna be augmented called beautifully physically and for sexually what what i look like 841.2 849.2
+RecognizedString what are the wonderland gonna be like i think we're gonna seaworld for moving from things that are fabric eat it 849.2 857.4
+RecognizedString to things that are fired 857.4 859.6
+RecognizedString please new era your natural human capabilities are gonna be augmented by computation assistant help you think 75.7 82.5
+RecognizedString removing from things that are constructed to that which is grow 859.6 865.8
+RecognizedString we're gonna move from being isolated being connected anil move away from extraction term brace agra gation 865.8 875.7
+RecognizedString i have to fickle shift from craving aliens from are things today leaving autonomy 875.7 881.8
+RecognizedString thanks for augmented capabilities are world is gonna change dramatically 881.8 887.1
+RecognizedString we're gonna have a world with more variety what connected there's more dine amazon complexity 887.1 893.1
+RecognizedString where dr bility in scores for beauty 893.1 896.8
+RecognizedString the shape of things to come obi unlike anything we've ever seen before why because what will be shaping those things 896.8 903.9
+RecognizedString 903.9 910.3
+RecognizedString that to me as a future well russ looking forward to 910.3 914.8
+RecognizedString but you're so much 914.8 923.9
+RecognizedString robotic systems that help you make 82.5 84.8
+RecognizedString 923.9 927.6
+RecognizedString 927.6 930
+RecognizedString and digital nervous system the connect you to the world far beyond your natural census 84.8 90.9
+RecognizedString what start with cognitive augmentation how many view are augmented fireworks i would actually i do that we're already augmented 90.9 101.9
+RecognizedString imagine your at a party and somebody ask you a question you don't know the answer to 101.9 107.1
+RecognizedString if you have one of these in a few seconds you can know the answer 107.1 111.2
+RecognizedString 2.2 9.2
+RecognizedString but this is just a primitive beginning even siri is just a passes to 111.2 118.4
+RecognizedString in fact for the last three and a half a million years told that we've had event completely passive 118.4 125.7
+RecognizedString they do exactly what we totem 125.7 128.1
+RecognizedString uh nothing more are very first two only cut where we stroke it 128.1 133.3
+RecognizedString the chisel only cards for the artist points 133.3 136.9
+RecognizedString in even are most advanced tools do nothing 136.9 140.6
+RecognizedString without are explicit direction 140.6 142.8
+RecognizedString effect date missis i'm gonna frustrate me revised unlimited 142.8 147.6
+RecognizedString bye i just need to manually push are wells into our tools like manually little using are have even with computers 147.6 155.1
+RecognizedString but i'm more like scotty in star trek 155.1 160.2
+RecognizedString how many view are creators 9.2 14.6
+RecognizedString i want to have a conversation with a computer i honestly computer let's design a car 160.2 165.3
+RecognizedString i'm a computer shows me a car that's a no more fast looking unless german bangla computer shows me an option 165.3 173.6
+RecognizedString conversation might be a little ways offer toxic puppy less than manual thank 173.6 178.9
+RecognizedString but right now i'm working on it to the making the sleep from pink passive 178.9 184.7
+RecognizedString being generator 184.7 186.7
+RecognizedString janet of design tools use a computer and algorithms to sympathize geometry to come up with new design all my themselves 186.7 195.7
+RecognizedString all it needs arya goals and your can strikes a give an example mckay solis ariel drown chassis 195.7 202.7
+RecognizedString all you need to do is tower 202.7 204.9
+RecognizedString something like it house for pillars you wanted to be as lightweight as possible live to be out and am ugly official 204.9 211
+RecognizedString and then what the computer does isn't explores the entire solution space every single possibility the solve a meteor criteria millions of them 211 221.5
+RecognizedString designers engineers entrepreneur is artist maybe just have a really big imagination 14.6 20.6
+RecognizedString take a computers to do this but it comes back to us with designs that we buy ourselves 221.5 227.4
+RecognizedString never could've imagined in the computers coming up stuff oh by itself known ever drew anything 227.4 233.6
+RecognizedString and it started completely from scratch 233.6 236.6
+RecognizedString by the way if no accident 236.6 239.2
+RecognizedString the drone body looks just like to pelvis of flying squirrel 239.2 243
+RecognizedString the algorithms are designed to same way that evolution does 243 249.7
+RecognizedString 249.7 254.5
+RecognizedString where can working with airbus for couple of yours on concept planed for the future now it's always out still 254.5 260.8
+RecognizedString but just recently we used a general have design a i ii come up with this 260.8 267.3
+RecognizedString this is a 3d printed cabin partition between designed by computer 267.3 272.5
+RecognizedString show hands radar supposed to be i have some news for us creative 20.6 27.8
+RecognizedString it stronger than your original halfway and will be fine airbus a three twenty later this year 272.5 278.9
+RecognizedString so computers cloud generator can come up with their own solutions to our well defined prabat 278.9 286
+RecognizedString but they're not intuitive estaba star from scratch every single pie that's because they never learner 286 293.9
+RecognizedString unlike maggie 293.9 296.3
+RecognizedString maggie's actually smarter than a most advanced design tools 296.3 301.1
+RecognizedString what do you mean by that if are owner picks up that leash maggie knows with affair degree of seventy years time to go for a walk 301.1 307.8
+RecognizedString and how did shiver well everytime down picked up the least a went for a walk in maggie did three facts 307.8 314.3
+RecognizedString cheta pay attention cheddar remember what happened mc hi to retain in creator pattern in her mind 314.3 322.8
+RecognizedString interesting lee that's exactly what computer scientist i've been trying to get a i sidu for last six you're so years 322.8 329.9
+RecognizedString becca nineteen fifty two builders computer ticket play tic-tac-toe 329.9 335.9
+RecognizedString of course the next twenty years 27.8 32.2
+RecognizedString potato ten fourty five years later nineteen ninety seven 335.9 341.8
+RecognizedString deep blue beats casper off 341.8 345.3
+RecognizedString twenty eleven watson beach please do humans jeopardy 345.3 350.7
+RecognizedString which is much harder for computer play chess is in factor rosen working from for you to find recipes 350.7 357.5
+RecognizedString watson how to use recently to overcome has human opponent 357.5 361.8
+RecognizedString amanda what a couple weeks ago date minds alpha go page the world's best human at go 361.8 368.9
+RecognizedString what is the most difficult can we have vac and go more possible news from there are adams in the universe 368.9 377.3
+RecognizedString sonar to win 377.3 379.8
+RecognizedString what alpha go how to do is develop intuition in fart at some point africa's programmers didn't understand why alpha goes doing what it was doing 379.8 389.9
+RecognizedString and things are moving really fast i'm in consider in space for human lifetime 389.9 395.9
+RecognizedString more will change around the way we do i work 32.2 37
+RecognizedString computers of godsmack childcare 395.9 399.3
+RecognizedString towards recognizes a pinnacle of strategic bar 399.3 403.4
+RecognizedString what's basically happening 403.4 405.9
+RecognizedString is computers are going from being like spark 405.9 409.5
+RecognizedString 409.5 419.8
+RecognizedString would you cross a bridge 419.8 422.1
+RecognizedString most of you're saying oh hell no in your write a tattoo susan in sport socket 422.1 428.9
+RecognizedString you just sort of new temperatures unsafe and that's exactly the kind of intuition that are deep learning systems are starting to develop right now 428.9 437
+RecognizedString very sanya literally be able to show something that you've made if design to computer and look at it and satan 437 443.9
+RecognizedString sorry homie that'll never work after try again 443.9 447.2
+RecognizedString tennis happen last two thousand 37 39.8
+RecognizedString or you could ask replay gonna lie connect phone or your next flavor of ice cream 447.2 454.6
+RecognizedString or maximum partly you could work with a computer to solve the problem that we've never faced for 454.6 461.9
+RecognizedString francis climate change not doing a very good job on around we could certainly use all the help we can get 461.9 467.3
+RecognizedString 467.3 471.8
+RecognizedString so we can imagine and design things that we were simply out of our reach is plain old on augmented humans 471.8 478.4
+RecognizedString so what about making all this crazy new stuff that we're gonna a invented and design 478.4 485.6
+RecognizedString i think we era of human i'm in tation is just as much about the physical world 485.6 489.8
+RecognizedString as it is about the virtual intellectual round 489.8 493.4
+RecognizedString 493.4 499.3
+RecognizedString ok recently affair that robots are gonna take jobs away from humans and that is true insert suckers 499.3 505.9
+RecognizedString in fact i think worth the dawn avenue age a human history 39.8 45.1
+RecognizedString but i'm much more interested in that idea 505.9 508.7
+RecognizedString humans and robots working together 508.7 511.7
+RecognizedString are going to augment each other and start when habit annu space this is are applied research live in san francisco for one of our aries a focus isabel's robotics 511.7 521.5
+RecognizedString specifically human robot collaboration 521.5 524.7
+RecognizedString i miss special one of our robot and as an experiment whistle love to help a person working construction doing repetitive tasks 524.7 533.2
+RecognizedString task buy courier holes for outlets or 533.2 536.5
+RecognizedString light switches in drywall 536.5 541.3
+RecognizedString so bishops human partner can tell what to do in plain english i'm a simple gestures kinda like talking to a dog and then bishop execute on those instructions with perfect procedure 541.3 551.4
+RecognizedString we're using the human for what the human is good at 551.4 554.2
+RecognizedString write awareness perception and decision making in reason robot for it's good at precision and repetitive 554.2 561.7
+RecognizedString no the for major historical errors defined by the way we work 45.1 51.1

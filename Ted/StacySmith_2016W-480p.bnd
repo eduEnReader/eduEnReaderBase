@@ -1,0 +1,307 @@
+title 
+textStore StacySmith_2016W-480p.html
+MD5TextStore MD5
+soundStore StacySmith_2016W-480p.mp4
+MD5SoundStore MD5
+Bind 7 57 9.2 16.5
+Bind 57 85 16.5 19
+Bind 85 228 19 29.9
+Bind 228 267 29.9 34.3
+Bind 267 320 34.3 39.1
+Bind 320 388 39.1 44.6
+Bind 388 478 44.6 52.3
+Bind 478 554 52.3 59.4
+Bind 554 571 59.4 62.3
+Bind 571 629 62.3 66.1
+Bind 629 678 66.1 70.6
+Bind 678 718 70.6 74.3
+Bind 718 836 74.3 80.8
+Bind 836 911 80.8 86.2
+Bind 911 972 86.2 92.6
+Bind 972 1024 92.6 96.6
+Bind 1024 1133 96.6 103
+Bind 1133 1229 103 109.3
+Bind 1229 1282 109.3 114.7
+Bind 1282 1403 114.7 123.1
+Bind 1403 1525 123.1 133.3
+Bind 1525 1683 133.3 142.7
+Bind 1683 1800 142.7 149.9
+Bind 1800 1839 149.9 154.1
+Bind 1839 2000 154.1 167.5
+Bind 2000 2061 167.5 171.6
+Bind 2061 2238 171.6 185.5
+Bind 2238 2375 185.5 196.6
+Bind 2375 2475 196.6 203.5
+Bind 2475 2516 203.5 207.4
+Bind 2516 2638 207.4 215.6
+Bind 2638 2703 215.6 218.6
+Bind 2703 2754 218.6 223.2
+Bind 2754 2867 223.2 231.6
+Bind 2867 2991 231.6 239.2
+Bind 2991 3055 239.2 245.6
+Bind 3055 3122 245.6 250.9
+Bind 3122 3162 250.9 255.2
+Bind 3162 3291 255.2 262.9
+Bind 3291 3384 262.9 269.2
+Bind 3384 3419 269.2 273.3
+Bind 3419 3540 273.3 280.7
+Bind 3540 3593 280.7 283.9
+Bind 3593 3817 283.9 296.4
+Bind 3817 3867 296.4 300.3
+Bind 3867 3902 300.3 302.8
+Bind 3902 3961 302.8 306.7
+Bind 3961 4066 306.7 314.6
+Bind 4066 4116 314.6 318
+Bind 4116 4295 318 328.7
+Bind 4295 4445 328.7 338.1
+Bind 4445 4505 338.1 342.6
+Bind 4505 4696 342.6 353.2
+Bind 4696 4812 353.2 359.1
+Bind 4812 4922 359.1 365.8
+Bind 4922 5066 365.8 376
+Bind 5066 5182 376 385.3
+Bind 5182 5352 385.3 395.9
+Bind 5352 5407 395.9 399.8
+Bind 5407 5490 399.8 410
+Bind 5490 5578 410 416.9
+Bind 5578 5662 416.9 425.1
+Bind 5662 5708 425.1 428.9
+Bind 5708 5801 428.9 434.7
+Bind 5801 5943 434.7 446
+Bind 5943 6053 446 454
+Bind 6053 6127 454 459.6
+Bind 6127 6305 459.6 471.8
+Bind 6305 6403 471.8 477.9
+Bind 6403 6540 477.9 484.7
+Bind 6540 6618 484.7 491.2
+Bind 6618 6722 491.2 501.7
+Bind 6722 6897 501.7 508.9
+Bind 6897 6984 508.9 514.5
+Bind 6984 7068 514.5 521.7
+Bind 7068 7137 521.7 525.3
+Bind 7137 7229 525.3 531.9
+Bind 7229 7334 531.9 540.6
+Bind 7334 7479 540.6 549.3
+Bind 7479 7544 549.3 554
+Bind 7544 7617 554 558
+Bind 7617 7770 558 569.5
+Bind 7770 7838 569.5 573.9
+Bind 7838 7973 573.9 580.5
+Bind 7973 8017 580.5 583.3
+Bind 8017 8210 583.3 597.8
+Bind 8210 8260 597.8 605.4
+Bind 8260 8385 605.4 610.5
+Bind 8385 8523 610.5 620.5
+Bind 8523 8602 620.5 624.3
+Bind 8602 8778 624.3 638.6
+Bind 8778 8887 638.6 644.3
+Bind 8887 8975 644.3 650.7
+Bind 8975 9063 650.7 658
+Bind 9063 9170 658 665.7
+Bind 9170 9200 665.7 668.4
+Bind 9200 9309 668.4 676.1
+Bind 9309 9372 676.1 681.2
+Bind 9372 9477 681.2 689.1
+Bind 9477 9557 689.1 694.6
+Bind 9557 9642 694.6 700.7
+Bind 9642 9737 700.7 706.1
+Bind 9737 9802 706.1 709.7
+Bind 9802 9850 709.7 714
+Bind 9850 9924 714 720.4
+Bind 9924 10138 720.4 737.2
+Bind 10138 10266 737.2 746.5
+Bind 10266 10345 746.5 752.1
+Bind 10345 10422 752.1 756.8
+Bind 10422 10515 756.8 762.8
+Bind 10515 10660 762.8 772.7
+Bind 10660 10745 772.7 777.6
+Bind 10745 10884 777.6 787.1
+Bind 10884 10946 787.1 792.7
+Bind 10946 11008 792.7 799
+Bind 11008 11124 799 809.9
+Bind 11124 11186 809.9 815
+Bind 11186 11234 815 820.2
+Bind 11234 11322 820.2 827.5
+Bind 11322 11352 827.5 830
+Bind 11352 11393 830 835.5
+Bind 11393 11517 835.5 844.9
+Bind 11517 11626 844.9 854.9
+Bind 11626 11682 854.9 859.9
+Bind 11682 11780 859.9 868.5
+Bind 11780 11858 868.5 874.6
+Bind 11858 11937 874.6 882.1
+Bind 11937 12047 882.1 891
+Bind 12047 12126 891 896.4
+Bind 12126 12203 896.4 911.5
+Bind 12203 12306 911.5 914.2
+Bind 12306 12384 914.2 921.3
+Bind 12384 12440 921.3 927.8
+Bind 12440 12500 927.8 932.7
+RecognizedString yes 0 2.2
+RecognizedString there actually simple intangible solutions to fixing as problem that involve contact creators executive and consumers like the individuals in this room 558 569.5
+RecognizedString let's talk about a few of them the first is what i called just add five 569.5 573.9
+RecognizedString did you know if we looked at the top one hundred films next year and simply added five female speaking characters on screen 573.9 580.5
+RecognizedString teacher those films it would create a new norm 580.5 583.3
+RecognizedString if we were to do this for three contiguous years we would be a gender parody for the first time in over a half of a centric 583.3 593.3
+RecognizedString now this approaches advantages for variety of recent one 593.3 597.8
+RecognizedString it doesn't take away jobs for mail actors 597.8 600.7
+RecognizedString heaven for bed 600.7 605.4
+RecognizedString it up is is actually cost effective it doesn't cost that much three a build the pipeline for talent 605.4 610.5
+RecognizedString and for it human isis the production process why because it make sure that there's women on sat 610.5 617.3
+RecognizedString particularly not stories 59.4 62.3
+RecognizedString second solution is for a list count 617.3 620.5
+RecognizedString a list urs as we all know can make the manson there contracts 620.5 624.3
+RecognizedString particularly the one that work on the biggest hollywood films one of those a list urs simply added in equity claus or inclusion writer into there contract 624.3 635.8
+RecognizedString now what does that mean well 635.8 638.6
+RecognizedString you probably don't know but the typical feature film has about forty to forty five speaking characters in it 638.6 644.3
+RecognizedString i would argue that only eight two ten of those characters are actually relevant to the story 644.3 650.7
+RecognizedString except neighbor avengers write a few more in avengers the romanian thirty are so rolls 650.7 658
+RecognizedString there's no reason why those minor rolf can't match or reflect the demar graphy of where the story is take 'em 658 665.7
+RecognizedString taking place in equity rider 665.7 668.4
+RecognizedString by in a lister in there contract can stimulate that those rolls reflect the world in which we actually live 668.4 676.1
+RecognizedString compartment lights in the form of american movies 62.3 66.1
+RecognizedString now there's no reason why i network a studio or production company 676.1 681.2
+RecognizedString cannot adopt the same contracts will language in there negotiation processes third solution 681.2 689.1
+RecognizedString this would be for the entertainment industry hollywood in particular to adopt 689.1 694.6
+RecognizedString the rooney rule when it comes to hiring practices around directors now in the nfl 694.6 700.7
+RecognizedString the rainy roast copulate that if a team wants to hire coach from outside the organization 700.7 706.1
+RecognizedString what they have to do is interview and under represented candidate 706.1 709.7
+RecognizedString the exact same principal can apply to hollywood films 709.7 714
+RecognizedString how well on top films executive sin agents can't get can make sure 714 720.4
+RecognizedString that women in people of color are not only on the consideration less but there actually interviewed for the job 720.4 728.7
+RecognizedString no one likes a why sis important because is expose is or introduce is executive to female directors 728.7 737.2
+RecognizedString in film interesting lana females are still erased 66.1 70.6
+RecognizedString who otherwise fall pray to exclusion every hiring practices 737.2 741.8
+RecognizedString the fourth solution is for consumers like menu 741.8 746.5
+RecognizedString if we wanna see more films by foreign about woman we have to support them 746.5 752.1
+RecognizedString it may mean going to the independent theater chain instead of the multiplex 752.1 756.8
+RecognizedString or it might means scrolling down a little further online to find a found by a female director 756.8 762.8
+RecognizedString or it maybe writing a check in finding a film particularly by a female director from a under represented background 762.8 770.3
+RecognizedString right we need to right 770.3 772.7
+RecognizedString call in email companies that are making in distributing films and we need to post 772.7 777.6
+RecognizedString on our social media accounts when we want to see inclusive representation women on screen and most important lee 777.6 785.1
+RecognizedString women behind the camera 785.1 787.1
+RecognizedString and marginal eyes and a lot of our stories 70.6 74.3
+RecognizedString we need to make are voices heard and are dollars count 787.1 792.7
+RecognizedString now we actually have the ability to change the world on this one 792.7 799
+RecognizedString the u s and it's content films in particular have captured the imagination of audience is worldwide worldwide 799 809.9
+RecognizedString so that means that the film industry has an president it access 809.9 815
+RecognizedString to be able to distribute stories about equality 815 820.2
+RecognizedString all around the world imagine what would happen if the film industry aligned it's values 820.2 827.5
+RecognizedString with what it shows on screen 827.5 830
+RecognizedString it could foster inclusion and acceptance for girls in women 830 835.5
+RecognizedString people of color the lg b t community individuals with this ability and so many more on around the world 835.5 844.9
+RecognizedString the only thing at the film industry has to do is unleash it secret weapon 844.9 851.8
+RecognizedString and i learn this for the first time about ten years ago when i did my first teddy on gender roll and g rated films 74.3 80.8
+RecognizedString and that story time 851.8 854.9
+RecognizedString now at the beginning of this talk i said that films 854.9 859.9
+RecognizedString that they can actually transport us but i would like to argue that films they can transform ice 859.9 868.5
+RecognizedString none of us in this room have grownup or experienced storytelling landscape 868.5 874.6
+RecognizedString with fully realized female characters none of us 874.6 879.7
+RecognizedString cousin numbers haven't changed 879.7 882.1
+RecognizedString what would happen if the next generation of audience is grew up with a whole different screen reality 882.1 891
+RecognizedString what would happen what i'm here to tell you to day that's not only possible 891 896.4
+RecognizedString to change what we see on screen but i'm impatient for it to get here 896.4 902.8
+RecognizedString so let's agree to take action today to erotic kate the epidemic of in visibility 902.8 911.5
+RecognizedString since then we've conducted more than thirty investigations my team is tired 80.8 86.2
+RecognizedString and let's agree to take action today 911.5 914.2
+RecognizedString to agree that you s audience is an global viewers demand and deserve more 914.2 921.3
+RecognizedString and let's agree to day that the next generation of yours 921.3 927.8
+RecognizedString and audience is that they deserve to see the stories 927.8 932.7
+RecognizedString we were never able to see thank you 932.7 937
+RecognizedString 937 947.9
+RecognizedString 947.9 951.3
+RecognizedString 951.3 954
+RecognizedString and and i've committed my life as researcher and activist 86.2 92.6
+RecognizedString to fighting the inclusion crisis in hollywood 92.6 96.6
+RecognizedString so today would i'd like to do is tell you about that crisis i wanna talk about gender inequality and film 96.6 103
+RecognizedString i wanna tell you how it is for patch waited and i'm going to tell you how we're going to fix it 103 109.3
+RecognizedString 2.2 9.2
+RecognizedString however one kavya right before i begin my data 109.3 114.7
+RecognizedString are really depressing 114.7 116.8
+RecognizedString 116.8 123.1
+RecognizedString i'm going to bring it up at the end and i'm gonna present a silver lining to fix this mess that we've been in 123.1 130.9
+RecognizedString for a very very long time 130.9 133.3
+RecognizedString so let's start with the gravity of this situation if you're my research team exam in the top one hundred grossing films in the united states 133.3 142.7
+RecognizedString what we do is we look at every speaking are names character on screen now take count in one of my investigations 142.7 149.9
+RecognizedString ola character have to do is say one word 149.9 154.1
+RecognizedString this is a very low bar 154.1 156.8
+RecognizedString 156.8 167.5
+RecognizedString today i wanna tell you about id pressing social issue 9.2 16.5
+RecognizedString lg b t and characters with the disability 167.5 171.6
+RecognizedString let's take a look its really some problematic trance 171.6 175.7
+RecognizedString first females are still notice sibley app send on screen and film across eight hundred movies and thirty five thousand two hundred and five speaking characters listen 175.7 185.5
+RecognizedString third of all rolls go to girls and women 185.5 188.4
+RecognizedString where's the third there's been no change from two thousand seven two twenty fifteen and if you compare are results too small sample of films from 188.4 196.6
+RecognizedString nineteen fourty six did nineteen fifty five there's been no change in over a half of a century 196.6 203.5
+RecognizedString over have a century but we're half of the population 203.5 207.4
+RecognizedString now if we look at this data intersection early which has been a focus of today the picture becomes even more problematic 207.4 215.6
+RecognizedString across the top one hundred films have just last year 215.6 218.6
+RecognizedString fourty films didn't feature one blacker african american speaking character 218.6 223.2
+RecognizedString now it's not nuclear arms 16.5 19
+RecognizedString not one seventy films where the void of asian are asian american speaking characters that were girls for women none 223.2 231.6
+RecognizedString eighty four films didn't feature one female character that had a disability and ninety three were do void of lesbian 231.6 239.2
+RecognizedString bisexual or transgender female speaking characters this is not under representation 239.2 245.6
+RecognizedString this is erase your and i called this the epidemic 245.6 250.9
+RecognizedString oven visibility now when we move from press prevalent 250.9 255.2
+RecognizedString to protagonist the story is still problematic out of a hundred films last you're only thirty two feature to female lead 255.2 262.9
+RecognizedString or coli driving the action only three out of a hundred films featured and under represented 262.9 269.2
+RecognizedString female driving the story and only one diverse woman 269.2 273.3
+RecognizedString for that was fourty five years of age or older at the time of theatrical release now let's look at per trail 273.3 280.7
+RecognizedString in addition to the numbers you just saw females 280.7 283.9
+RecognizedString it's not immigration and it's not malaria i'm here to talk about movies now and i'll seriousness movies are actually really important 19 29.9
+RecognizedString are farmer like lady be sexual ice in film then there mail counter parts matter fact about three times is likely to be shown in sexually revealing clothing 283.9 292.5
+RecognizedString partially naked and they're far more likely to beat then 292.5 296.4
+RecognizedString now sometimes in animation females or so 296.4 300.3
+RecognizedString that there wink size approximate 300.3 302.8
+RecognizedString the circumference of there upper arm 302.8 306.7
+RecognizedString we like to say that these golf have no room for warm or any other internal organs 306.7 314.6
+RecognizedString now i'll joking aside theory suggest research can 314.6 318
+RecognizedString burns exposure to thin id elton objectified contact 318 320.8
+RecognizedString can lead to body to satisfaction internal is asian at the pin ideal an self objective vacation amongst some female yours 320.8 328.7
+RecognizedString obviously what we see on screen and what we see in the world they do not match 328.7 334.6
+RecognizedString in film we can be wild lee entertained 29.9 34.3
+RecognizedString you're not much better fat if we lived in screen world 334.6 338.1
+RecognizedString we would have a population crisis on our hands 338.1 342.6
+RecognizedString so soon as i recognizes patterns i want to find out why and it turns out that there a to drivers to inequality on screen 342.6 350
+RecognizedString contact creator gender and miss perception so the audience 350 353.2
+RecognizedString what's on pack them really quick you want to change your name to patterns i just talked about all you have to do is higher 353.2 359.1
+RecognizedString female directors turns out the female directors are associated with interesting short films in indy 359.1 365.8
+RecognizedString any films more girls in women on screen more stories with women in center 365.8 371
+RecognizedString a more stories with women fourty years of age or older on screen 371 376
+RecognizedString which i think it's good news for this kraut 376 378.2
+RecognizedString more under rita for sorry i'm not 378.2 385.3
+RecognizedString and we can also be transported three story time 34.3 39.1
+RecognizedString sorry but not sorry more under represented characters interest rates in ethnicity an most importantly more women working behind the camera in keep production rolls 385.3 395.9
+RecognizedString easy answer to the problems that we just talked about 395.9 399.8
+RecognizedString or is it it's actually not 399.8 402.7
+RecognizedString eight hundred films two thousand seven to twenty fifteen eight hundred eighty six directors only for point one percent 402.7 410
+RecognizedString are women only three or african american or black and only one woman was asian 410 416.9
+RecognizedString so why is it so difficult to have female directors if there part of the solution 416.9 425.1
+RecognizedString well to answer this question we conducted a study 425.1 428.9
+RecognizedString we interview doesn't of industry in fighters and ask them about directors turns out 428.9 434.7
+RecognizedString both male and female executive when they think director they think mail they perceive the traits of leadership 434.7 443.9
+RecognizedString to be masculine in nature 443.9 446
+RecognizedString storytelling is so important stories tell us what societies value 39.1 44.6
+RecognizedString so when they're going to hire a director to command crew leadership beer visionary or be general patton 446 454
+RecognizedString all the things that we've heard there thoughts in id asians paul mail 454 459.6
+RecognizedString the perception of director are liter is inconsistent with the perception of a woman 459.6 465.5
+RecognizedString 465.5 471.8
+RecognizedString second factor contribute into inequality on screen is miss perception of the audience 471.8 477.9
+RecognizedString i don't need to tell this crowd fifty percent of the people lego do box office and buy tickets are girls on women in this country 477.9 484.7
+RecognizedString right but we're not perceived to be available are financially lucrative target audience 484.7 491.2
+RecognizedString further there's a miss perception about weather females can open a film 491.2 496.7
+RecognizedString open a film means if you place a female at the center it doesn't have the return on investment 496.7 501.7
+RecognizedString but if you place a male at the center of a story 501.7 505.2
+RecognizedString they offer us lessons and they share in preserve our history stories are amazing 44.6 52.3
+RecognizedString this miss perception is actually costly 505.2 508.9
+RecognizedString write specially in the wake of franchise 6s is like the hunger games 508.9 514.5
+RecognizedString pitch perfect where that small little indy film star wars the force awakens 514.5 521.7
+RecognizedString arun economic analyse show that gender of lead character 521.7 525.3
+RecognizedString doesn't player role in economic success in the united states but what does production cos alone 525.3 531.9
+RecognizedString or in conjunction with how widely a film is distributed in this country 531.9 537.9
+RecognizedString it's not the gender of the lead character 537.9 540.6
+RecognizedString so at this point we should all bisa ficially depressed no change and fifty years few female directors working behind the camera 540.6 549.3
+RecognizedString and the entertainment industry does not trust us as an audience 549.3 554
+RecognizedString well i told you there would be a silver lining and there is 554 558
+RecognizedString but stories don't give everyone the same opportunity to appear with an alarm 52.3 59.4

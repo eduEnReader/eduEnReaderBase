@@ -1,0 +1,339 @@
+title 
+textStore DavidRWilliams_2016P-480p.html
+MD5TextStore MD5
+soundStore DavidRWilliams_2016P-480p.mp4
+MD5SoundStore MD5
+Bind 0 57 9.2 23.9
+Bind 57 192 23.9 31.9
+Bind 192 308 31.9 41.8
+Bind 308 410 41.8 53.2
+Bind 410 428 53.2 56.2
+Bind 428 464 56.2 61.5
+Bind 464 583 61.5 76
+Bind 583 632 76 79.8
+Bind 632 786 79.8 92.4
+Bind 786 884 92.4 103.3
+Bind 884 912 103.3 108.2
+Bind 912 995 108.2 116.2
+Bind 995 1025 116.2 120
+Bind 1025 1116 120 130
+Bind 1116 1139 130 132.6
+Bind 1139 1225 132.6 140.6
+Bind 1225 1334 140.6 149.9
+Bind 1334 1400 149.9 155.8
+Bind 1400 1422 155.8 157.9
+Bind 1422 1468 157.9 163.7
+Bind 1468 1540 163.7 168.8
+Bind 1540 1628 168.8 176.7
+Bind 1628 1799 176.7 190.4
+Bind 1799 1851 190.4 195.7
+Bind 1851 1882 195.7 200.1
+Bind 1882 1972 200.1 208.4
+Bind 1972 2054 208.4 214.4
+Bind 2054 2109 214.4 219.4
+Bind 2109 2191 219.4 227.9
+Bind 2191 2252 227.9 233.4
+Bind 2252 2412 233.4 247.6
+Bind 2412 2482 247.6 253.7
+Bind 2482 2607 253.7 261.5
+Bind 2607 2661 261.5 266
+Bind 2661 2766 266 273.9
+Bind 2766 2798 273.9 276.3
+Bind 2798 2911 276.3 285.5
+Bind 2911 2966 285.5 290.2
+Bind 2966 3093 290.2 298.5
+Bind 3093 3166 298.5 303.8
+Bind 3166 3228 303.8 307.8
+Bind 3228 3326 307.8 314.2
+Bind 3326 3496 314.2 327.6
+Bind 3496 3591 327.6 337
+Bind 3591 3628 337 340.1
+Bind 3628 3685 340.1 345.8
+Bind 3685 3799 345.8 355.1
+Bind 3799 3901 355.1 365.6
+Bind 3901 3976 365.6 371.9
+Bind 3976 4014 371.9 377
+Bind 4014 4095 377 390.2
+Bind 4095 4207 390.2 402.8
+Bind 4207 4400 402.8 416.7
+Bind 4400 4566 416.7 430.4
+Bind 4566 4599 430.4 433.6
+Bind 4599 4813 433.6 449.3
+Bind 4813 4851 449.3 452
+Bind 4851 4983 452 460.6
+Bind 4983 5016 460.6 463.9
+Bind 5016 5092 463.9 470.7
+Bind 5092 5174 470.7 480.8
+Bind 5174 5317 480.8 491.8
+Bind 5317 5350 491.8 494.5
+Bind 5350 5479 494.5 503.8
+Bind 5479 5619 503.8 518.2
+Bind 5619 5646 518.2 521.5
+Bind 5646 5700 521.5 526.4
+Bind 5700 5748 526.4 535.8
+Bind 5748 5819 535.8 539.9
+Bind 5819 5856 539.9 543.4
+Bind 5856 5913 543.4 546.6
+Bind 5913 6040 546.6 555.7
+Bind 6040 6102 555.7 560.6
+Bind 6102 6189 560.6 566.3
+Bind 6189 6273 566.3 572.1
+Bind 6273 6323 572.1 576.7
+Bind 6323 6372 576.7 581.6
+Bind 6372 6500 581.6 591.9
+Bind 6500 6569 591.9 598.5
+Bind 6569 6597 598.5 601.5
+Bind 6597 6666 601.5 606.2
+Bind 6666 6762 606.2 614.5
+Bind 6762 6796 614.5 617
+Bind 6796 6850 617 620.9
+Bind 6850 6883 620.9 624.4
+Bind 6883 6939 624.4 631.1
+Bind 6939 7041 631.1 639.9
+Bind 7041 7067 639.9 643.9
+Bind 7067 7149 643.9 652.8
+Bind 7149 7196 652.8 657.6
+Bind 7196 7255 657.6 663
+Bind 7255 7298 663 667.7
+Bind 7298 7395 667.7 675.8
+Bind 7395 7419 675.8 679.3
+Bind 7419 7495 679.3 686.2
+Bind 7495 7618 686.2 697.5
+Bind 7618 7716 697.5 707
+Bind 7716 7774 707 712.4
+Bind 7774 7830 712.4 717.1
+Bind 7830 7921 717.1 727.6
+Bind 7921 8051 727.6 752
+Bind 8051 8220 752 757.8
+Bind 8220 8405 757.8 773.9
+Bind 8405 8519 773.9 784.6
+Bind 8519 8567 784.6 790.3
+Bind 8567 8609 790.3 795.1
+Bind 8609 8677 795.1 801.7
+Bind 8677 8742 801.7 807.5
+Bind 8742 8834 807.5 813.8
+Bind 8834 8928 813.8 821.9
+Bind 8928 8955 821.9 826.5
+Bind 8955 9017 826.5 832.1
+Bind 9017 9088 832.1 837.3
+Bind 9088 9117 837.3 840.9
+Bind 9117 9246 840.9 849.7
+Bind 9246 9320 849.7 857.5
+Bind 9320 9384 857.5 863
+Bind 9384 9521 863 872.1
+Bind 9521 9596 872.1 878.1
+Bind 9596 9680 878.1 885.8
+Bind 9680 9807 885.8 895.9
+Bind 9807 9884 895.9 902.9
+Bind 9884 10036 902.9 917
+Bind 10036 10165 917 925.8
+Bind 10165 10301 925.8 935.9
+Bind 10301 10379 935.9 941.9
+Bind 10379 10436 941.9 946.4
+Bind 10436 10503 946.4 952.4
+Bind 10503 10661 952.4 962.8
+Bind 10661 10744 962.8 971
+Bind 10744 10867 971 980.4
+Bind 10867 10987 980.4 992.2
+Bind 10987 11075 992.2 1002.5
+Bind 11075 11130 1002.5 1008.3
+Bind 11130 11176 1008.3 1013
+Bind 11176 11211 1013 1016.5
+Bind 11211 11262 1016.5 1020.4
+Bind 11262 11284 1020.4 1025.8
+Bind 11284 11420 1025.8 1031.3
+Bind 11420 11467 1031.3 1036.3
+Bind 11467 11522 1036.3 1041.2
+RecognizedString yes 0 2.2
+RecognizedString residential phaedra gation you completely erase black my differences in income 560.6 566.3
+RecognizedString education and unemployment on reduce blacklight difference in cinco motherhood 566.3 572.1
+RecognizedString by two thirds all of that written my segregation 572.1 576.7
+RecognizedString i have to learn how to negative tara types 576.7 581.6
+RecognizedString and images of blacks in our culture literally create 581.6 586.5
+RecognizedString i'm fifteen both institution no an individual discrimination 586.5 591.9
+RecognizedString about researches have put together a database 591.9 596.1
+RecognizedString that contains the books 596.1 598.5
+RecognizedString magazines and articles 598.5 601.5
+RecognizedString batting average college educated american would read over the lifetime 601.5 606.2
+RecognizedString why died from a blood clot in his lung 56.2 61.5
+RecognizedString it allow access to look within this database and see what how american fifteen words together 606.2 614.5
+RecognizedString as the grew up in this aside 614.5 617
+RecognizedString so when the word black appears in american culture 617 620.9
+RecognizedString what color kors with it poor 620.9 624.4
+RecognizedString violin religious lazy cheerful dangerous 624.4 631.1
+RecognizedString when white occurs the frequently corcoran words are wealthy progressive conventional 631.1 639.9
+RecognizedString stubborn successful educated 639.9 643.9
+RecognizedString so when a police officer over relax when he sees an on i'm blackmail 643.9 652.8
+RecognizedString and percy him to be violent and dangerous 652.8 657.6
+RecognizedString we're not necessarily dealing with an inherent lead bad pop 657.6 663
+RecognizedString clyde experience was not uni many of is black cost me from yale also died young 61.5 71.8
+RecognizedString we maybe simply you in a normal american 663 667.7
+RecognizedString who is reflection what he has been exposed to as the result of been race in this society 667.7 675.8
+RecognizedString from my own experience 675.8 679.3
+RecognizedString i believe that you arif does not have to be a determinants of your destiny 679.3 686.2
+RecognizedString i my grated to united states from the caribbean i'll enough saint lucia 686.2 691.9
+RecognizedString and delete nineteen seventies in pursuit of hi education 691.9 697.5
+RecognizedString and in the last fourty is i have done well i've had a supportive family i've worked hard 697.5 707
+RecognizedString i've done well but it took more for me to be successful 707 712.4
+RecognizedString i received a minority fellowship from the university of michigan 712.4 717.1
+RecognizedString yes i am and affirmative action be with out affirmative action 717.1 725.2
+RecognizedString in fact the magazine article indicated 71.8 76
+RecognizedString i would not be here 725.2 727.6
+RecognizedString but in the last fourty years vac america has been let's successful then i have 727.6 736.3
+RecognizedString in nineteen seventy eight 736.3 738.8
+RecognizedString what how falls in the united states states earn fifty nine cents for every dollar of income white cern 738.8 746.6
+RecognizedString in twenty fifteen 746.6 749.1
+RecognizedString black families still are in 749.1 752
+RecognizedString fifty nine cents for every dollar of income that white families receipt 752 757.8
+RecognizedString and original gaps in wealth i even more stunning 757.8 762.4
+RecognizedString for every dollar of welded white have that family fix pennies and apenas have seven pennies 762.4 770.2
+RecognizedString the fat is racism 770.2 773.9
+RecognizedString that fourty one years after graduation from you 76 79.8
+RecognizedString is producing a truly ring fifteen 773.9 778.3
+RecognizedString that is systematic lee disadvantage in from rachel groups in the united states 778.3 784.6
+RecognizedString to paraphrase plato there is nothing so unfair 784.6 790.3
+RecognizedString as the equal treatment of on equal people 790.3 795.1
+RecognizedString and that's why i am committed to working to dismantle in racism 795.1 801.7
+RecognizedString i deeply appreciate the fact that i am standing on the shoulders 801.7 807.5
+RecognizedString of those who have sacrifice even their lives to opened a doors that i have walk through 807.5 813.8
+RecognizedString i want to ensure that those boys remain open and everyone can walk through those stores 813.8 821.9
+RecognizedString robert kennedy said 821.9 826.5
+RecognizedString it's time a man or woman i would add stands for an ideal 826.5 832.1
+RecognizedString the black members of the price of nineteen seventy had a def rate that with three times higher than that of the average class member 79.8 89.4
+RecognizedString or at to improved a lot of others or straight south against injustice 832.1 837.3
+RecognizedString he fence for a tiny ripple of hope 837.3 840.9
+RecognizedString and those rip move can build a parent that can sleep down the mikey of walls of oppression and resistance 840.9 849.7
+RecognizedString i'm optimistic today because all across america i've seen ripples of hope 849.7 857.5
+RecognizedString the boston medical center has added lawyers to medical teen 857.5 863
+RecognizedString food at physicians can improve 863 865.5
+RecognizedString the health patients because the lawyers address in the none medical need the patients have 865.5 872.1
+RecognizedString no melinda university has built a gatwick college in nearby san bernardino 872.1 878.1
+RecognizedString should i in addition to delivery medical care we can provide job skills job freeman 878.1 885.8
+RecognizedString to a predominant lee minority low income community members for that they will have the skills the need 885.8 893.3
+RecognizedString stunna 89.4 92.4
+RecognizedString to get a different job 893.3 895.9
+RecognizedString in chapel hill north carolina the absent darien project has figure it out 895.9 902.9
+RecognizedString how to ensure that feel a lowered the rift for hearty fees for blacks in dammit thirteenth 902.9 911.3
+RecognizedString by providing high-quality daycare from birth to a five 911.3 917
+RecognizedString in after school centers across the united states 917 920.5
+RecognizedString when three fifths and you extreme academy is brick in the fight club in costa ration 920.5 925.8
+RecognizedString by providing high-quality academic enrichment and mentoring to insure to the children of prisoners and children what fallen behind in school 925.8 935.9
+RecognizedString in huntsville alabama open university historical black institution 935.9 941.9
+RecognizedString is showing how we can improve the health a black a dove 941.9 946.4
+RecognizedString by including a health evaluation as a part of freshman orientation 946.4 952.4
+RecognizedString america has recently awaken 92.4 96.4
+RecognizedString and even though students to to they need to make healthy choices 952.4 957.3
+RecognizedString and provide in them annually health transcribe flick and monitor they progress 957.3 962.8
+RecognizedString i'm in atlanta georgia purpose built communities has dismantle negative effects of segregation 962.8 971
+RecognizedString by transform in a crime rate in drug infested public housing project 971 976.9
+RecognizedString into one way fifth of mix income housing 976.9 980.4
+RecognizedString of academic performance oh of upgrading community wellness anna full employment 980.4 987.6
+RecognizedString and finally 987.6 989.7
+RecognizedString where is the divine solution 989.7 992.2
+RecognizedString professor patricia define 992.2 995.7
+RecognizedString of the university of wisconsin 995.7 998.8
+RecognizedString to steady drum beat of on i'm the black men bean shot by the police 96.4 103.3
+RecognizedString hassan us how we can attack 998.8 1002.5
+RecognizedString our hidden biases head on an effectively reduce them 1002.5 1008.3
+RecognizedString each one of us can be a ripple of hoe 1008.3 1013
+RecognizedString this work will not always be easy 1013 1016.5
+RecognizedString but from supreme court justice for good marshall 1016.5 1020.4
+RecognizedString has told us we must event 1020.4 1023.4
+RecognizedString we must defend from the indifference 1023.4 1025.8
+RecognizedString we must defend from the apathy we must be fan from the fifth read under the mistress 1025.8 1031.3
+RecognizedString we must defense because america pendu better 1031.3 1036.3
+RecognizedString because america has not choice but to do better 1036.3 1041.2
+RecognizedString what is even a biggest story 103.3 108.2
+RecognizedString thank you 1041.2 1049.5
+RecognizedString 1049.5 1051.7
+RecognizedString 1051.7 1056
+RecognizedString is that every seven minutes a black person dice prematurely in the united states 108.2 116.2
+RecognizedString 2.2 9.2
+RecognizedString that is over two hundred black people 116.2 120
+RecognizedString day every single day who would not die if the health of blacks and whites what equal 120 127.9
+RecognizedString 127.9 130
+RecognizedString for the last twenty five years 130 132.6
+RecognizedString i have been on a mission to understand why does race matter super fungi for health 132.6 140.6
+RecognizedString when i started my career many believe that it was simply about racial differences in income and education 140.6 149.9
+RecognizedString i discovered that while economic status mattress for health 149.9 155.8
+RecognizedString there's more to the story 155.8 157.9
+RecognizedString so flying sample if in look at life expectancy at h twenty five 157.9 163.7
+RecognizedString a h twenty five there's a five yet gap between blacks and whites 163.7 168.8
+RecognizedString an article in the yale alumni magazine 9.2 16.8
+RecognizedString and the gap by education for both wife and blacks is even larger than to racial pat 168.8 176.7
+RecognizedString at the same time at every level of education white my longer than laugh 176.7 184.3
+RecognizedString so white hua high school drop off mit free porn for yes longer than that black hung depart 184.3 190.4
+RecognizedString and the gap is even roger among college graduates 190.4 195.7
+RecognizedString moth surprising of all white 195.7 200.1
+RecognizedString who have graduated from high school live longer than black with the college degree amore education 200.1 208.4
+RecognizedString so why does race matter super fun lee for health what else is it 208.4 214.4
+RecognizedString beyond education and income that my matter 214.4 219.4
+RecognizedString into early nineteen nineties i was asking review a new book 219.4 225.4
+RecognizedString on the health of black america 225.4 227.9
+RecognizedString told the story of clyde murphy a black man who was a member of the class of nineteen seventy 16.8 23.9
+RecognizedString i was truck that almost everything bill one of is twenty five chapters 227.9 233.4
+RecognizedString said that reef ism wasn't factor that was her kunda health of blacks 233.4 238.7
+RecognizedString all of the researchers 238.7 241.5
+RecognizedString we're staten that racism was factor adverse we impact in blacks 241.5 247.6
+RecognizedString but the provided no evidence for me that was not good enough 247.6 253.7
+RecognizedString a few months later i will speak another conference in washington dc and i said that one of the priorities research 253.7 261.5
+RecognizedString what's the documentar ways in which racism affected health 261.5 266
+RecognizedString a white gentleman stood in the audience and fifth at while he agreed with me that racism was important 266 273.9
+RecognizedString we could never mention racism 273.9 276.3
+RecognizedString we measure sophie my for there's no reason why we can't measure racism if you put on minds to it 276.3 285.5
+RecognizedString clyde was a success story 23.9 28.1
+RecognizedString and so i put my mind to it and develop three scales 285.5 290.2
+RecognizedString the first one captured major experiences of discrimination like being unfairly fired a been unfairly stop by the police 290.2 298.5
+RecognizedString but discrimination also occurs in more myna and fatal experiences 298.5 303.8
+RecognizedString answer my second scale called every discrimination scale 303.8 307.8
+RecognizedString chapters nine items that captive experiences like you treated with less courtesy than others 307.8 314.2
+RecognizedString you receive porous service and other than restaurants what stores are people act as if the afraid of you 314.2 320.9
+RecognizedString this kill capture is 320.9 323.8
+RecognizedString ways in which the dignity and the respect 323.8 327.6
+RecognizedString of people who society does not value is chipped away on a daily basis 327.6 333.6
+RecognizedString research headphone 333.6 337
+RecognizedString after you unallowed degree from columbia 28.1 31.9
+RecognizedString that hio levels of discrimination 337 340.1
+RecognizedString are associated with the elevated risk of abroad range of diseases 340.1 345.8
+RecognizedString from blood pressure to abdominal the obesity to breast cancer to hearty fees 345.8 351.8
+RecognizedString an event for mature mortality 351.8 355.1
+RecognizedString try kinley from of the effects a observed at of very young page for example study of black beans 355.1 365.6
+RecognizedString find that those who reported hire levels of discrimination of teenagers 365.6 371.9
+RecognizedString had hyun levels of stress hormones 371.9 377
+RecognizedString of blood pressure and of wake at age twenty 377 383.6
+RecognizedString however 383.6 386.4
+RecognizedString distress of discrimination 386.4 390.2
+RecognizedString quite spend the next thirty years as one of america's top civil rights lawyers he was also great husband and father 31.9 41.8
+RecognizedString is only one aspect discrimination and racism also matters in other profound ways for health 390.2 399
+RecognizedString for example this discrimination in medical care 399 402.8
+RecognizedString in nineteen ninety nine the national academy of medicine ask me to serve on the committee that document that found concluded beth undefined tific evidence 402.8 413.9
+RecognizedString that blacks and other minorities 413.9 416.7
+RecognizedString receive por up quality care than whites 416.7 420.2
+RecognizedString 420.2 430.4
+RecognizedString one explanation for this pattern 430.4 433.6
+RecognizedString what's the phenomenon that call implicit bias or unconscious discrimination 433.6 439.9
+RecognizedString 439.9 449.3
+RecognizedString and you meet someone from that group 449.3 452
+RecognizedString but despite his access personally and professionally 41.8 47.8
+RecognizedString you will discriminate against at person you will victim differently it's an unconscious process if an automatic process 452 460.6
+RecognizedString it is a photo process but it's normal 460.6 463.9
+RecognizedString i need to kors even among the most well in and send individuals 463.9 470.7
+RecognizedString but the deeper that i downloaded into the health impact of racism 470.7 477.1
+RecognizedString do more in fifthieth the effects bk 477.1 480.8
+RecognizedString the is institutional discrimination which refers to discrimination that exist in the prophecies of social institutions 480.8 491.8
+RecognizedString residential fabrication by race 491.8 494.5
+RecognizedString which has letter blacks and whites lebanon very different neighborhood contacts is aquatic example of institutional racism 494.5 503.8
+RecognizedString one of america's beth kept secrets 503.8 508.9
+RecognizedString is how residential federal gation is this secrets fourth 508.9 513.4
+RecognizedString white story how decide ended in twenty ten 47.8 53.2
+RecognizedString create racial inequality in the united states 513.4 518.2
+RecognizedString in amerika where you live 518.2 521.5
+RecognizedString determines your access to opportunities in education 521.5 526.4
+RecognizedString in employment in housing and evening at fifth two medical care 526.4 532.9
+RecognizedString one study 532.9 535.8
+RecognizedString of the hundred and seventy one largest cities in the united states 535.8 539.9
+RecognizedString concluded that does not even one fifty 539.9 543.4
+RecognizedString where whites live on the equal conditions to blacks 543.4 546.6
+RecognizedString and that the worst urban contacts in which white reside if comfortably better than the average contacts of black communities 546.6 555.7
+RecognizedString another fetty phone that if you could eliminate statistic lee 555.7 560.6
+RecognizedString at the age of fifty two 53.2 56.2

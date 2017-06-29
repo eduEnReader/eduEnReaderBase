@@ -1,0 +1,286 @@
+title 
+textStore JonathanMarks_2017X-480p.html
+MD5TextStore MD5
+soundStore JonathanMarks_2017X-480p.mp4
+MD5SoundStore MD5
+Bind 0 65 9.2 17
+Bind 65 104 17 19.8
+Bind 104 225 19.8 28.6
+Bind 225 294 28.6 33.5
+Bind 294 373 33.5 38
+Bind 373 472 38 45.7
+Bind 472 597 45.7 53.9
+Bind 597 712 53.9 60.8
+Bind 712 781 60.8 84.9
+Bind 781 1093 84.9 87.2
+Bind 1093 1210 87.2 95.4
+Bind 1210 1257 95.4 99.9
+Bind 1257 1372 99.9 112.1
+Bind 1372 1395 112.1 115.4
+Bind 1395 1418 115.4 117.7
+Bind 1418 1471 117.7 121.6
+Bind 1471 1540 121.6 128.5
+Bind 1540 1652 128.5 137.4
+Bind 1652 1755 137.4 143.8
+Bind 1755 1812 143.8 148.7
+Bind 1812 1881 148.7 153.4
+Bind 1881 1987 153.4 159
+Bind 1987 2052 159 162.9
+Bind 2052 2185 162.9 173.2
+Bind 2185 2292 173.2 184
+Bind 2292 2387 184 189.4
+Bind 2387 2495 189.4 197.4
+Bind 2495 2576 197.4 203.9
+Bind 2576 2754 203.9 219.1
+Bind 2754 2901 219.1 233.3
+Bind 2901 2947 233.3 237
+Bind 2947 3039 237 243.2
+Bind 3039 3081 243.2 246.9
+Bind 3081 3161 246.9 254
+Bind 3161 3253 254 261.9
+Bind 3253 3310 261.9 268.3
+Bind 3310 3364 268.3 271.9
+Bind 3364 3444 271.9 278.6
+Bind 3444 3485 278.6 284.4
+Bind 3485 3602 284.4 291.3
+Bind 3602 3697 291.3 299.5
+Bind 3697 3734 299.5 302.1
+Bind 3734 4028 302.1 323.1
+Bind 4028 4072 323.1 329.1
+Bind 4072 4271 329.1 345.9
+Bind 4271 4345 345.9 351.5
+Bind 4345 4468 351.5 360.8
+Bind 4468 4605 360.8 370.7
+Bind 4605 4657 370.7 377.1
+Bind 4657 4697 377.1 381.9
+Bind 4697 4730 381.9 385.6
+Bind 4730 4838 385.6 393.9
+Bind 4838 4953 393.9 401.9
+Bind 4953 4987 401.9 405.4
+Bind 4987 5211 405.4 421.9
+Bind 5211 5285 421.9 427
+Bind 5285 5361 427 432.7
+Bind 5361 5504 432.7 443.5
+Bind 5504 5577 443.5 447.6
+Bind 5577 5691 447.6 454.4
+Bind 5691 5740 454.4 457.8
+Bind 5740 5873 457.8 467.8
+Bind 5873 5921 467.8 473.5
+Bind 5921 5997 473.5 478.7
+Bind 5997 6030 478.7 481
+Bind 6030 6150 481 489
+Bind 6150 6220 489 494.6
+Bind 6220 6341 494.6 502.9
+Bind 6341 6409 502.9 507.1
+Bind 6409 6515 507.1 512.9
+Bind 6515 6595 512.9 519.5
+Bind 6595 6623 519.5 522.5
+Bind 6623 6645 522.5 524.7
+Bind 6645 6721 524.7 530.1
+Bind 6721 6809 530.1 534.9
+Bind 6809 6924 534.9 543.1
+Bind 6924 7042 543.1 553.9
+Bind 7042 7082 553.9 558.2
+Bind 7082 7188 558.2 568.7
+Bind 7188 7258 568.7 574.7
+Bind 7258 7382 574.7 581
+Bind 7382 7459 581 586.5
+Bind 7459 7499 586.5 589.4
+Bind 7499 7672 589.4 602.8
+Bind 7672 7815 602.8 611.7
+Bind 7815 7924 611.7 618.7
+Bind 7924 7998 618.7 624.9
+Bind 7998 8120 624.9 633.7
+Bind 8120 8160 633.7 637.2
+Bind 8160 8253 637.2 644.8
+Bind 8253 8298 644.8 649
+Bind 8298 8371 649 655.1
+Bind 8371 8514 655.1 664.2
+Bind 8514 8583 664.2 670
+Bind 8583 8714 670 675.8
+Bind 8714 8775 675.8 679.8
+Bind 8775 8856 679.8 683.4
+Bind 8856 9005 683.4 695.7
+Bind 9005 9237 695.7 709.1
+Bind 9237 9333 709.1 715.1
+Bind 9333 9369 715.1 717.6
+Bind 9369 9588 717.6 729.8
+Bind 9588 9627 729.8 734.3
+Bind 9627 9763 734.3 742
+Bind 9763 9850 742 746.8
+Bind 9850 9996 746.8 757.7
+Bind 9996 10089 757.7 765.9
+Bind 10089 10187 765.9 771.4
+Bind 10187 10223 771.4 774.6
+Bind 10223 10299 774.6 781.1
+Bind 10299 10484 781.1 793.9
+Bind 10484 10591 793.9 802.6
+Bind 10591 10697 802.6 813.6
+Bind 10697 10784 813.6 821.5
+Bind 10784 10847 821.5 829.6
+Bind 10847 11063 829.6 845.9
+Bind 11063 11095 845.9 849.8
+Bind 11095 11242 849.8 862.9
+Bind 11242 11382 862.9 878.1
+Bind 11382 11474 878.1 887.5
+RecognizedString yes 0 2.2
+RecognizedString when they collaborate in this way with industry is that a conflate the common good with common ground 558.2 568.7
+RecognizedString when you collaborate with industry you necessarily put off the table 568.7 574.7
+RecognizedString things that might promote the common good twitch industry will not agree industry will not agree to increased regulation 574.7 581
+RecognizedString unless it believes this will stay off more regulation perhaps knock 581 586.5
+RecognizedString some competitors out in the market 586.5 589.4
+RecognizedString norton companies agree to do certain things for example raise the prices of there unhealthy products because that would violet competition long as we're of established 589.4 599.6
+RecognizedString so our government should not 599.6 602.8
+RecognizedString can fire and the common good and common ground is specially when common grind means reaching agreement with industry 602.8 611.7
+RecognizedString i want to give you another example moving from hi profile collaboration 611.7 616.4
+RecognizedString something that is bolo grounds 616.4 618.7
+RecognizedString can you turn again to is boss 58.7 60.8
+RecognizedString both literally and figuratively the hydraulic factoring of natural gas 618.7 624.9
+RecognizedString imagine that you purchase applaud of land not knowing the mineral rights seven sold this is before the fracking bum 624.9 633.7
+RecognizedString you build your dream home on app fart 633.7 637.2
+RecognizedString and shortly after words you discover the gas company is building a well pad on your land 637.2 644.8
+RecognizedString that was applied of the hallo which family 644.8 649
+RecognizedString within a very short period of time began to complain of headaches 649 655.1
+RecognizedString of sore throats of itchy eyes in additions to the interference illinois vibration bright lights from the firing of natural gas 655.1 664.2
+RecognizedString they were very bhopal in there criticism an nfl silent 664.2 670
+RecognizedString thanks for the pittsburgh post gazette with this image appeared in one of the newspaper we discovered why they fell silent 670 675.8
+RecognizedString the newspapers went to the court and said what happened to the hallo witches 675.8 679.8
+RecognizedString any service time let's do something about human rights in burma as it was tank hold 60.8 68.1
+RecognizedString and it turned out the hallo what you said made a secret settlement 679.8 683.4
+RecognizedString with the gas operators and it was a take it or leave it settlement the gas company said you can have 683.4 689.9
+RecognizedString six bigger sam to move elsewhere start you lives again but in return you must promise 689.9 695.7
+RecognizedString not to speak of your experience with are company not to speak of your experience pain 695.7 700.5
+RecognizedString tracking not to speak about the health consequences 700.5 705.4
+RecognizedString the been revealed my medical examination 705.4 709.1
+RecognizedString no i do not blame the hallo witches for accepting a take it or leave it settlement 709.1 715.1
+RecognizedString i'm starting their lives elsewhere 715.1 717.6
+RecognizedString am i can understand why the company would wish to silence squeaky wheel 717.6 721.6
+RecognizedString what i want to find the finger out is illegal and regulator e system assistant language there networks agreements just like this one 721.6 729.8
+RecognizedString has boss once again paws and sad 68.1 71.4
+RecognizedString which serve to simon's people and feel off data points 729.8 734.3
+RecognizedString from public health experts in aberdeen me all just a system in which regulators will even refrain from is ewing violation notice 734.3 742
+RecognizedString any events are pollution if the land on are in the gas company agree to satta 742 746.8
+RecognizedString this is a system which isn't just bad for my public health point of view expose is hazards to local families who remain 746.8 755.6
+RecognizedString in the dark 755.6 757.7
+RecognizedString no i've given you two examples not because they are isolated examples there examples ever systemic problem 757.7 765.9
+RecognizedString i could share some kind to examples the case for example of the public official 765.9 771.4
+RecognizedString who sues the pharmaceutical company 771.4 774.6
+RecognizedString fucking feeling the fact that it's antidepressant increases suicidal thoughts 774.6 781.1
+RecognizedString in adolescence i can tell you about the regulator would after the food company for exaggerating the reported health benefits of it's yogurt 781.1 790.5
+RecognizedString oh what we can't do anything about human rights in burma because 71.4 75.2
+RecognizedString can i can tell you about the legislature 790.5 793.9
+RecognizedString who despite heavy lobbying directed both sides of the i'll pushes for environmental protection 793.9 802.6
+RecognizedString these isolated examples but they are becomes of lights in the darkness 802.6 808.9
+RecognizedString and they can show as the way 808.9 813.6
+RecognizedString i began by suggested sometimes we need to engaging conflict 813.6 818.7
+RecognizedString governments shrewd 818.7 821.5
+RecognizedString tassel with struggle with 821.5 824.3
+RecognizedString at times engage in direct conflict with corporations 824.3 829.6
+RecognizedString this is not because governments are in currently good and corporations are and hardly evil each is capable of good 829.6 839.5
+RecognizedString or l but corporations understandable actor promote there commercial interest 839.5 845.9
+RecognizedString we don't have any trade relations with pana 75.2 79.7
+RecognizedString and i do so either sometimes 845.9 849.8
+RecognizedString under mining or promoting the common good but it is responsibility of governments 849.8 857
+RecognizedString to protect and promote the common good and we should in fifth 857 862.9
+RecognizedString that i fight to do so 862.9 866.5
+RecognizedString this is because governments are the guardians of public health 866.5 873.1
+RecognizedString governments guardians of the environment 873.1 878.1
+RecognizedString and it is governments the guardians of these is central parts of our common good 878.1 887.5
+RecognizedString thank you 887.5 893.5
+RecognizedString 893.5 899.5
+RecognizedString 899.5 905.5
+RecognizedString this with the moments in you rehab deleted wasn't just a hypocrisy that got to him 79.7 84.9
+RecognizedString 905.5 907.6
+RecognizedString it was the on willingness 84.9 87.2
+RecognizedString of he's government to engage in conflict with other governments intense discussions all the while innocent people 87.2 95.4
+RecognizedString what being harms we are constantly tolls 95.4 99.9
+RecognizedString the conflict is bad 99.9 102.6
+RecognizedString 2.2 9.2
+RecognizedString the compromise is good the conflict is bad brickell francis is good the conflict is bad 102.6 112.1
+RecognizedString collaboration is good 112.1 115.4
+RecognizedString but it my you at 115.4 117.7
+RecognizedString far to simple a vision of the world we cannot no 117.7 121.6
+RecognizedString wheather conflict is bad unless we know who is fighting hi they are fighting 121.6 128.5
+RecognizedString and how they are fighting and compromise is can be thoroughly rotten if a harm people who are not at the table 128.5 137.4
+RecognizedString people who a vulnerable this in powered people whom we have an obligation to protect 137.4 143.8
+RecognizedString now you might be someone skeptical of a lawyer arguing um 143.8 148.7
+RecognizedString about the benefits of conflict and creating problems for compromise 148.7 153.4
+RecognizedString but i did also qualifies mediator in these days i spend my time giving talks about fx for free 153.4 159
+RecognizedString twenty years ago when i was at barrister in human rights lawyer 9.2 17
+RecognizedString so is my bank manager likes remind me i'm done woodley mobile 159 162.9
+RecognizedString but if you wakes up my argument it should change not just the way you are personal lives which i wish to put to one side for the moment 162.9 173.2
+RecognizedString but it won't change the way we think about made your problems of public health 173.2 178.8
+RecognizedString and the environment 178.8 181.2
+RecognizedString i'm explain 181.2 184
+RecognizedString every middle school are in the united states my twelve year old daughter included 184 189.4
+RecognizedString learn sit there are three branches of government the legislative executive and judicial branch 189.4 197.4
+RecognizedString james madison roads if there is any principal more sacred in are constitution 197.4 203.9
+RecognizedString i need eating any free constitution than any other 203.9 208.6
+RecognizedString is that which separates the legislative the executive and the judicial powers 208.6 215.9
+RecognizedString in full time legal practice in london 17 19.8
+RecognizedString another famous one not just concerns 215.9 219.1
+RecognizedString about the concentration an exercise a power they also understood the heroes of influence 219.1 227.8
+RecognizedString judge is cannot determine the constitution ality of laws 227.8 233.3
+RecognizedString if they participate in making those laws 233.3 237
+RecognizedString nora can hold the other branches of government accountable if a collaborate with them 237 243.2
+RecognizedString enter into close relationships with them 243.2 246.9
+RecognizedString the constitution is as one famous scholar put it an invitation to struggle 246.9 254
+RecognizedString and we the people are served when those branches do indeed struggle with each other 254 261.9
+RecognizedString no we recognize the importance of struggle not just 261.9 268.3
+RecognizedString in public sector between are branches of government 268.3 271.9
+RecognizedString and the highest court in the land still convene someone say bye an accident of history in this building here 19.8 28.6
+RecognizedString we also know its two in the private sector in relationships among corporations 271.9 278.6
+RecognizedString let's imagine the to american airlines get together and agree 278.6 284.4
+RecognizedString that they will not drop the price of there economy class airfares below two hundred and fifty dollars a ticket 284.4 291.3
+RecognizedString that is collaboration somewhat say collusion not competition and we the people a harms 291.3 299.5
+RecognizedString because we pay more for i tickets 299.5 302.1
+RecognizedString imagine simla to airlines what is a look airline a we'll take the root 302.1 307.9
+RecognizedString from la to chicago an airline basis wheels activate from chicago to dc me one compete 307.9 314.8
+RecognizedString once again that's collaboration or collusion instead of competition and we the people are harms 314.8 323.1
+RecognizedString so we understand importance of struggle 323.1 329.1
+RecognizedString when it comes to relationships between branches of government 329.1 334.6
+RecognizedString america young man hua just quit his job in a british phone office 28.6 33.5
+RecognizedString public sector we also understand the importance of conflict when it comes 334.6 341.2
+RecognizedString to relationships among corporations the private sector 341.2 345.9
+RecognizedString but where we have forgotten it 345.9 348.6
+RecognizedString isn't that relationships between 348.6 351.5
+RecognizedString republic anna privates and government all over the world are collaborate with industry to sell problems are public house 351.5 358.7
+RecognizedString and the environment 358.7 360.8
+RecognizedString open collaborate thing with a very corporations that i creating or exavier bedding the problems pay a trying to solve 360.8 370.7
+RecognizedString we are told the these relationships are when when 370.7 377.1
+RecognizedString but what if someone is losing out 377.1 381.9
+RecognizedString let me give you some examples 381.9 385.6
+RecognizedString when i asked him why did you leave he told me the story 33.5 38
+RecognizedString i united nations agency decided to dress serious problem poor sanitation in schools in rural india 385.6 393.9
+RecognizedString did it so not justin collaboration with national and local governments but also with a tv company and with me 393.9 401.9
+RecognizedString major multinational soda company 401.9 405.4
+RecognizedString in exchange for less than one million dollars 405.4 408.8
+RecognizedString 408.8 419.8
+RecognizedString this wasn't arrangements 419.8 421.9
+RecognizedString which was totally understandable from the corporations point of you 421.9 427
+RecognizedString han says the reputation company and it creates brand loyalty for it's products 427 432.7
+RecognizedString put in my view this is profanity problematic for the inter government for agency agency that has a mission to promote sustainable living 432.7 443.5
+RecognizedString by increasing consumption of sure sweden beverage is made from 443.5 447.6
+RecognizedString you're gonna is boss one morning inside let's do something about human rights abuses in china 38 45.7
+RecognizedString gears local water supplies and drunk i'd of plastic bottles in a country that is already grappling with obesity 447.6 454.4
+RecognizedString this is neither sustainable from a public health 454.4 457.8
+RecognizedString no you're an environmental point of view and in order to solve one public health problem the agency is sewing seeds of another 457.8 467.8
+RecognizedString this is just one example of doesn't i discovered 467.8 473.5
+RecognizedString in researching a book on the relationships between government an industry 473.5 478.7
+RecognizedString i could also have told you about 478.7 481
+RecognizedString the initiatives in parks in london throw britain involving the same company promoting exercise or indeed 481 489
+RecognizedString other british government creating voluntary pleasure's in partnership industry 489 494.6
+RecognizedString instead of regulate industry these collaboration star partnership have the come the paradigm in public house 494.6 502.9
+RecognizedString and once again they make sense from the point of view industry 502.9 507.1
+RecognizedString is boss replied we can't do anything about human rights abuses in china because we have trade relations with china 45.7 53.9
+RecognizedString it allows them to frame public health problems and they're solutions in ways that i lease threatening to 507.1 512.9
+RecognizedString most confident with their commercial interests to obesity becomes a problem of 512.9 519.5
+RecognizedString individual decision making 519.5 522.5
+RecognizedString of personal behavior 522.5 524.7
+RecognizedString personal responsibility i'd like a physical activity it is not a problem 524.7 530.1
+RecognizedString when frame this way of a multinational food system involving major corporations 530.1 534.9
+RecognizedString and again i don't blame industry industry naturally engage isn't strategies of influence to promoted commercial interests 534.9 543.1
+RecognizedString but governments have a responsibility to develop counter strategies to protect as 543.1 550.5
+RecognizedString and the common good 550.5 553.9
+RecognizedString the mistake that governments i'm making 553.9 558.2
+RecognizedString to my friend went away with his tail between his legs and six month later 53.9 58.7

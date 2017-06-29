@@ -1,0 +1,329 @@
+title 
+textStore MosheSzyf_2016X-480p.html
+MD5TextStore MD5
+soundStore MosheSzyf_2016X-480p.mp4
+MD5SoundStore MD5
+Bind 6 111 9.2 21
+Bind 111 196 21 27.4
+Bind 196 283 27.4 37
+Bind 283 320 37 39.8
+Bind 320 419 39.8 47.1
+Bind 419 460 47.1 52
+Bind 460 513 52 56
+Bind 513 589 56 63.2
+Bind 589 665 63.2 68.8
+Bind 665 743 68.8 74.7
+Bind 743 863 74.7 83.7
+Bind 863 881 83.7 85.8
+Bind 881 940 85.8 89.5
+Bind 940 987 89.5 94.7
+Bind 987 1067 94.7 102.8
+Bind 1067 1134 102.8 107.1
+Bind 1134 1184 107.1 111.2
+Bind 1184 1304 111.2 119.7
+Bind 1304 1368 119.7 123.4
+Bind 1368 1414 123.4 126.9
+Bind 1414 1499 126.9 133.2
+Bind 1499 1752 133.2 149.8
+Bind 1752 1901 149.8 161
+Bind 1901 2008 161 172.2
+Bind 2008 2102 172.2 180.6
+Bind 2102 2253 180.6 189.2
+Bind 2253 2284 189.2 191.9
+Bind 2284 2396 191.9 202.3
+Bind 2396 2455 202.3 206.2
+Bind 2455 2565 206.2 212.5
+Bind 2565 2657 212.5 220.2
+Bind 2657 2682 220.2 222.7
+Bind 2682 2745 222.7 227.5
+Bind 2745 2846 227.5 232.3
+Bind 2846 2941 232.3 238.6
+Bind 2941 3058 238.6 248.8
+Bind 3058 3103 248.8 253.6
+Bind 3103 3168 253.6 258
+Bind 3168 3377 258 269.9
+Bind 3377 3436 269.9 275.7
+Bind 3436 3495 275.7 278.9
+Bind 3495 3554 278.9 282.2
+Bind 3554 3680 282.2 291.9
+Bind 3680 3804 291.9 295.7
+Bind 3804 3897 295.7 301.9
+Bind 3897 3953 301.9 308.4
+Bind 3953 4018 308.4 313.6
+Bind 4018 4076 313.6 319.1
+Bind 4076 4111 319.1 321.9
+Bind 4111 4156 321.9 326.1
+Bind 4156 4247 326.1 332.3
+Bind 4247 4376 332.3 340
+Bind 4376 4427 340 345.4
+Bind 4427 4476 345.4 349.9
+Bind 4476 4692 349.9 364
+Bind 4692 4828 364 374.5
+Bind 4828 4954 374.5 381.8
+Bind 4954 5047 381.8 389.1
+Bind 5047 5072 389.1 391.5
+Bind 5072 5153 391.5 396.9
+Bind 5153 5327 396.9 406.3
+Bind 5327 5407 406.3 415.8
+Bind 5407 5689 415.8 434.3
+Bind 5689 5753 434.3 439.1
+Bind 5753 5936 439.1 449.8
+Bind 5936 6118 449.8 466.2
+Bind 6118 6268 466.2 475.1
+Bind 6268 6310 475.1 478.4
+Bind 6310 6388 478.4 483.1
+Bind 6388 6581 483.1 495.4
+Bind 6581 6724 495.4 503.5
+Bind 6724 6792 503.5 507.3
+Bind 6792 6944 507.3 517.6
+Bind 6944 7009 517.6 522.4
+Bind 7009 7102 522.4 529.2
+Bind 7102 7158 529.2 534.8
+Bind 7158 7242 534.8 540.3
+Bind 7242 7356 540.3 549.1
+Bind 7356 7439 549.1 556.1
+Bind 7439 7523 556.1 563
+Bind 7523 7585 563 568.4
+Bind 7585 7642 568.4 572.8
+Bind 7642 7744 572.8 578.7
+Bind 7744 7799 578.7 583.2
+Bind 7799 7981 583.2 595.6
+Bind 7981 8123 595.6 606.6
+Bind 8123 8284 606.6 615.7
+Bind 8284 8337 615.7 620
+Bind 8337 8476 620 627.5
+Bind 8476 8588 627.5 638
+Bind 8588 8729 638 647.8
+Bind 8729 8786 647.8 651
+Bind 8786 8881 651 658
+Bind 8881 8988 658 664.7
+Bind 8988 9066 664.7 670.2
+Bind 9066 9147 670.2 676.9
+Bind 9147 9218 676.9 682.2
+Bind 9218 9285 682.2 688.9
+Bind 9285 9313 688.9 692.4
+Bind 9313 9484 692.4 705.3
+Bind 9484 9572 705.3 712.8
+Bind 9572 9614 712.8 716.2
+Bind 9614 9664 716.2 720.8
+Bind 9664 9783 720.8 736.4
+Bind 9783 9876 736.4 741.3
+Bind 9876 9954 741.3 745.1
+Bind 9954 10107 745.1 753.7
+Bind 10107 10324 753.7 766.9
+Bind 10324 10389 766.9 771.5
+Bind 10389 10441 771.5 775.8
+Bind 10441 10574 775.8 785
+Bind 10574 10683 785 791.3
+Bind 10683 10748 791.3 796
+Bind 10748 10865 796 806.9
+Bind 10865 10936 806.9 812.2
+Bind 10936 11018 812.2 816.2
+Bind 11018 11191 816.2 828.6
+Bind 11191 11297 828.6 836.8
+Bind 11297 11413 836.8 844
+Bind 11413 11592 844 859.3
+Bind 11592 11679 859.3 867.6
+Bind 11679 11752 867.6 873.2
+Bind 11752 11861 873.2 880.5
+Bind 11861 12044 880.5 895.2
+Bind 12044 12125 895.2 902
+Bind 12125 12180 902 907.2
+Bind 12180 12306 907.2 917.3
+Bind 12306 12331 917.3 920
+Bind 12331 12395 920 927.4
+Bind 12395 12486 927.4 934.8
+Bind 12486 12523 934.8 938.7
+Bind 12523 12605 938.7 946.9
+Bind 12605 12662 946.9 953.6
+Bind 12662 12709 953.6 958.9
+Bind 12709 12752 958.9 967
+Bind 12752 12859 967 974.8
+Bind 12859 12906 974.8 980.3
+Bind 12906 12994 980.3 987.6
+RecognizedString yes 0 2.2
+RecognizedString extremely well separated from each other 507.3 510.5
+RecognizedString how early test festival these monkeys already didn't seether mother so the hottest social experience 510.5 517.6
+RecognizedString do we fans are social status even at the moment of park 517.6 522.4
+RecognizedString so you this experiment widow plus santa's of monkeys that had difference social status 522.4 529.2
+RecognizedString what's interesting about social rank is across all living beings 529.2 534.8
+RecognizedString they will structure them self by hierarchy monkey number one is the boss 534.8 540.3
+RecognizedString monkey number for is p on and you put for monkeys indicate there were always be a boss and always be appeal 540.3 549.1
+RecognizedString and what's interesting is that the monkey number one is much healthier than monkey number four 549.1 556.1
+RecognizedString and if you put them in a cage monkey mobile one well that will not eat that much 556.1 563
+RecognizedString funky number for will eat swatch 563 565.5
+RecognizedString like humans lick the pops and very different ways 52 56
+RecognizedString and what you see here in this 565.5 568.4
+RecognizedString metal asian mapping a dramatic separation at bat 568.4 572.8
+RecognizedString of the animals that had a hi social status versus the animals that not have a heiser 572.8 578.7
+RecognizedString so we are born already knowing social information 578.7 583.2
+RecognizedString and that social information is not bad or good just peppers life because we have to 583.2 589.5
+RecognizedString 589.5 595.6
+RecognizedString but how could you study this humans 595.6 598.2
+RecognizedString so we can to experiments mckenna minister adversity omens but god does experiments with humans 598.2 604.6
+RecognizedString and it's called natural disasters 604.6 606.6
+RecognizedString so what are the natural disasters the hardest natural disaster in history happen in my province of quebec it's the ice storm of ninety ninety eight 606.6 615.7
+RecognizedString some mother's do a lot of that some mother's very little and poster in between 56 63.2
+RecognizedString we lost the entire electrical grid because if an ice storm 615.7 620
+RecognizedString when the temperature is wearing the dead the winter of quebec minus twenty two minus thirty and you're pregnant mother's during that time 620 627.5
+RecognizedString am i colic suzanne king followed the children of these mother's four fifteen years 627.5 635.9
+RecognizedString in what happened was 635.9 638
+RecognizedString that as the stress increase and here we had objective measures of dress how long you work without power where did you spend your time 638 647.8
+RecognizedString what's that in your mother's and law apartment or insomniac 647.8 651
+RecognizedString a pasha country home so all these added up to social staff kayla you can ask the question how 651 658
+RecognizedString did the children look like an it appears that a stress increases the chill develop more autism 658 664.7
+RecognizedString develop more metabolic diseases and they develop more auto you diseases 664.7 670.2
+RecognizedString and weedmaps enough elation state and again you see the rena jeans becoming red 670.2 676.9
+RecognizedString but what interesting about at is that when he follows these 63.2 68.8
+RecognizedString as press increases the red jeans becoming green stressing creases 676.9 682.2
+RecognizedString an entire we arrangement after chino in response to stress 682.2 688.9
+RecognizedString so if we can program james 688.9 692.4
+RecognizedString if we are not just a slaves off the history of our jeans but they could be program can we d program 692.4 699.4
+RecognizedString because epic genetic does a causes can causes jesus like cancer m 699.4 705.3
+RecognizedString metabolic disease and mental health this let's talk about cocaine addiction 705.3 712.8
+RecognizedString cocaine addiction is a terrible situation 712.8 716.2
+RecognizedString that can lead to deaf and to loss of human life 716.2 720.8
+RecognizedString we ask the question can we reprogram detected brain to make that animal non addicted anymore 720.8 731.8
+RecognizedString we use a cocaine addiction model 731.8 736.4
+RecognizedString pops wendy become adolf like ears human life long after the mother died 68.8 74.7
+RecognizedString that rica pitch lights what happens in humans and humans your high school 736.4 741.3
+RecognizedString some friends adjust you some how can you take ok nothing happens 741.3 745.1
+RecognizedString month pass by something reminds you of what happened to first time a pusher pushes cocaine and you become addicted and you lie fast 745.1 753.7
+RecognizedString in rats we do the same thing mike holly galia dave he train fi animals to get used to cocaine than for one month 753.7 761.9
+RecognizedString nope ok and then he remind them off departing wendy saudi cocaine to first time 761.9 766.9
+RecognizedString why cute a colors of the cage wendy located and they go crazy 766.9 771.5
+RecognizedString they will press the lever to get cocaine tell data 771.5 775.8
+RecognizedString we first the tournament that the difference between this animals is that during that time when nothing hop there's no cocaine around 775.8 785
+RecognizedString there epi genome is rearrange two g's are we march in a different way and wendy you cops 785 791.3
+RecognizedString your genome is ready to develop this addictive feet 791.3 796
+RecognizedString they are completely different animals the animals that were lick and groomed heavenly the hi licking and grooming 74.7 83.7
+RecognizedString so if it is animals with drugs that either increase 796 801.6
+RecognizedString the name appalachian which was the epic genetic mark lookup or pink chris epic genetic 801.6 806.9
+RecognizedString at my a markets and we found that if we increase math elation 806.9 812.2
+RecognizedString please animals go even crazy or the become more craving for coffee 812.2 816.2
+RecognizedString but we reduce the dna matt elation the animals is not addicted any 816.2 822.1
+RecognizedString we have reprogrammed and it fundam out the difference between then 822.1 826.2
+RecognizedString epi genetic dragan any other drugs 826.2 828.6
+RecognizedString is that with api genetic drugs we finchley remove the five of experience and want there gla 828.6 836.8
+RecognizedString they were not comeback unless you have the same experience so the animal lousy programs when we visited the animals 836.8 844
+RecognizedString thirty days sixty days longer witches and human terms many years of life they were still not addicted 844 851.2
+RecognizedString are not stressed 83.7 85.8
+RecognizedString buy a single abba generic street 851.2 854.6
+RecognizedString so what were learned about dna 854.6 859.3
+RecognizedString the dna is just a sequence of letters it's not just quit dna is the a dynamic movie 859.3 867.6
+RecognizedString are experiences are being written into that movie which is interactive 867.6 873.2
+RecognizedString you're like watching a movie off your life with the dna with your remote control you can remove an actor 873.2 880.5
+RecognizedString an ad and actor i'm so you have 880.5 884.6
+RecognizedString is fight off determinive speak nature of genetics you've controll of the way you jeans look like 884.6 891.8
+RecognizedString and this have to tremendous optimistic message 891.8 895.2
+RecognizedString for ability to now encounter solve the deadly diseases like cancer mental health 895.2 902
+RecognizedString with new approach looking at them as ml adaptation 902 907.2
+RecognizedString they have different sexual behavior they have different 85.8 89.5
+RecognizedString that if we can jennette epic genetically intervene reverse the movie by removing and actor and setting up and do narrative 907.2 917.3
+RecognizedString so what i told you today is 917.3 920
+RecognizedString that are dna is really combined of to components to layers of information 920 927.4
+RecognizedString one layer of information is old evolved four million years of evolution 927.4 934.8
+RecognizedString it is fixed and very hot 934.8 938.7
+RecognizedString the other layer of information is epic genetic layer which is open and dynamic 938.7 946.9
+RecognizedString and set up an narrative that is interactive that allows 946.9 953.6
+RecognizedString off to control to large extend are destiny 953.6 958.9
+RecognizedString to help the destiny offer children 958.9 962.9
+RecognizedString and to hopefully conquer conquer disease 962.9 967
+RecognizedString way of living van those that we're not treated 89.5 94.7
+RecognizedString an and that and f serious how challenges that have plague humankind for long time 967 974.8
+RecognizedString so even though we are determined by are genes 974.8 980.3
+RecognizedString we have a degree a freedom that can setup alive to life off responsibility 980.3 987.6
+RecognizedString thank you 987.6 995.3
+RecognizedString 995.3 999.1
+RecognizedString 999.1 1002
+RecognizedString as attentively by her mother so then i was thinking to myself 94.7 100.7
+RecognizedString is this magic 100.7 102.8
+RecognizedString 2.2 9.2
+RecognizedString how does this work as jeanette assist with like you to think 102.8 107.1
+RecognizedString perhaps the mother had the bad mother jean 107.1 111.2
+RecognizedString that's cause her pops to be stressful and then it was password generation to generation it's all determined by genetics 111.2 119.7
+RecognizedString or is it possible to something else is going on here 119.7 123.4
+RecognizedString sign ross we can ask question and answer it 123.4 126.9
+RecognizedString so what we date is a cross fostering expert 126.9 130.7
+RecognizedString you central is separate deleter 130.7 133.2
+RecognizedString the babies office rap at birth to to kinds of fostering mother's not the real mother's but mother's that will take care of them hi making mother's and lona king mothers 133.2 143.2
+RecognizedString i need you to opposite with allow licking pups 143.2 147.4
+RecognizedString and the remarkable answer was 147.4 149.8
+RecognizedString what all can to live in dark bar in madrid 9.2 16.8
+RecognizedString it was a important what did jean you got from your mother 149.8 154.1
+RecognizedString 154.1 161
+RecognizedString the mother the to care of the 161 164.1
+RecognizedString so how can this work 164.1 167.7
+RecognizedString i'm unhappy genetics i'm interested 167.7 172.2
+RecognizedString in how geez are mart by a chemical mark 172.2 175.9
+RecognizedString during mb genesis during the time where d one before mothers 175.9 180.6
+RecognizedString and decide which jean will be expressed in what tissue different jeans are express linda brain and deliver in they are 180.6 189.2
+RecognizedString and we far is it possible 189.2 191.9
+RecognizedString that the mother is somehow re programming 191.9 196.6
+RecognizedString i'm counter at my colic from miguel michael meanie 16.8 21
+RecognizedString the jean offer offspring 196.6 199.2
+RecognizedString through how behavior you spend ten ears 199.2 202.3
+RecognizedString and we found that there is a cascade of by chemical events 202.3 206.2
+RecognizedString by which licking and grooming of the mother the care of the mother's translate it to bio chemical signals 206.2 212.5
+RecognizedString we're going to the nicholas an into the dna in program it differently so now the animal can 212.5 220.2
+RecognizedString prepare itself for life 220.2 222.7
+RecognizedString is life debbie going to be harsh is going to be a lot of food 222.7 227.5
+RecognizedString are we going to be a lot of cap for flakes around or will i live in and opera class neighborhood 227.5 232.3
+RecognizedString where all i have to do is behave well and proper and that will game me social acceptance 232.3 238.6
+RecognizedString no one can think about how important that process can be 238.6 244.3
+RecognizedString our drinking a few beers and like scientist do he told me about is work 21 27.4
+RecognizedString for a life sweetheart dna from are ancestors 244.3 248.8
+RecognizedString the dna is all evolved during evolution 248.8 253.6
+RecognizedString but it doesn't tell us if you're going to be born in stockholm 253.6 258
+RecognizedString where the days along and a summer and short into winter 258 261.4
+RecognizedString 261.4 269.9
+RecognizedString so what with justice perhaps what happens only in life 269.9 275.7
+RecognizedString no signals the come through them other tell the child 275.7 278.9
+RecognizedString what kind of social world you going to be living in 278.9 282.2
+RecognizedString good be harsh and you better be anxious and be stressful or thrombi in easy world and you have to be different is it going to be a word with a lotta flight or little light 282.2 291.9
+RecognizedString is it going to be a world with a lot food or little food 291.9 295.7
+RecognizedString any told me that he's interested in how mother wrath lick their puff 27.4 35
+RecognizedString it is no food around you better develop your brain to binge whenever you see i'm here 295.7 301.9
+RecognizedString or store every pizza food that you have a fat 301.9 308.4
+RecognizedString so this is good evolution half a this to allow are fixed 308.4 313.6
+RecognizedString all dna to function that i naveen way in new environment 313.6 319.1
+RecognizedString it's sometimes things kindle wrong 319.1 321.9
+RecognizedString for example if you're born to por fat 321.9 326.1
+RecognizedString and the signals are you better bitch you better eat ever piece of food uganda encounter 326.1 332.3
+RecognizedString but that was a human brain have a fault have change evolution even faster now you can buy a mcdonald for one dollar 332.3 340
+RecognizedString and there for the preparation that we had 340 345.4
+RecognizedString by are mother's is turning to be moll adaptive 345.4 349.9
+RecognizedString after the we're bored 35 37
+RecognizedString the same preparation it was supposed to protect us from hunger and famine is going to cause obesity cardiovascular problems metabolic disease 349.9 359.9
+RecognizedString service constipated jeans could be mark by are experience 359.9 364
+RecognizedString especially rolie laugh xperia can provide if you wanna find explanation of off health and disease 364 371.5
+RecognizedString what is a to only for rats 371.5 374.5
+RecognizedString the problem is we cannot testis and humans 374.5 377.5
+RecognizedString because ethic lee we cannot minister traverse idina random way 377.5 381.8
+RecognizedString sofa poor child develop a certain property we don't know whether this is cause by poverty 381.8 389.1
+RecognizedString weather poor people have badges 389.1 391.5
+RecognizedString so you're not asus what tried to tell you that poor people are poor because they're james make them por 391.5 396.9
+RecognizedString ever janessa sis will tell you poor people are in a bad environment or a in published environment the create that female that property 396.9 406.3
+RecognizedString and i was sitting there and saying 37 39.8
+RecognizedString so we moved to look 406.3 410.8
+RecognizedString into our cousin the monkeys 410.8 413.3
+RecognizedString my colic steven sumi 413.3 415.8
+RecognizedString has been riri monkeys into different ways randomly separator the monkey from them other and rear the hair within nurse 415.8 424.1
+RecognizedString any sarah gate motherhood conditions 424.1 427.2
+RecognizedString sorry monkeys never mother dinners and other monkeys warrior weather alarm normal machel mothers 427.2 434.3
+RecognizedString and when they were old they were completely different apples 434.3 439.1
+RecognizedString the monkeys that had a mother would not care about alcohol they were not sexually aggressive the monkeys that didn't have a mother where aggressive west dressed and where alcoholics 439.1 449.8
+RecognizedString so we looked at the dna 449.8 453.2
+RecognizedString early after birth and see is it possible that the mother is market there is a signature 453.2 460.2
+RecognizedString this is where my tax dollars are wasted on this kind of soft science 39.8 47.1
+RecognizedString off the mother into dna off the offspring 460.2 463.6
+RecognizedString these are tay fourteen monkeys 463.6 466.2
+RecognizedString and what you see here is the modern way by which was study epic genetics we can now map 466.2 471.9
+RecognizedString that was chemical march with recall metal asian mars 471.9 475.1
+RecognizedString on dna at a single nicola tide resolution 475.1 478.4
+RecognizedString we can map and tired genome we can compare the monkey that had a mother and not 478.4 483.1
+RecognizedString and here's a visual presentation of this what you see is the jeans the button more my pele that are red 483.1 490
+RecognizedString the jean sitcom less math later aquamarine you can see many jean searching g 490 495.4
+RecognizedString because not having a mother is not just one thing effects the whole way thank the signal tibet the whole world is going to look like 495.4 503.5
+RecognizedString when you become an adult and you can see the to groups of monkey 503.5 507.3
+RecognizedString add historia telling me that when the right 47.1 52

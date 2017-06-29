@@ -1,0 +1,297 @@
+title 
+textStore SiddharthaRoy_2016X-480p.html
+MD5TextStore MD5
+soundStore SiddharthaRoy_2016X-480p.mp4
+MD5SoundStore MD5
+Bind 0 60 9.2 16.9
+Bind 60 111 16.9 21
+Bind 111 167 21 25
+Bind 167 200 25 28.4
+Bind 200 248 28.4 32.2
+Bind 248 292 32.2 35.6
+Bind 292 382 35.6 42.7
+Bind 382 555 42.7 53.4
+Bind 555 582 53.4 56
+Bind 582 644 56 60.2
+Bind 644 738 60.2 67.3
+Bind 738 899 67.3 77.6
+Bind 899 968 77.6 83.5
+Bind 968 1046 83.5 88.1
+Bind 1046 1092 88.1 91.9
+Bind 1092 1183 91.9 99.2
+Bind 1183 1293 99.2 106.5
+Bind 1293 1389 106.5 112.2
+Bind 1389 1449 112.2 117
+Bind 1449 1522 117 124.3
+Bind 1522 1611 124.3 130.9
+Bind 1611 1705 130.9 137
+Bind 1705 1786 137 142.7
+Bind 1786 1893 142.7 149.8
+Bind 1893 2024 149.8 158.8
+Bind 2024 2112 158.8 165
+Bind 2112 2219 165 173.3
+Bind 2219 2354 173.3 182.8
+Bind 2354 2449 182.8 189.9
+Bind 2449 2543 189.9 196.1
+Bind 2543 2623 196.1 201.9
+Bind 2623 2743 201.9 210.4
+Bind 2743 2885 210.4 219
+Bind 2885 2945 219 223.3
+Bind 2945 3010 223.3 229.8
+Bind 3010 3154 229.8 238.3
+Bind 3154 3173 238.3 240.8
+Bind 3173 3293 240.8 247.3
+Bind 3293 3391 247.3 254.9
+Bind 3391 3451 254.9 258.9
+Bind 3451 3584 258.9 267.3
+Bind 3584 3645 267.3 271.9
+Bind 3645 3761 271.9 279.6
+Bind 3761 3888 279.6 287.9
+Bind 3888 4042 287.9 299.4
+Bind 4042 4109 299.4 304.5
+Bind 4109 4175 304.5 308.1
+Bind 4175 4264 308.1 316.4
+Bind 4264 4359 316.4 323.5
+Bind 4359 4403 323.5 327.1
+Bind 4403 4525 327.1 335.1
+Bind 4525 4584 335.1 339.2
+Bind 4584 4658 339.2 345.8
+Bind 4658 4714 345.8 350.6
+Bind 4714 4800 350.6 356.3
+Bind 4800 4822 356.3 359.8
+Bind 4822 4903 359.8 364.9
+Bind 4903 5071 364.9 375.9
+Bind 5071 5151 375.9 381.8
+Bind 5151 5178 381.8 385
+Bind 5178 5279 385 392.5
+Bind 5279 5354 392.5 400.7
+Bind 5354 5394 400.7 404
+Bind 5394 5473 404 409.2
+Bind 5473 5575 409.2 417.1
+Bind 5575 5695 417.1 425.9
+Bind 5695 5774 425.9 431.5
+Bind 5774 5850 431.5 437.1
+Bind 5850 5900 437.1 440.5
+Bind 5900 5977 440.5 445.6
+Bind 5977 6017 445.6 448.4
+Bind 6017 6099 448.4 454.4
+Bind 6099 6181 454.4 462.7
+Bind 6181 6242 462.7 468.1
+Bind 6242 6358 468.1 478.2
+Bind 6358 6437 478.2 484.4
+Bind 6437 6591 484.4 496.4
+Bind 6591 6653 496.4 503
+Bind 6653 6747 503 509.5
+Bind 6747 6813 509.5 514
+Bind 6813 6894 514 519.1
+Bind 6894 6978 519.1 526
+Bind 6978 7091 526 533.4
+Bind 7091 7132 533.4 537.7
+Bind 7132 7235 537.7 544
+Bind 7235 7326 544 550.7
+Bind 7326 7444 550.7 560.1
+Bind 7444 7498 560.1 563.3
+Bind 7498 7573 563.3 568.2
+Bind 7573 7692 568.2 578.1
+Bind 7692 7784 578.1 583.8
+Bind 7784 7946 583.8 595.6
+Bind 7946 8019 595.6 600.7
+Bind 8019 8109 600.7 607.7
+Bind 8109 8142 607.7 610.8
+Bind 8142 8259 610.8 620
+Bind 8259 8330 620 626.5
+Bind 8330 8393 626.5 630.6
+Bind 8393 8465 630.6 635.5
+Bind 8465 8538 635.5 639.7
+Bind 8538 8585 639.7 642.5
+Bind 8585 8707 642.5 654.8
+Bind 8707 8867 654.8 664.9
+Bind 8867 9005 664.9 676.7
+Bind 9005 9074 676.7 681.6
+Bind 9074 9203 681.6 693.2
+Bind 9203 9303 693.2 698.6
+Bind 9303 9394 698.6 705.3
+Bind 9394 9528 705.3 716.7
+Bind 9528 9606 716.7 722.1
+Bind 9606 9667 722.1 727.3
+Bind 9667 9740 727.3 732.4
+Bind 9740 9879 732.4 742.7
+Bind 9879 9959 742.7 749.9
+Bind 9959 10043 749.9 755.9
+Bind 10043 10099 755.9 760.6
+Bind 10099 10196 760.6 766.8
+Bind 10196 10237 766.8 771.1
+Bind 10237 10334 771.1 777.4
+Bind 10334 10392 777.4 781.1
+Bind 10392 10501 781.1 788.2
+Bind 10501 10554 788.2 792
+Bind 10554 10680 792 802.2
+Bind 10680 10756 802.2 807.6
+Bind 10756 10798 807.6 812.5
+Bind 10798 10877 812.5 821.1
+Bind 10877 10917 821.1 824.2
+Bind 10917 11030 824.2 831.7
+Bind 11030 11099 831.7 836.6
+Bind 11099 11308 836.6 852.2
+Bind 11308 11339 852.2 855.3
+Bind 11339 11426 855.3 861.1
+Bind 11426 11512 861.1 866.6
+RecognizedString yes 0 2.2
+RecognizedString i'm not saying every scientists should be an activist 560.1 563.3
+RecognizedString where are real and sometimes very painful consequences of speaking up 563.3 568.2
+RecognizedString what to pronounce this idea does possibilities completely so that you can protect research funding 568.2 575.5
+RecognizedString simply screams a cell seven calendars 575.5 578.1
+RecognizedString and this is not hop the ideals that we would want to pass to are students 578.1 583.8
+RecognizedString and so you know you may thank ok sounds great but you'll never completely change organizational cultures 583.8 591.5
+RecognizedString are you now in by mindset in students and professionals 591.5 595.6
+RecognizedString look at the work as a public good in science inservice to public 595.6 600.7
+RecognizedString maybe so could a big reason for that be at we're not training students right 600.7 607.7
+RecognizedString because if you look close me art 607.7 610.8
+RecognizedString it wasn't until i arrived in ragid school and witness first hand the criminal actions of scientists and engineers in the water crisis in flint michigan 42.7 53.4
+RecognizedString education system today is focused mode on creating 610.8 615.1
+RecognizedString what x you'll professor built restaurants cause excellent sheep 615.1 620
+RecognizedString young people were smart ambitious and yet somehow risk of urs timid 620 626.5
+RecognizedString direction less and sometimes full of themselves 626.5 630.6
+RecognizedString now kids in a we fell in love with science when you kids 630.6 635.5
+RecognizedString and yet we somehow spend most for time during high school in college 635.5 639.7
+RecognizedString just jumping through hoops and doing things 639.7 642.5
+RecognizedString i'll slap you can polish a resume instead of sitting down and reflecting on what do you want to do and we want to be 642.5 651.7
+RecognizedString and so 651.7 654.8
+RecognizedString the markers of empathy in are college graduates have been dropping brooke grammatical in the past two tickets while those of narcissism around the rice 654.8 664.9
+RecognizedString realized how dangerous 53.4 56
+RecognizedString there's also growing culture of tiffin gagement between engineering students and the public 664.9 671
+RecognizedString you know we're train to the build bridges unsolved complex problems 671 676.7
+RecognizedString put not how to thank all live or be if it doesn't of sport 676.7 681.6
+RecognizedString my undergraduate years were explicit job preparation and i cannot tell you how suffocating and painful it was a times 681.6 689.9
+RecognizedString i'm so 689.9 693.2
+RecognizedString some people think solution to great engineers degrade scientists is more technical training 693.2 698.6
+RecognizedString maybe so put the discussions on ethical decision making or building character 698.6 705.3
+RecognizedString or listening right from wrong 705.3 708.8
+RecognizedString consider a this project friday eleven admire a it's called heroic imagination project 708.8 716.7
+RecognizedString a brain charles after frozen bardot famous for the stanford prison experiment 716.7 722.1
+RecognizedString any surprisingly common this line of fainting really is 56 60.2
+RecognizedString yes program seeks to train school going children around the world 722.1 727.3
+RecognizedString to look at them sounds as heroes in waiting or heroes in training 727.3 732.4
+RecognizedString so these young mines work overtime develop skills and virtues so that when the opportunity comes no matter what the opportunity b 732.4 742.7
+RecognizedString to stand up and do the right thing in other words anyone can be a hero 742.7 749.9
+RecognizedString think about that idea for a second why don't be teach science in engineering like that 749.9 755.9
+RecognizedString well hello ism and public service are seen s key values 755.9 760.6
+RecognizedString because indeed it's often herro isn't that is not only the antidote to public indifference 760.6 766.8
+RecognizedString but also systemic evil like pizza in flint 766.8 771.1
+RecognizedString and so dream with me when a twenty for century scientist slash engineer can a clark 771.1 777.4
+RecognizedString individuals who are driven to master the sciences 777.4 781.1
+RecognizedString make no mistake different water crisis is one of the most grudges environmental injustice of our time 60.2 67.3
+RecognizedString should i be can search society also aware of the tremendous power turn knowledge and decisions have 781.1 788.2
+RecognizedString folks word developing there mortal courage at all times 788.2 792
+RecognizedString and realize that conflict and controversy are not necessarily bad things ever ultimate loyalty esther the public and the planet 792 802.2
+RecognizedString answer these are the people who will stand up like we didn't friends 802.2 807.6
+RecognizedString not to be fave years or heroes into media pot 807.6 812.5
+RecognizedString i'll terrific and fundamentally good actors that you and i can trust 812.5 819.1
+RecognizedString imagine 819.1 821.1
+RecognizedString fostering such a public focused mindset 821.1 824.2
+RecognizedString in classes on service traps interior activities during college urban high school for that these and lines 824.2 831.7
+RecognizedString well hold onto those ideals when the actually enter the real world 831.7 836.6
+RecognizedString for over eighteen months hundred thousand residents including thousands of young children for exposed to contaminated drinking water with haila mosa fred 67.3 77.6
+RecognizedString weather that be consulting academia policy making a even become the president of a country 836.6 844.3
+RecognizedString mankind status challenges light had of us 844.3 848.8
+RecognizedString contaminated drinking water is just one example 848.8 852.2
+RecognizedString we could definitely use more nay 852.2 855.3
+RecognizedString read desperately need more compassionate up standards and public focused 855.3 861.1
+RecognizedString scientists engineers who was five to do the right thing and not be easy to manage 861.1 866.6
+RecognizedString thank you 866.6 875.5
+RecognizedString 875.5 877.7
+RecognizedString 877.7 882
+RecognizedString where is appointment ema toxin which causes cognitive and developmental disabilities 77.6 83.5
+RecognizedString when is especially harmful to growing feet assist and young children 83.5 88.1
+RecognizedString we've done about it's dangers since the roman empire 88.1 91.9
+RecognizedString amongst a whole host of health issues twelve people died by contracting vision s disease 91.9 99.2
+RecognizedString flint water infrastructure the complex net worth of underground pipes has been severely damaged 99.2 106.5
+RecognizedString 2.2 9.2
+RecognizedString and while the water quality slowly improving on the pipes are being a place now 106.5 112.2
+RecognizedString modern two years later the water still not safe to drink 112.2 117
+RecognizedString so people are still in shark for ask themselves how could to save happened 117 124.3
+RecognizedString uh the short answer is the crisis began when an emergency manager appointed by 124.3 130.9
+RecognizedString michigan's governor decided to switched on water source to a locals river to save money 130.9 137
+RecognizedString parrot continued for so long because scientists in engineers at government agencies 137 142.7
+RecognizedString in the state of michigan anand the federal government did not follow federal regulations for treating the water right 142.7 149.8
+RecognizedString what was more day activity cheated on the law and order history at cover apps 149.8 155.7
+RecognizedString the reddit killed residence asking for help 155.7 158.8
+RecognizedString while publicly insisting at the brown smelly water coming out of the tap what safe to drink 158.8 165
+RecognizedString fresh out of college i went to work for consulting phone 9.2 16.9
+RecognizedString does the system add the local state and federal levels completely field to protect are most valuable 165 173.3
+RecognizedString add an entire population was left to fan fred self 173.3 177.5
+RecognizedString now i'm at the injustice 177.5 180.3
+RecognizedString flint residence for rolling together 180.3 182.8
+RecognizedString and among stamford some amazing women flint mother's concern about there kids who came together forming 182.8 189.9
+RecognizedString many grass what's questions and these group started protesting and demanding change 189.9 196.1
+RecognizedString the group also reach out to outside scientist for help and a few responded 196.1 201.9
+RecognizedString among them was a guy named miguel del toro 201.9 205.8
+RecognizedString i want to expert at the u s a p a the environmental protection agency 205.8 210.4
+RecognizedString actually route to scientific memo and send it to the state of michigan and the federal government to bring their attention to this problem 210.4 219
+RecognizedString tearing orientation the leaders best out advice 16.9 21
+RecognizedString he was cat rise rogue employee and sirens 219 223.3
+RecognizedString in collaboration with front residents are research team here at tech 223.3 229.8
+RecognizedString of students in scientist red by professor mark edwards connected fetty why testing to prove that france water wasn't it contaminated 229.8 238.3
+RecognizedString even toxic and some homes 238.3 240.8
+RecognizedString we substantial gate at what flynn typing screaming for months and put it on the internet for the word to say 240.8 247.3
+RecognizedString now when i was getting involved when i said yesterday's i have no idea what i was kidding enter 247.3 254.9
+RecognizedString but every second of journey has been totally versus 254.9 258.9
+RecognizedString this was science and service to public this is what i came to graduate school for and this is how i'd rather spend my life 258.9 267.3
+RecognizedString and so this coalition does unlikely coalition of citizens 267.3 271.9
+RecognizedString pastors journalist and scientists came together to uncover the truth using science advocacy activism 271.9 279.6
+RecognizedString among them was one fifty council i will never forget 21 25
+RecognizedString a local pediatrician figured out bad the instances of shadow that poisoning having the doubled in flint crisis 279.6 287.9
+RecognizedString and the state of michigan was for stuff how's the problem and text apps 287.9 293.8
+RecognizedString to corrected this group and many other scott flynn skips protected 293.8 299.4
+RecognizedString a few months later president obama cayman i'm declare to federal emergency 299.4 304.5
+RecognizedString anna flint is getting more than six hundred million dollars 304.5 308.1
+RecognizedString in healthcare nutrition education and over hauling that infrastructure 308.1 314.2
+RecognizedString how ever 314.2 316.4
+RecognizedString the arrogance and the callus disregard republic help showing by scientists engineers 316.4 323.5
+RecognizedString abby's government agencies is beyond belief 323.5 327.1
+RecognizedString these unhealthy cultures that are fest ringing these groups where the focus is on meeting regulations and checking boxes 327.1 335.1
+RecognizedString he told us be easy to manage 25 28.4
+RecognizedString as opposed to protecting public health is just appalling 335.1 339.2
+RecognizedString just consider this email parent ep employee road where she goes 339.2 345.8
+RecognizedString i'm not so sure flinders a community we want to go out on a limb for 345.8 350.6
+RecognizedString the d human isolation of an entire population could not be more options 350.6 356.3
+RecognizedString no contrast that too 356.3 359.8
+RecognizedString the first canon if engineering wedge in my financial be the first laugh humanity 359.8 364.9
+RecognizedString a to hold paramount for health fifty and welfare of the public above or else 364.9 370.5
+RecognizedString this is happy kraddick owes beef really acknowledged medal in breast 370.5 375.9
+RecognizedString and so when scientists in engineers very much like medical doctors screw up 375.9 381.8
+RecognizedString people can get hurt even die 381.8 385
+RecognizedString considering how naive i really wasn't the time 28.4 32.2
+RecognizedString if i will professionals an even students field to get that society pay for he's price 385 392.5
+RecognizedString berry deepan history lizer character i deeply admire an engineer named peter platoon ski 392.5 400.7
+RecognizedString are he lived in the timer soviet union 400.7 404
+RecognizedString and pull change ski repeatedly got in trouble for his radical honesty 404 409.2
+RecognizedString and willingness two point out major flaws in the soviets mindless pursuit of rabbit industrial lite version 409.2 417.1
+RecognizedString everyone was expected to follow orders coming from the top anyone asking questions are offering feedback was an welcome 417.1 425.9
+RecognizedString the sophia hat created the largest army of engineers the wasn't ever seen 425.9 431.5
+RecognizedString and yet most of them vermeer dogs in a gigantic machine heading for doom 431.5 437.1
+RecognizedString potions can the other hand employed engineers 437.1 440.5
+RecognizedString to look at the economic political and social consequences of directions 440.5 445.6
+RecognizedString i took is advice to heart i told myself 32.2 35.6
+RecognizedString in other words be more public focused 445.6 448.4
+RecognizedString his fearless voice of reason was seen as a threat to the political establishment 448.4 454.4
+RecognizedString and joseph stalin had an executed in nineteen twenty nine 454.4 459.2
+RecognizedString no potions keys view on technic rats 459.2 462.7
+RecognizedString is very different from one that is unistall very popular still gary coleman 462.7 468.1
+RecognizedString a that off i just passionate researcher working in his ivory tower lab or a nerdy engineer working in is cubicle 468.1 478.2
+RecognizedString brilliant no doubt ah yet somehow cut off from the world shows little emotion 478.2 484.4
+RecognizedString kind of like spock are from star trek you know tesco 484.4 491.5
+RecognizedString let's try to spot for load i don't think i'll succeed 491.5 496.4
+RecognizedString see i can be spock thank goodness cabbie spock now 496.4 503
+RecognizedString yes i will be the ultimate team player 35.6 38.5
+RecognizedString uh i was reminded of this distinction because i recent articles came out in a very repeat it 503 509.5
+RecognizedString scientific journal which kind of count rise art flint work 509.5 514
+RecognizedString as driven by youthful idea listen and hollywood dramatic sensibility is 514 519.1
+RecognizedString it asked scientist to protect there research funding and institutions at all costs 519.1 526
+RecognizedString no matter how just because and if you think you have to get involved into something even if it's an emergency 526 533.4
+RecognizedString try finding an active escrow porn and geo 533.4 537.7
+RecognizedString and obtain the phone support of the academic community whatever that means before you get involved 537.7 544
+RecognizedString not one mention of our moral and professional application of preventing humpty republic 544 550.7
+RecognizedString are the fact that we have all this expertise resources and for some even tenure 550.7 557.2
+RecognizedString to in accomplished task 557.2 560.1
+RecognizedString i will do everything i'm told i will be easy to manage 38.5 42.7

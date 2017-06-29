@@ -1,0 +1,290 @@
+title 
+textStore AllanJones_2011.html
+MD5TextStore MD5
+soundStore AllanJones_2011.mp4
+MD5SoundStore MD5
+Bind 0 123 9.2 22.6
+Bind 123 223 22.6 31.2
+Bind 223 353 31.2 39.9
+Bind 353 567 39.9 51.3
+Bind 567 675 51.3 57.2
+Bind 675 736 57.2 62.2
+Bind 736 906 62.2 70.5
+Bind 906 988 70.5 75.8
+Bind 988 1069 75.8 81.5
+Bind 1069 1270 81.5 91.4
+Bind 1270 1486 91.4 101.8
+Bind 1486 1531 101.8 104.7
+Bind 1531 1697 104.7 113.6
+Bind 1697 1792 113.6 118.3
+Bind 1792 1907 118.3 124
+Bind 1907 2061 124 131.7
+Bind 2061 2173 131.7 136.7
+Bind 2173 2266 136.7 142.4
+Bind 2266 2415 142.4 150.7
+Bind 2415 2659 150.7 164
+Bind 2659 2818 164 171.9
+Bind 2818 2907 171.9 177.7
+Bind 2907 3128 177.7 189.9
+Bind 3128 3241 189.9 196.6
+Bind 3241 3266 196.6 200.1
+Bind 3266 3324 200.1 203.5
+Bind 3324 3370 203.5 207
+Bind 3370 3459 207 211.9
+Bind 3459 3530 211.9 216.5
+Bind 3530 3622 216.5 221.7
+Bind 3622 3708 221.7 226.9
+Bind 3708 3799 226.9 232.9
+Bind 3799 3859 232.9 236.8
+Bind 3859 3929 236.8 241.7
+Bind 3929 3999 241.7 248.1
+Bind 3999 4132 248.1 256.7
+Bind 4132 4165 256.7 259.2
+Bind 4165 4280 259.2 267.6
+Bind 4280 4382 267.6 275.6
+Bind 4382 4523 275.6 284.4
+Bind 4523 4624 284.4 289.7
+Bind 4624 4829 289.7 304
+Bind 4829 4905 304 308.7
+Bind 4905 4980 308.7 314.4
+Bind 4980 5180 314.4 325.8
+Bind 5180 5223 325.8 328.7
+Bind 5223 5291 328.7 332.5
+Bind 5291 5546 332.5 348.9
+Bind 5546 5722 348.9 357.1
+Bind 5722 5837 357.1 363.5
+Bind 5837 6071 363.5 373.7
+Bind 6071 6198 373.7 383.2
+Bind 6198 6258 383.2 385.7
+Bind 6258 6489 385.7 397.8
+Bind 6489 6535 397.8 400.6
+Bind 6535 6591 400.6 403.5
+Bind 6591 6766 403.5 413.9
+Bind 6766 7097 413.9 431.5
+Bind 7097 7141 431.5 435
+Bind 7141 7214 435 442.6
+Bind 7214 7360 442.6 449.2
+Bind 7360 7448 449.2 453.8
+Bind 7448 7609 453.8 461.8
+Bind 7609 7695 461.8 466.1
+Bind 7695 7734 466.1 468.7
+Bind 7734 7884 468.7 477.2
+Bind 7884 8119 477.2 491.7
+Bind 8119 8171 491.7 493.9
+Bind 8171 8251 493.9 498.3
+Bind 8251 8577 498.3 517
+Bind 8577 8682 517 523
+Bind 8682 8789 523 529.8
+Bind 8789 9001 529.8 544.9
+Bind 9001 9120 544.9 551.8
+Bind 9120 9211 551.8 558.2
+Bind 9211 9543 558.2 577
+Bind 9543 9666 577 583.1
+Bind 9666 9774 583.1 590.2
+Bind 9774 10142 590.2 609.7
+Bind 10142 10214 609.7 615.2
+Bind 10214 10301 615.2 621.6
+Bind 10301 10392 621.6 626
+Bind 10392 10555 626 636.3
+Bind 10555 10662 636.3 642.4
+Bind 10662 10839 642.4 651.7
+Bind 10839 10993 651.7 658.8
+Bind 10993 11083 658.8 664.1
+Bind 11083 11196 664.1 671.1
+Bind 11196 11455 671.1 682.2
+Bind 11455 11581 682.2 689
+Bind 11581 11701 689 695.9
+Bind 11701 11743 695.9 698.4
+Bind 11743 11862 698.4 706.5
+Bind 11862 11948 706.5 711.6
+Bind 11948 12063 711.6 718.6
+Bind 12063 12124 718.6 722.5
+Bind 12124 12288 722.5 731.1
+Bind 12288 12356 731.1 735.5
+Bind 12356 12407 735.5 738.2
+Bind 12407 12497 738.2 743.4
+Bind 12497 12610 743.4 749.3
+Bind 12610 12664 749.3 752.5
+Bind 12664 12814 752.5 765
+Bind 12814 12962 765 775.8
+Bind 12962 13300 775.8 796.6
+Bind 13300 13347 796.6 800.7
+Bind 13347 13539 800.7 813.4
+Bind 13539 13672 813.4 819.6
+Bind 13672 13757 819.6 824.5
+Bind 13757 13824 824.5 828.3
+Bind 13824 13951 828.3 835.4
+Bind 13951 13986 835.4 838.4
+Bind 13986 14263 838.4 853.8
+Bind 14263 14415 853.8 863.9
+Bind 14415 14494 863.9 870.9
+Bind 14494 14619 870.9 878.2
+Bind 14619 14847 878.2 893.5
+Bind 14847 14899 893.5 897.6
+RecognizedString yes 0 2.2
+RecognizedString what we've done right now to human brains worth of data 551.8 555.7
+RecognizedString we put olivet together 555.7 558.2
+RecognizedString into one thing i say what that synthesis looks like basically a large data set of information 558.2 564.1
+RecognizedString 564.1 574.3
+RecognizedString so here's the mode allen is that we put together 574.3 577
+RecognizedString i'll start to recognize the sings from what we've collected before pierce the amar a provide framework 577 583.1
+RecognizedString there's an operator site on the right that allows you to turn that allows you to zoom in allows you to highlight individual structures 583.1 590.2
+RecognizedString but most important lee were now mapping into this and atomic framework which is a comment framework for people understand 590.2 597.7
+RecognizedString where are genes turned on the red levels encouraging is turned on to great degree breanna sodoku larious where 597.7 604.7
+RecognizedString it's not turned on an h jean gets is fingerprint in remember that we've asset 604.7 609.7
+RecognizedString twenty percent of v oxygen coming from your lines 57.2 62.2
+RecognizedString all the twenty five thousand jeans mcgee now have all that data available 609.7 615.2
+RecognizedString so what can scientists learn about this data burgess starting to to look at the state ourselves 615.2 621.6
+RecognizedString there's a basic things that you would wanna understand to great examples 621.6 626
+RecognizedString are drugs prozac and wellbutrin these are commonly prescribed antidepressant 626 631.2
+RecognizedString now remember ashling jeans jeans send instructions to make proteins 631.2 636.3
+RecognizedString proteins are targets for drugs drugs binder proteins and fifty the turn them off at cetera 636.3 642.4
+RecognizedString thirty one understand the action of drugs you understand how there if acting in lazy want them to and also in the ways you don't want them to in the side effect profile etc 642.4 651.7
+RecognizedString do you wanna see where the panther turned on and for the first time electric do that we can do that and multiple individual since we that's a to 651.7 658.8
+RecognizedString so now we can look for a throughout the brain we can see this unique fingerprint 658.8 664.1
+RecognizedString can we get confirmation we get confirmation that in the jeannice turned on for something like prozac in sarah tuner check 664.1 671.1
+RecognizedString twenty percent of blood from from your hard is servicing this one oregon it's basically if you how to fits together to slightly larger than the to fifth 62.2 70.5
+RecognizedString structures things that are rd known to be affected 671.1 673.7
+RecognizedString what we get to feed the whole thing we'll figure serious that no one is ever looked at before mbc these jeans turned on where is the interesting side effects of could be 673.7 682.2
+RecognizedString what other thing you can do a such a thing is you can because it to the pattern matching exercise because there's a unit fingerprint 682.2 689
+RecognizedString we can actually school and to the entire gino and find other proteins 689 693.9
+RecognizedString let's show similar fingerprint 693.9 695.9
+RecognizedString surf your in drug discovery for example 695.9 698.4
+RecognizedString you can go through the tire listing of what's the genome has on offer to find perhaps better drug targets and optimize 698.4 706.5
+RecognizedString most of you're probably familiar with gina white association studies and the for merv 706.5 711.6
+RecognizedString people covering in the news saying scientists have recently discovered the jean are genes which effect x 711.6 718.6
+RecognizedString answer these kinda studies are bikini published by scientists 718.6 722.5
+RecognizedString scientist sort of in the end of the twentieth century learnt with a contract blood flow 70.5 75.8
+RecognizedString and they're great ne analyze large population say look at the retire gino's and i try to find hotspots activity a that are dinner link cause aletha james 722.5 731.1
+RecognizedString but what you get out of such an exercise is simply a list of jeans 731.1 735.5
+RecognizedString it tells you the what but it doesn't tell you where 735.5 738.2
+RecognizedString and so it's very important for are those researchers that we created this resource 738.2 743.4
+RecognizedString now they can come in and i can starting at clues about activity they can start to look at common pathways 743.4 749.3
+RecognizedString other things today simply haven't been able to do before 749.3 752.5
+RecognizedString so uh i think this audience in particular can understand the importance of individual ality 752.5 759.2
+RecognizedString and i think to every few min we all have a different eh genetic 759.2 765
+RecognizedString backgrounds we all have live separate lives with the fact is 765 769.7
+RecognizedString archie gnomes are greater than ninety nine percents similar where very very similar to genetic level 769.7 775.8
+RecognizedString tim map a nine invasive lee where activity what's going on in the human brain 75.8 81.5
+RecognizedString what would finding is actually even at the brain bio chemical level we are quite similar 775.8 781.6
+RecognizedString and fetishes ninety nine percents roughly ninety for set correspondence 781.6 786.8
+RecognizedString add a reasonable cut off so everything in cloudy sorry roughly korra latest enemy find some out license things that like beyonce cloud in those jeans 786.8 796.6
+RecognizedString are interesting but they're very subtle so i think 796.6 800.7
+RecognizedString hey assistant reporting message to to take home today that even though we celebrate olive are differences 800.7 808
+RecognizedString we are quite similar even at the brain level 808 811
+RecognizedString and what others differences look like 811 813.4
+RecognizedString this is an example of a study that we did follow up and see what exactly does differences we're in the quite sarah 813.4 819.6
+RecognizedString pizza things where jeans turned on an individual cell type visa to james that we 819.6 824.5
+RecognizedString found the s good examples one is called you an it's involved in 824.5 828.3
+RecognizedString so for example vacancy in back part of the brain witches turning around there there's for cerebellum that's keeping you up right now it's keeping me 81.5 89.3
+RecognizedString early developmental choose just one is a jeans it's deleted in schizophrenia freeze art schizophrenia individuals 828.3 835.4
+RecognizedString potential show some population variation 835.4 838.4
+RecognizedString and so what you're looking at here in donor wanting donor for which are the exceptions to the other to that 838.4 845.1
+RecognizedString jean thirteen turned on and i'm very specific sup setup sells it's dark purple 845.1 850.1
+RecognizedString precipitation within solace telling a seguin is turned on there 850.1 853.8
+RecognizedString weather not that's due to the individuals genetic background are there experiences we don't know does time to studies require much larger populations 853.8 863.9
+RecognizedString so i'm gonna leave you with a final note about 863.9 868.4
+RecognizedString the complexity of brain and 868.4 870.9
+RecognizedString how much more we have to go these resources are incredibly valuable they give researches handle on where to go 870.9 878.2
+RecognizedString what we only look tara cancel of individuals at this point link certainly going to be looking at more i'll just close by saying bed vet 878.2 885.4
+RecognizedString standing it's involving coordinated movement 89.3 91.4
+RecognizedString the with the tools you're there and this is truly and annex florida on discovery cartman this is the 885.4 893.5
+RecognizedString vinu frontier if you will answer for those you are 893.5 897.6
+RecognizedString indicted but humble by the complexity of the brain the future awake 897.6 901.8
+RecognizedString thanks 901.8 911.3
+RecognizedString 911.3 917.9
+RecognizedString 917.9 923.9
+RecognizedString 923.9 925.9
+RecognizedString on the side here this is a temporal cortex this is the area where primary auditory processing so you're hearing my words you're sending it up in the hire language processing centers 91.4 101.8
+RecognizedString towards afraid of the brain is the place in which 101.8 104.7
+RecognizedString all of the disorder gore complex by decision making is the last mature soda violated all ted is work on your decision making processor going on 104.7 113.6
+RecognizedString place where your deciding right now you probably erica already the steak for dinner 113.6 118.3
+RecognizedString 2.2 9.2
+RecognizedString so if you take a deeper look at the brain one of the things have you located in cross section what you can see 118.3 124
+RecognizedString is that you can't really see a whole lot of structure there but there's actually a lot of structure there at cells and it's wires all wire together 124 131.7
+RecognizedString what about a hundred years ago some scientists invented stain that withstand sells a national here 131.7 136.7
+RecognizedString in the very light blue you can see aries where naruto cell bodies are being stan 136.7 142.4
+RecognizedString what you can see is is very nine pharmacy a lot more structure there's the outer part of that brains 142.4 147.3
+RecognizedString are the is the nia cortex wanted of continuous 147.3 150.7
+RecognizedString processing unit if you will but you could office eat things underneath as well and aldi's blackery is are the aries in which the wires are running through they're probably less cell dance 150.7 160.4
+RecognizedString today's about eighty six billion neurontin are brain 160.4 164
+RecognizedString and as you can see there very non uniform lee distributed and how there distributed really contribute to there underlying function 164 171.9
+RecognizedString edit courses i mentioned for since we can now structure map brain function we can start 171.9 177.7
+RecognizedString humans have long hello fascination fetty human brain 9.2 16.2
+RecognizedString tidy send to the individual self let's take a deeper look let's look at neurons 177.7 182.7
+RecognizedString says i mention there eighty six billion narrows you're awfully smaller selfie these are support sells asked for sites glee app 182.7 189.9
+RecognizedString in the nerves themselves are the once you are receiving and put their storing at the processing apps 189.9 196.6
+RecognizedString each neuron is connected finances 196.6 200.1
+RecognizedString to up to ten thousand other neurons in your brain 200.1 203.5
+RecognizedString and its heroin itself is largely uni 203.5 207
+RecognizedString then unique character of both individual niranjan neurons within a collection of the brain 207 211.9
+RecognizedString are driven by fundamental properties of there underline biochemistry 211.9 216.5
+RecognizedString these are proteins there proteins that are controlling things like ion channel movement 216.5 221.7
+RecognizedString your controlling who nervous system sells partner up with and they're controlling 221.7 226.9
+RecognizedString we charted we've describe it withdrawn it we've mapped it 16.2 22.6
+RecognizedString basically everything that the nervous system hasta do sophie zoom in to event deeper level 226.9 232.9
+RecognizedString all of does proteins are in coated by are gino's 232.9 236.8
+RecognizedString beach have twenty first of chromosomes get one from mom one from bad in 236.8 241.7
+RecognizedString on these chromosomes are roughly twenty-five thousand jeans encode in the dna and 241.7 248.1
+RecognizedString the nature of a given cell driving it's underline by chemistry is dictated by which of these twenty-five thousand jeans are turned on 248.1 256.7
+RecognizedString and a what level there turned on 256.7 259.2
+RecognizedString x l r project is seeking to look at this readout understanding wichita twenty five thousand jeans this turned on 259.2 267.6
+RecognizedString cell in order to undertake such a project we obviously need brains so we center lad technician out 267.6 275.6
+RecognizedString we are seeking normal human brain for we actually start with is 275.6 280.7
+RecognizedString a medical examiner is off if this is a place where the data broaden 280.7 284.4
+RecognizedString now just like this physical maps 22.6 26.4
+RecognizedString we are seeking normal human brain freeze a lot of criteria by which for selecting nice brains 284.4 289.7
+RecognizedString we wanna make sure that we have normal human between the age is twenty two sixty they died somewhat natural gas with no injury to the brain 289.7 297.6
+RecognizedString 297.6 304
+RecognizedString can we were very careful about v a brain should we do take 304 308.7
+RecognizedString where awesome selecting for brains in which we can 308.7 311.5
+RecognizedString get the tissue we can get consent to take the tissue 311.5 314.4
+RecognizedString a within twenty four hours of tyler death because what we're trying to measure the are in a a which is the readout from are genes 314.4 321.2
+RecognizedString a is a very label on so so we have to be very quickly 321.2 325.8
+RecognizedString one side note on the collection of brains 325.8 328.7
+RecognizedString because of the way that we collect and because we required can set 328.7 332.5
+RecognizedString 26.4 31.2
+RecognizedString we actually him a lot more mail brain female brains mail too much more likely to die accidental death in primer there live in manor much for likely to have 332.5 341
+RecognizedString there significant other spells gift consent funny either way route 341 344.9
+RecognizedString 344.9 348.9
+RecognizedString the first thing that we do side of collection is we collect what's called neymar this is magnetic resonance imaging mri standard template 348.9 357.1
+RecognizedString by which are gonna hang the rest of the status we collector sam are you think of this is are satellite view for maps 357.1 363.5
+RecognizedString the next thing we do is weekly what's call the diffusion tensor imaging this maps the large cabling in a brain 363.5 369.9
+RecognizedString can you get this is on the mapping are interstate highway syfy low 369.9 373.7
+RecognizedString the brandon's remove from moscow slice into one centimeter slices 373.7 379.1
+RecognizedString and other frozen salad interceptor seattle and in seattle 379.1 383.2
+RecognizedString we take the is this is a all human hemisphere 383.2 385.7
+RecognizedString google maps think a gps the same thing is happening for brain mapping transformation select second look at the brain 31.2 39.9
+RecognizedString can we put a venti what's basically qualified meet slicer there's a blade here that's gonna cut across the section of the of the tissue and transferred to microscope slide 385.7 394.9
+RecognizedString we're going event apply whenever stains 394.9 397.8
+RecognizedString can we scanner and then what we get is our first 397.8 400.6
+RecognizedString mapping so this is where experts come in and they make 400.6 403.5
+RecognizedString basic and atomic assignments needed consider this a state boundaries if you ella's pretty broad out lines from this rebel event fragment thatt brain and further pieces 403.5 413.9
+RecognizedString which then we can put on a smaller price that and this is a shillings yours frozen tissue 413.9 419.2
+RecognizedString it's been cut this is twenty micron spencers about a baby harris with earth frozen 419.2 424.6
+RecognizedString 424.6 431.5
+RecognizedString can we very carefully milk on to beside 431.5 435
+RecognizedString this will then go into a robot can apply one of those themes 435 440.1
+RecognizedString most people in a first like a fresh human brain is it doesn't look like what your chemical looking at 39.9 46.3
+RecognizedString k 440.1 442.6
+RecognizedString in are at adam s are gonna go and take a deeper look at this again this is what i can sienna microscope you can see 442.6 449.2
+RecognizedString collections in configurations of large and small cells in clusters and various places 449.2 453.8
+RecognizedString and from there to tasty understand where to make she's assignments and i can make basically what a reference out more detail map 453.8 461.8
+RecognizedString are scientists then use this to go back to another pisa that tissue 461.8 466.1
+RecognizedString call laser scanning michael dissection 466.1 468.7
+RecognizedString so uh technician text the instructions describe along replace there and in the laser actually cassie can see the blue dart there cutting 468.7 477.2
+RecognizedString and that tissue falls off you can see on the microscope slight here at what's happening in real time there's a container underneath that's collecting that fishin 477.2 485.2
+RecognizedString 485.2 491.7
+RecognizedString a and then we put a forever tag on it 491.7 493.9
+RecognizedString when someone chelsea brain typically but you're looking at is fix brain it's grey 46.3 51.3
+RecognizedString we take that tagged material we put it on something called a micro ray 493.9 498.3
+RecognizedString now this may look like a bunch of dot uber each one of these individual dot is actually unique piece of the human genome that we spotted down on glass this has 498.3 507.9
+RecognizedString roughly sixty thousand elements on it's a we repeatedly measure various jeans of twenty five thousand jeans and a genome 507.9 514.5
+RecognizedString i will me take a family hybrid ice activate 514.5 517
+RecognizedString we get a unique fingerprint if you will quantitative lee of what teams are turned on sample 517 523
+RecognizedString now would you this over and over again this process for any given brain we're taking over a thousand samples 523 529.8
+RecognizedString for each brain this area show here's in erica hippie campus it's involved in learning and memory and it contribute about seventy samples of does thousand samples 529.8 539.9
+RecognizedString cell eat sample kansas about 539.9 542.8
+RecognizedString fifty thousand data points 542.8 544.9
+RecognizedString add with repeat measurements a thousand samples so roughly we have fifty million data points for a given human brain 544.9 551.8
+RecognizedString and this outer layer this is the vascular mature averages incredible around human brain quizzes the blood vessels 51.3 57.2

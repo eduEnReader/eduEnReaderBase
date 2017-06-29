@@ -1,0 +1,385 @@
+title 
+textStore david_blaine_how_i_held_my_breath_for_17_min.html
+MD5TextStore MD5
+soundStore david_blaine_how_i_held_my_breath_for_17_min.mp4
+MD5SoundStore MD5
+Bind 8 60 9.2 16.2
+Bind 60 107 16.2 19.7
+Bind 107 174 19.7 26.5
+Bind 174 257 26.5 34.4
+Bind 257 334 34.4 41.4
+Bind 334 403 41.4 45.6
+Bind 403 486 45.6 51.6
+Bind 486 592 51.6 59.8
+Bind 592 691 59.8 64.9
+Bind 691 727 64.9 68.2
+Bind 727 804 68.2 74.8
+Bind 804 941 74.8 83.8
+Bind 941 993 83.8 87.7
+Bind 993 1166 87.7 98.4
+Bind 1166 1205 98.4 103.2
+Bind 1205 1330 103.2 110.2
+Bind 1330 1437 110.2 119.4
+Bind 1437 1715 119.4 134.3
+Bind 1715 1810 134.3 144
+Bind 1810 1934 144 154.1
+Bind 1934 1983 154.1 157.5
+Bind 1983 2099 157.5 165.3
+Bind 2099 2161 165.3 171
+Bind 2161 2245 171 175.9
+Bind 2245 2358 175.9 183.6
+Bind 2358 2437 183.6 188.2
+Bind 2437 2573 188.2 196.6
+Bind 2573 2606 196.6 200.6
+Bind 2606 2709 200.6 208.7
+Bind 2709 2752 208.7 213
+Bind 2752 2874 213 220.9
+Bind 2874 3040 220.9 234.5
+Bind 3040 3222 234.5 245.8
+Bind 3222 3291 245.8 251.4
+Bind 3291 3405 251.4 262.1
+Bind 3405 3453 262.1 264.3
+Bind 3453 3568 264.3 274.7
+Bind 3568 3581 274.7 277.2
+Bind 3581 3656 277.2 288.7
+Bind 3656 3811 288.7 302.6
+Bind 3811 4027 302.6 315.6
+Bind 4027 4109 315.6 319.9
+Bind 4109 4224 319.9 327.4
+Bind 4224 4261 327.4 330.5
+Bind 4261 4452 330.5 342.6
+Bind 4452 4578 342.6 352.9
+Bind 4578 4623 352.9 358.3
+Bind 4623 4713 358.3 363.9
+Bind 4713 4816 363.9 370.8
+Bind 4816 5008 370.8 382.4
+Bind 5008 5125 382.4 389.1
+Bind 5125 5285 389.1 397.3
+Bind 5285 5407 397.3 405.3
+Bind 5407 5604 405.3 418.7
+Bind 5604 5700 418.7 424.6
+Bind 5700 5736 424.6 427.2
+Bind 5736 5807 427.2 433
+Bind 5807 5987 433 449.1
+Bind 5987 6076 449.1 451.2
+Bind 6076 6212 451.2 459
+Bind 6212 6371 459 466.9
+Bind 6371 6430 466.9 471.1
+Bind 6430 6618 471.1 479.5
+Bind 6618 6695 479.5 484
+Bind 6695 6749 484 486.7
+Bind 6749 6813 486.7 492.1
+Bind 6813 6915 492.1 499.9
+Bind 6915 6979 499.9 505.9
+Bind 6979 7094 505.9 515.3
+Bind 7094 7168 515.3 520
+Bind 7168 7226 520 524.3
+Bind 7226 7252 524.3 526.5
+Bind 7252 7353 526.5 535.3
+Bind 7353 7467 535.3 543.8
+Bind 7467 7599 543.8 551.6
+Bind 7599 7623 551.6 554.2
+Bind 7623 7737 554.2 560.7
+Bind 7737 7854 560.7 569.6
+Bind 7854 7965 569.6 577.4
+Bind 7965 8057 577.4 584.3
+Bind 8057 8172 584.3 590.8
+Bind 8172 8285 590.8 599.2
+Bind 8285 8350 599.2 604.1
+Bind 8350 8385 604.1 606.7
+Bind 8385 8491 606.7 612.9
+Bind 8491 8509 612.9 615.1
+Bind 8509 8577 615.1 618.9
+Bind 8577 8651 618.9 625.3
+Bind 8651 8703 625.3 628.9
+Bind 8703 8768 628.9 645
+Bind 8768 8891 645 647.9
+Bind 8891 8948 647.9 654.4
+Bind 8948 9045 654.4 664.3
+Bind 9045 9151 664.3 674.5
+Bind 9151 9217 674.5 678.9
+Bind 9217 9339 678.9 686.6
+Bind 9339 9380 686.6 691.2
+Bind 9380 9475 691.2 699
+Bind 9475 9556 699 707.2
+Bind 9556 9781 707.2 724.6
+Bind 9781 9887 724.6 733.2
+Bind 9887 9986 733.2 740
+Bind 9986 10048 740 745.1
+Bind 10048 10205 745.1 754.6
+Bind 10205 10235 754.6 757.5
+Bind 10235 10393 757.5 767.3
+Bind 10393 10473 767.3 769.4
+Bind 10473 10490 769.4 773.4
+Bind 10490 10565 773.4 779.3
+Bind 10565 10709 779.3 792.3
+Bind 10709 10854 792.3 801.3
+Bind 10854 10933 801.3 808.1
+Bind 10933 11027 808.1 813.6
+Bind 11027 11119 813.6 821.2
+Bind 11119 11203 821.2 828.8
+Bind 11203 11446 828.8 843
+Bind 11446 11614 843 851.4
+Bind 11614 11691 851.4 857.1
+Bind 11691 11749 857.1 861
+Bind 11749 11814 861 864.1
+Bind 11814 11956 864.1 875.5
+Bind 11956 12033 875.5 881.9
+Bind 12033 12115 881.9 886
+Bind 12115 12168 886 889.5
+Bind 12168 12286 889.5 897.9
+Bind 12286 12352 897.9 901
+Bind 12352 12468 901 906.8
+Bind 12468 12608 906.8 918.4
+Bind 12608 12689 918.4 922.7
+Bind 12689 12729 922.7 932.7
+Bind 12729 12851 932.7 941.1
+Bind 12851 12920 941.1 944.4
+Bind 12920 13063 944.4 951
+Bind 13063 13115 951 956
+Bind 13115 13218 956 963.8
+Bind 13218 13352 963.8 971.9
+Bind 13352 13422 971.9 976.7
+Bind 13422 13493 976.7 980.4
+Bind 13493 13538 980.4 984.2
+Bind 13538 13711 984.2 995.1
+Bind 13711 13818 995.1 1000.9
+Bind 13818 13904 1000.9 1005.3
+Bind 13904 13982 1005.3 1013.1
+Bind 13982 14043 1013.1 1017.5
+Bind 14043 14138 1017.5 1024.4
+Bind 14138 14181 1024.4 1026.8
+Bind 14181 14328 1026.8 1038
+Bind 14328 14733 1038 1073.9
+Bind 14733 14788 1073.9 1076.5
+Bind 14788 14934 1076.5 1084.7
+Bind 14934 15043 1084.7 1090.4
+Bind 15043 15105 1090.4 1093.7
+Bind 15105 15364 1093.7 1108
+Bind 15364 15471 1108 1115.8
+Bind 15471 15533 1115.8 1119.6
+Bind 15533 15670 1119.6 1133.2
+Bind 15670 15814 1133.2 1140.9
+Bind 15814 15963 1140.9 1147
+Bind 15963 16062 1147 1154.3
+Bind 16062 16320 1154.3 1175
+Bind 16320 16394 1175 1180.5
+Bind 16394 16490 1180.5 1187.2
+Bind 16490 16697 1187.2 1201.6
+RecognizedString 0 2
+RecognizedString create seconds help my times eighty the second one 574.7 577.4
+RecognizedString the well nonsense i told you that i assume that i could put a water tank it lincoln center 577.4 584.3
+RecognizedString and if i stayed der week not eating how would get comfortable met situation and i was 584.3 590.8
+RecognizedString so my metabolism whatever shorewood help me hold my brother longer than i have been able to do it i was completely wrong 590.8 599.2
+RecognizedString hi enter the sphere a week before the schedule there date and time 599.2 604.1
+RecognizedString taught everything seem to be on track 604.1 606.7
+RecognizedString two days before my big breath hold the camp for the record the produces of my toe visit special 606.7 612.9
+RecognizedString stop that just walked 612.9 615.1
+RecognizedString sing somebody holding there brat and almost drowning is 615.1 618.9
+RecognizedString to boring for tv so i have to add handcuffs 618.9 625.3
+RecognizedString that was way more difficult and i had expected the one after that i stood on top of the hundred for taylor first 51.6 59.8
+RecognizedString while holding my breast to escape from this without 625.3 628.9
+RecognizedString critical mistake 628.9 631.2
+RecognizedString because of the yeah movement i was wasting oxygen and by seven minutes i had going and trees awful conversions bye 631.2 641.7
+RecognizedString seven away i started to black thou 641.7 645
+RecognizedString and by seven minutes and thirty six 645 647.9
+RecognizedString pins they have to pull my body out and bring it back 647.9 652.1
+RecognizedString 652.1 654.4
+RecognizedString i had failed on every level so naturally the only way out of us 654.4 664.3
+RecognizedString lanfil i can think of was i decided to call out 664.3 668.7
+RecognizedString i told you that i wanted to 668.7 674.5
+RecognizedString thirty six hours i began to hello snakes so hard with the buildings are behind me 59.8 64.9
+RecognizedString the empty and hold my brat longer than any schumann thing ever had 674.5 678.9
+RecognizedString this is a different record this is a puru to static api record the guinness headset 678.9 684.3
+RecognizedString the world record at thirty minutes 684.3 686.6
+RecognizedString awesome basically you breathe hero to first art 686.6 691.2
+RecognizedString did you napier body fussing at co2 can you're able to hold much longer i realized 691.2 699
+RecognizedString my real competition with the beaver 699 701.6
+RecognizedString yes 701.6 707.2
+RecognizedString in january of away toe 707.2 711.2
+RecognizedString forgive me for months to prepare train salad sleep in a hi pocket 711.2 716.1
+RecognizedString temple every night i patrick time does attempt to simulate altitude at five fifteen thousand feet so take base camp everest one 716.1 724.6
+RecognizedString started look like big animal hats 64.9 68.2
+RecognizedString status is you start building a 724.6 727.1
+RecognizedString the red blood cells account and your body what's help sue carry oxygen better 727.1 733.2
+RecognizedString i'm every morning again after getting at at at ten brain is completely wiped out my 733.2 740
+RecognizedString first tempura to i was able to go up to fifteen minutes so was 740 745.1
+RecognizedString pretty big success the neurosurgeon pulled me out of the water because in his mine that fifteen minutes your brain is done your your brain that site 745.1 754.6
+RecognizedString pulled me up in i was fine 754.6 757.5
+RecognizedString there was one person near that was definitely not impressed was my ex girlfriend while i was breaking record underwater for the first time she was sick 757.5 767.3
+RecognizedString thing to my blackberry checking on my message 767.3 769.4
+RecognizedString my brother headache 769.4 773.4
+RecognizedString picture of shit 773.4 779.3
+RecognizedString next i want to london in london i live to class box for fourty four days nuts 68.2 74.8
+RecognizedString hi then and now that i was gonna go for it 779.3 782.9
+RecognizedString see this is record publicly an what he didn't respond to see when i'm reducing kelly 782.9 789.9
+RecognizedString and broke is old wrecker 789.9 792.3
+RecognizedString ten his main competitor went out in broke his record sowwy funny push the record up to sixteen minutes and thirty two seconds what's yours 792.3 801.3
+RecognizedString three minutes longer than i had prepare reno is longer than the record now 801.3 808.1
+RecognizedString i want to get to science times to document this i want to get to do p sonnet 808.1 813.6
+RecognizedString so i did wyatt any person seriously pursuing scientific events do i work 813.6 821.2
+RecognizedString the new york times office isn't id card tricks 821.2 823.8
+RecognizedString everybody 823.8 828.8
+RecognizedString so i don't know if it was magic your butt lower the cayman islands but john tyranny flu banan into the k santa seriousness of breath folding while he was there a chatham presley 828.8 839
+RecognizedString sing but water it was for me one of the most difficult things i've ever done but it was also the most beautiful there's somebody skirt 74.8 83.8
+RecognizedString cord for my data a dive down two hundred and sixty fi what's likes 839 843
+RecognizedString you know basically the height of a sixteen story building and as i was coming up by black tell underwater which is really dangerous i tell you drown 843 851.4
+RecognizedString luckily kirkwood seen my m hey swim over and pull me up so i started falls 851.4 857.1
+RecognizedString focus a completely train to get my breath of time 857.1 861
+RecognizedString for what i needed to do but there is no way to prepare 861 864.1
+RecognizedString live tv aspect of being on oprah for in practice i would do it facetime floating on the pool by for tv they wanted me to be a 864.1 875.5
+RecognizedString bright so they can see my face basically the other problem was the this 875.5 881.9
+RecognizedString so what so boy and they have to strap my feet into keep me from floating up 881.9 886
+RecognizedString say hi to use my legs to hold my feet into the strat 886 889.5
+RecognizedString what were loose what does a real problem for me bad made me extremely nervous raising heart ray ban what 889.5 897.9
+RecognizedString text especially the press in london that i test 83.8 87.7
+RecognizedString they all say the was which we never do before the result 897.9 901
+RecognizedString heart rate monitor and it was right next to the sphere so everytime my heart would be at 901 906.8
+RecognizedString you're the ppppp not the taking really loud which is making me nor more nervous and there's no way to so my heart rita 906.8 914.9
+RecognizedString so i'm normally i was 914.9 918.4
+RecognizedString start at thirty eight beats per minute i'm well hold my breath draft 918.4 922.7
+RecognizedString to twelve beats per minute watches pretty on usual 922.7 929.4
+RecognizedString this 929.4 932.7
+RecognizedString time it started with a hundred and twenty beats and never went down i spent a first five minutes underwater test 932.7 941.1
+RecognizedString britt lee trying to so my heart raytown houses 941.1 944.4
+RecognizedString set near thinking i've got a so this down on my fail mcphail and i was getting more nervous and harvey just keep going on 944.4 951
+RecognizedString started find cheeseburgers on helicopter 87.7 90
+RecognizedString open up all the way up to one hundred and fifty b 951 956
+RecognizedString i'm basically the same thing that created my downfall lincoln santa rosa waste of o2 when i made it to the have 956 963.8
+RecognizedString play market a minutes i was one hundred percents sir in that i was not gonna be able to make this service no way from a to do it 963.8 971.9
+RecognizedString so i figured oprah hit dedicated now or to doing this brat 971.9 976.7
+RecognizedString call thing if i had cracked early it would be a whole so happy 976.7 980.4
+RecognizedString pressed i am so sorry 980.4 984.2
+RecognizedString figure i'm better off to fighting in staying there until i blackout at least lincoln pull me on bitch take care mean all that i can 984.2 995.1
+RecognizedString pushing to ten minutes ten minutes start getting all these really strong tingling sensation senior 995.1 1000.9
+RecognizedString fingers in toes and i knew that that was blood something when the blood rushes away 1000.9 1005.3
+RecognizedString from your exterminators to provide oxygen thier vital organs i'm good eleven minutes 1005.3 1013.1
+RecognizedString what is rahmad box to my softball very valid david won the new internal medicine actually use 90 98.4
+RecognizedString started feeling throbbing sensations in my legs in my lips 1013.1 1017.5
+RecognizedString started the feel really strange minute twelve eyes 1017.5 1021.8
+RecognizedString started to have ringing in my ears tonight 1021.8 1024.4
+RecognizedString started the from my arm going numb 1024.4 1026.8
+RecognizedString i'm a hypochondriac i remember arm none means heart attacks i started to really get really paranoid bennett thirty 1026.8 1034.6
+RecognizedString t minutes maybe because of the hypochondriac my my son 1034.6 1038
+RecognizedString started film pains all over my chest it was it was awful f fourteen minutes i have these awful contractions like this 1038 1047.3
+RecognizedString birds bri 1047.3 1055.8
+RecognizedString fifteen minutes i with a suffering major o2 that 1055.8 1060.5
+RecognizedString provision for the har and i started having is 1060.5 1063.2
+RecognizedString the research for science my next person 98.4 103.2
+RecognizedString give me a to the heart my heart beat would go from one twenty to fifty two one fifty to fourty two twenty two one fifty again it woods 1063.2 1073.9
+RecognizedString skip a beat it with start a woodstock 1073.9 1076.5
+RecognizedString balto this and i was shore that i was can i have a heart attack so its sixteen minutes will i be does islip my feet out because i knew that 1076.5 1084.7
+RecognizedString why did go out if i did of our that i have to jump into buying take my feet up before 1084.7 1090.4
+RecognizedString pull me up size really nervous so i let my fi that night 1090.4 1093.7
+RecognizedString started floating to the top and i didn't take my head out prices floating there waiting for my heart just 1093.7 1099.2
+RecognizedString it's waiting they have doctors with apps in a net waiting in suddenly i hear screaming and i 1099.2 1108
+RecognizedString thank you some weird thing that i tidur something it happen and then i realize that i had made it to sixteen thirty two 1108 1115.8
+RecognizedString so what the energy is of of everybody that was era addison 1115.8 1119.6
+RecognizedString send it to keep pushing i want to seventeen minutes ago 1119.6 1122.4
+RecognizedString who was i wanted to see how long can go a breathing nikolova survive with nothing not even air 103.2 110.2
+RecognizedString 2 9.2
+RecognizedString for seconds iza that one 1122.4 1133.2
+RecognizedString enough what i did immediately afters i want to question 1133.2 1136.2
+RecognizedString lives in heaven take every blood sam political the test for everything of this 1136.2 1140.9
+RecognizedString see where my levels work for the doctors kitties at once again i also didn't want anybody with question and i have the world right 1140.9 1147
+RecognizedString my juanita with mixer vagina so i get to new york city the next 1147 1152
+RecognizedString day in skip watson 1152 1154.3
+RecognizedString tell me i'm walking out of the appstore keyboard for terrific yo d i'm like yeah she said if you really help your breast 1154.3 1162.4
+RecognizedString hello my two come out of the water dry matt 1162.4 1169.4
+RecognizedString my life so wet 1169.4 1175
+RecognizedString s m magician i try to show things to people that semen possible tonight 1175 1180.5
+RecognizedString i didn't realize that it would become the most amazing journey of my life is a young magician i wasn't 110.2 119.4
+RecognizedString think magic weather i'm holding my breath are shuffling a deck of cards is pretty simple it's 1180.5 1187.2
+RecognizedString practice it's training and at six 1187.2 1191.6
+RecognizedString practice it's training and experimenting bob pushing t-pain to be the best campion 1191.6 1198.8
+RecognizedString so that's what my tickets tonight 1198.8 1201.6
+RecognizedString thank you 1201.6 1211.9
+RecognizedString 1211.9 1215.7
+RecognizedString 1215.7 1218
+RecognizedString test for to damian is underwater challenges so i began early on competing against 119.4 125.3
+RecognizedString do you have a kids saying how long are cute 125.3 127.5
+RecognizedString say underwater why they went up and down to briefing a five times state underarm one breast by the time i wasn't 127.5 134.3
+RecognizedString teenage rose a bra hold my brother for three minutes in thirty seconds 134.3 138.5
+RecognizedString i will later find out that was beanies personal record 138.5 144
+RecognizedString in nineteen eighty seven i heard of story about a boy that fell through ice in last trapped under river she 144 154.1
+RecognizedString what is underneath not breathing for fourty five minutes 154.1 157.5
+RecognizedString when the rescue workers came services updated hammond there was no brain damage is court temperature huds robert 157.5 165.3
+RecognizedString to seventy seven degrees magician i think everything is possible 165.3 171
+RecognizedString doesn't magician i try to create images that make peoples 9.2 16.2
+RecognizedString can i think if something is done by one person that can be done by a verse one 171 175.9
+RecognizedString starting to think if the boy can survive without breathing for that long there must be away that i can do it 175.9 183.6
+RecognizedString so i meant with the top neurosurgeon and i asked him how long is a test 183.6 188.2
+RecognizedString what the breathing like how long should i go with air and he said to me the anything over six minutes you have a serious risk of hot 188.2 196.6
+RecognizedString toxic brain damage so i took 196.6 200.6
+RecognizedString that is a challenge basically my first try i figured that i could do some things 200.6 208.7
+RecognizedString similar n i created water tank 208.7 213
+RecognizedString filled with ice and freezing cold water and i stayed inside that water tank coping my temp my cortana 213 220.9
+RecognizedString dr draw in i was shivering in my first time to hold my brother i couldn't even last 220.9 225.8
+RecognizedString the minute realize that was completely not gonna work someone to talk 225.8 231.5
+RecognizedString stop and thank i also try to challenge 16.2 19.7
+RecognizedString to doctor friend 231.5 234.5
+RecognizedString can i ask tim what how could i go how could i do that i want a hold my brother for really long time how creepy done anything david your magician 234.5 245.8
+RecognizedString create the illusion of now breathing adobe much easier sis 245.8 251.4
+RecognizedString so he came up with this idea of creating a re breather with this 251.4 257.7
+RecognizedString co2 scrubber what does basically i at 257.7 262.1
+RecognizedString to from home depot with 262.1 264.3
+RecognizedString the balloons dot tate to peta wiki put inside of me and somehow 264.3 272.4
+RecognizedString circulate the aaron bree bree olson 272.4 274.7
+RecognizedString sing in me list 274.7 277.2
+RecognizedString what is a little hard to watch this dad at ten 277.2 283.1
+RecognizedString self to do things that dr seya not possible i was buried alive 19.7 26.5
+RecognizedString five 283.1 288.7
+RecognizedString goodbye clearly wasn't gonna work then i actually started thinking about liquid breathing 288.7 299
+RecognizedString there's a chemical that's called per flu bra and it's 299 302.6
+RecognizedString so high and oxygen levels in theory you can breathe side got my hands on that chemical still the sync up with a instant 302.6 311
+RecognizedString my faisal sinking tried to bri that am witches relation park 311 315.6
+RecognizedString so basically like trying to breathe dr football having an elephant 315.6 319.9
+RecognizedString standing on your chest bad idea disappear ten i started thinking would it be possible to hookup o 319.9 327.4
+RecognizedString how long bypass machine and have a 327.4 330.5
+RecognizedString surgery where was a to going into my artery and men appear to not breed love a rock 330.5 335.1
+RecognizedString change name to my blood what 335.1 337.5
+RecognizedString in new york city in a coffin 26.5 29.3
+RecognizedString set another insane i beer obviously when i talk about that 337.5 342.6
+RecognizedString craziest id of all the ideas to actually do it to act six ride a hold my breath pass the point dot 342.6 352.9
+RecognizedString what can center you brain dead so ice 352.9 358.3
+RecognizedString started researching into pearl diverse you know because i go down for four minutes 358.3 363.9
+RecognizedString someone breath and when i was researching pro divers i found the world afridi was the most 363.9 370.8
+RecognizedString amazing thing that i for discovered pretty much there's many different aspects free diving this 370.8 377.5
+RecognizedString there's depth records for people goes deep as i can in there static applet 377.5 382.4
+RecognizedString that's holding your breath is long's you kinda one place with i'm moving that was the one that i study though 382.4 389.1
+RecognizedString first thing i learn this when you're holding your breath you should never move at all that ways 389.1 394.4
+RecognizedString synergy and that the plates ochoa 394.4 397.3
+RecognizedString where to live in coffin april nineteen ninety nine for a week 29.3 34.4
+RecognizedString to janet builds up co2 near blood siler never to move and i learn telephone my heart rate that i have to remain perfectly 397.3 405.3
+RecognizedString doing just relaxing thank that i wasn't in my body into control that and then i learn teta perch 405.3 411.9
+RecognizedString purgy is basically hi prevent relating to blow in an ounce 411.9 418.7
+RecognizedString you do that you get light headed get tingling and you're really reading your body is 418.7 424.6
+RecognizedString co2 someone you hold your breath it's 424.6 427.2
+RecognizedString infinity easier than i learn that you have to take a huge breast 427.2 433
+RecognizedString did you just hold and relax and never let any around and just hold the relax do all the pain every morning list is for months i would wake up in 433 443.8
+RecognizedString first thing that i wouldn't do is i would hold my breath for outfit 443.8 449.1
+RecognizedString t two minutes i would hold my breakfast 449.1 451.2
+RecognizedString fourty four minutes so basically what that means i would present breed really hard from minutes in an hour hold immediately after four 451.2 459
+RecognizedString i live there nothing but water and did ended up being so much fun fat 34.4 41.4
+RecognizedString five and a half minutes dunno what breathe again for a minute purgy it's hard as i can than immediately a favorite hold again for five and a half 459 466.9
+RecognizedString minutes i will repeat the fastest eight times in a row add effect 466.9 471.1
+RecognizedString t two minutes romy breathing for eight minutes adriana that you're completely fried your brain you feel like a walking running a days movies off 471.1 479.5
+RecognizedString for headaches basically i'm not the best personal talk to what i'm doing list 479.5 484
+RecognizedString stuff i started learning about the world right 484 486.7
+RecognizedString good holder his name is toms edith any sky is perfectly bill for holdings 486.7 492.1
+RecognizedString he's six four four he's a hundred and sixty pounds and his total lung capacity is twice 492.1 499.9
+RecognizedString size of an average person i'm six four one and fat ass 499.9 505.9
+RecognizedString big bone i have to drop fifty pounds in three miles so everything that i put into my body i can 505.9 515.3
+RecognizedString did as medicine every bit of food was exactly what it was for 515.3 520
+RecognizedString i've decided i could pursue dunmore the sayings tonight 41.4 45.6
+RecognizedString nutritional value i really small controlled forces 520 524.3
+RecognizedString throughout the day an iphone 524.3 526.5
+RecognizedString started to really that my body 526.5 529.8
+RecognizedString yes 529.8 535.3
+RecognizedString center i was the longer i was able to hold my breast and buy eating some wound training so hard my resting heart rate dropped 535.3 543.8
+RecognizedString thirty a beats per minute what does lower than my for limping catholics i'm in for months of training jose blah hold my breast 543.8 551.6
+RecognizedString for for seven minutes 551.6 554.2
+RecognizedString i wanted to try holding my breath everywhere i wanted to tried and the most extreme situations to say it 554.2 560.7
+RecognizedString why can from my heart rate down under dress i've decided that i was gonna break the world right 560.7 569.6
+RecognizedString good live on primetime tv world record was eight minutes and fifty 569.6 574.7
+RecognizedString swans i froze myself from block advice for three days three nights in new york city 45.6 51.6

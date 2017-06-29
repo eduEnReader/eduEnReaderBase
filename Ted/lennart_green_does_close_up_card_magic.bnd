@@ -1,0 +1,472 @@
+title 
+textStore lennart_green_does_close_up_card_magic.html
+MD5TextStore MD5
+soundStore lennart_green_does_close_up_card_magic.mp4
+MD5SoundStore MD5
+Bind 5 37 9.2 17.6
+Bind 37 94 17.6 25.6
+Bind 94 231 25.6 34.1
+Bind 231 340 34.1 47.7
+Bind 340 464 47.7 58.1
+Bind 464 558 58.1 65.4
+Bind 558 615 65.4 69.7
+Bind 615 777 69.7 81.9
+Bind 777 821 81.9 87.6
+Bind 821 1072 87.6 112.6
+Bind 1072 1137 112.6 116.3
+Bind 1137 1335 116.3 141.1
+Bind 1335 1450 141.1 160.7
+Bind 1450 1840 160.7 207.7
+Bind 1840 1916 207.7 219.3
+Bind 1916 2077 219.3 248.5
+Bind 2077 2193 248.5 257.9
+Bind 2193 2273 257.9 263.3
+Bind 2273 2387 263.3 268.3
+Bind 2387 2423 268.3 273.4
+Bind 2423 2548 273.4 287.1
+Bind 2548 2574 287.1 289.2
+Bind 2574 2708 289.2 308.8
+Bind 2708 2771 308.8 313.8
+Bind 2771 2810 313.8 316.4
+Bind 2810 2877 316.4 324.9
+Bind 2877 2909 324.9 333
+Bind 2909 3046 333 343.8
+Bind 3046 3105 343.8 350.2
+Bind 3105 3248 350.2 360.7
+Bind 3248 3305 360.7 369.8
+Bind 3305 3340 369.8 375.2
+Bind 3340 3373 375.2 382.7
+Bind 3373 3418 382.7 385.2
+Bind 3418 3500 385.2 393.2
+Bind 3500 3588 393.2 404.4
+Bind 3588 3642 404.4 413.1
+Bind 3642 3681 413.1 417.3
+Bind 3681 3798 417.3 428.7
+Bind 3798 3903 428.7 436.9
+Bind 3903 3966 436.9 440.7
+Bind 3966 4084 440.7 454.6
+Bind 4084 4138 454.6 462.7
+Bind 4138 4407 462.7 490.4
+Bind 4407 4495 490.4 496.9
+Bind 4495 4528 496.9 499.7
+Bind 4528 4874 499.7 529.9
+Bind 4874 5172 529.9 550.8
+Bind 5172 5246 550.8 556.7
+Bind 5246 5332 556.7 563.2
+Bind 5332 5514 563.2 580.6
+Bind 5514 5585 580.6 592.4
+Bind 5585 5822 592.4 611.2
+Bind 5822 5879 611.2 616.8
+Bind 5879 5985 616.8 628.1
+Bind 5985 6056 628.1 634.2
+Bind 6056 6150 634.2 642.1
+Bind 6150 6230 642.1 648.7
+Bind 6230 6387 648.7 662.6
+Bind 6387 6544 662.6 676.4
+Bind 6544 6611 676.4 686.6
+Bind 6611 6692 686.6 697.9
+Bind 6692 6801 697.9 706.6
+Bind 6801 6959 706.6 722
+Bind 6959 7074 722 730.3
+Bind 7074 7175 730.3 739.9
+Bind 7175 7337 739.9 751.5
+Bind 7337 7760 751.5 801.7
+Bind 7760 7804 801.7 809.3
+Bind 7804 7881 809.3 812.8
+Bind 7881 8136 812.8 835.1
+Bind 8136 8204 835.1 841.1
+Bind 8204 8608 841.1 877.1
+Bind 8608 8685 877.1 883.7
+Bind 8685 8797 883.7 897.3
+Bind 8797 8938 897.3 900.8
+Bind 8938 9237 900.8 922.6
+Bind 9237 9603 922.6 959
+Bind 9603 9646 959 962.3
+Bind 9646 9895 962.3 980
+Bind 9895 9942 980 984.6
+Bind 9942 10139 984.6 1007.9
+Bind 10139 10222 1007.9 1013.2
+Bind 10222 10381 1013.2 1030.1
+Bind 10381 10450 1030.1 1037.9
+Bind 10450 10501 1037.9 1041.5
+Bind 10501 10570 1041.5 1048.6
+Bind 10570 10584 1048.6 1052.6
+Bind 10584 10628 1052.6 1058.8
+Bind 10628 10666 1058.8 1066.7
+Bind 10666 10735 1066.7 1079
+Bind 10735 10780 1079 1084.2
+Bind 10780 10909 1084.2 1090.4
+Bind 10909 10968 1090.4 1093.5
+Bind 10968 11258 1093.5 1125.9
+Bind 11258 11390 1125.9 1134.8
+Bind 11390 11505 1134.8 1150.2
+Bind 11505 11618 1150.2 1159.4
+Bind 11618 11714 1159.4 1175.4
+Bind 11714 11783 1175.4 1180.1
+Bind 11783 11820 1180.1 1185.7
+Bind 11820 12018 1185.7 1199.1
+Bind 12018 12202 1199.1 1218.9
+Bind 12202 12645 1218.9 1264.6
+Bind 12645 12743 1264.6 1273.1
+Bind 12743 12858 1273.1 1285.9
+Bind 12858 13079 1285.9 1300.2
+Bind 13079 13198 1300.2 1312.5
+Bind 13198 13248 1312.5 1316.9
+Bind 13248 13342 1316.9 1323.6
+Bind 13342 13593 1323.6 1358
+Bind 13593 13845 1358 1380.9
+Bind 13845 13944 1380.9 1394.4
+Bind 13944 14059 1394.4 1414.2
+Bind 14059 14117 1414.2 1419.8
+Bind 14117 14152 1419.8 1424.4
+Bind 14152 14220 1424.4 1431.4
+Bind 14220 14277 1431.4 1435.8
+Bind 14277 14486 1435.8 1471.6
+Bind 14486 14620 1471.6 1481.5
+Bind 14620 14799 1481.5 1504.7
+Bind 14799 14982 1504.7 1526.1
+Bind 14982 15075 1526.1 1545
+Bind 15075 15233 1545 1562.6
+Bind 15233 15549 1562.6 1584.2
+Bind 15549 16069 1584.2 1677.9
+Bind 16069 16163 1677.9 1696.6
+Bind 16163 16310 1696.6 1703.7
+Bind 16310 16337 1703.7 1709.6
+Bind 16337 16633 1709.6 1743.1
+Bind 16633 16761 1743.1 1766
+Bind 16761 16893 1766 1779.4
+Bind 16893 17026 1779.4 1796
+Bind 17026 17149 1796 1822.7
+Bind 17149 17259 1822.7 1845.7
+RecognizedString 0 2
+RecognizedString cosmic bank of knowledge where you can find any solution of for a any problem 556.7 563.2
+RecognizedString ok now i drop the cards and you stop anywhere right not alaska 563.2 569.4
+RecognizedString when i'm sober adobe match quicken 569.4 573.8
+RecognizedString check 573.8 580.6
+RecognizedString i'm not in order 580.6 582.9
+RecognizedString no i'm today 582.9 592.4
+RecognizedString no i now and then i put in a just emphasize hop difficulties right 592.4 599.4
+RecognizedString yeah last night up about that douglas mistaken now i'm glad i remembered so 599.4 604.9
+RecognizedString this is booty sorry i've little had to make it little softer 604.9 611.2
+RecognizedString this is a deck is boot here in america is called a m 611.2 616.8
+RecognizedString good but i will first teach you a a method how you can do it without moving the rest 58.1 65.4
+RecognizedString a bicycle on this dick is very flexible not not so many people new 616.8 623
+RecognizedString if you check if your press the right 623 628.1
+RecognizedString at the rights boss you see house fin and flex ballistic is right 628.1 634.2
+RecognizedString now you can carry this inu wallet soon 634.2 639.9
+RecognizedString you don't the mcneil reaction 639.9 642.1
+RecognizedString so abbott here and 642.1 648.7
+RecognizedString is the camera getting too much snow day porn and then when you will have to do this but not too much 648.7 659.9
+RecognizedString then you have to learn 659.9 662.6
+RecognizedString yeah please if you push lease 662.6 666.3
+RecognizedString hips everyone see together the really in delays right yeah you're perfect 666.3 676.4
+RecognizedString and then the shortcut to can with immediately right 65.4 69.7
+RecognizedString good thank you 676.4 679.7
+RecognizedString then i will demonstrate thing from a 679.7 684.5
+RecognizedString a russian satellite 684.5 686.6
+RecognizedString steven stolen eh probably copied from america lucy hair 686.6 695
+RecognizedString 695 697.9
+RecognizedString show cats a talk about showed cans now ago very quick throw the date and try to find samurai patton 697.9 706.6
+RecognizedString then you kales theory is already old right 706.6 710.2
+RecognizedString but you know i thing golf familiar with that familiar weather tractors amanda brought spiral san all this face 710.2 718.8
+RecognizedString and it's much 718.8 722
+RecognizedString easier to memorize cards in a patton way and not concentrate if your concentrate on calculate then you go to 722 730.3
+RecognizedString hold i like this palm up don't move the rest rest is 69.7 75
+RecognizedString when is the left brain but if you just lo can talk in another language 730.3 737.9
+RecognizedString yeah right 737.9 739.9
+RecognizedString i think headed to now different poses folder pub please name any call noah 739.9 747.5
+RecognizedString jekyll space gecko space 747.5 751.5
+RecognizedString i think deco spades is number twelve from the top one two three four five six seven eight nine ten eleven 751.5 761.8
+RecognizedString what 761.8 764
+RecognizedString yes i know geckos babe you said spades my for don't upload this was clubs 764 772.5
+RecognizedString so am jack of space 772.5 779.9
+RecognizedString i think 779.9 782.7
+RecognizedString 782.7 786
+RecognizedString i doesn't speak very manama dunno the best what ir 75 78.7
+RecognizedString twenty three twenty four tori twenty four 786 791.2
+RecognizedString one two three four five six seven eight nine ten eleven twelve 791.2 795.3
+RecognizedString thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty two twenty two twenty three ha 795.3 801.7
+RecognizedString twenty five yes now do it quicker better ok 801.7 809.3
+RecognizedString another person oh i forgot the shouldn't african 809.3 812.8
+RecognizedString actually my picnic is to peak 812.8 818.2
+RecognizedString what the time when i leave the puppy 818.2 824.3
+RecognizedString you say yeah perfect three four five six calculator good 824.3 830.5
+RecognizedString another person in the car 830.5 835.1
+RecognizedString central diamonds perfect my favorite center so i will do it 835.1 841.1
+RecognizedString write mold you say would ira 78.7 81.9
+RecognizedString very quick but in slow motion so can follow seven all the diamonds got a start here 841.1 851.7
+RecognizedString 851.7 854.9
+RecognizedString what 854.9 863.9
+RecognizedString the thing i need a peak sonu i didn't under weather called were 863.9 867.9
+RecognizedString then i treated so another person another call another person 867.9 874.3
+RecognizedString pull kendall diamonds 874.3 877.1
+RecognizedString yeah i think the same way i like to underwear this ten of diamonds 877.1 883.7
+RecognizedString good now do it the the the regular speed right 883.7 886.7
+RecognizedString turn on the good maybe utah 886.7 893.9
+RecognizedString excellent 893.9 897.3
+RecognizedString that was yolk actually and i are okay 81.9 87.6
+RecognizedString so thank you another person autocad 897.3 900.8
+RecognizedString five o'clock it's not the same person even if the things bob we can take some over there later so now i will drop the cars 900.8 910.2
+RecognizedString are you say stop anywhere cadet five on clubs 910.2 915.3
+RecognizedString not the left yeah difficulty find called hear the personal send five clubs 915.3 922.6
+RecognizedString stop it a window caught are in the air right 922.6 927.5
+RecognizedString very good 927.5 931
+RecognizedString okay i'll feels a little forza 931 940.1
+RecognizedString i think you whitley save fiberglass and now a carly to contract to fiberglass 940.1 947.3
+RecognizedString cleaner harsha excellent 947.3 950.5
+RecognizedString here i will do the most difficult thing 950.5 959
+RecognizedString hold on palm up do this don't know the rest 87.6 91.1
+RecognizedString for example you you're sitting in las vegas 959 962.3
+RecognizedString and repeating and you let the other guys pick this god by mistake penis just regular one call 962.3 970.7
+RecognizedString and now when i lips discard it should be called what was your god 970.7 977.9
+RecognizedString reno 977.9 980
+RecognizedString clean house so that's a tough drive 980 984.6
+RecognizedString to here i grab you know this file clamps 984.6 991
+RecognizedString i'm cleaners yes 991 993.4
+RecognizedString topless because here i'ma take care vantage out 993.4 1001.2
+RecognizedString uh put a switch it with fido tops so now full account 1001.2 1007.9
+RecognizedString which country i use queen or five queen yeah 1007.9 1013.2
+RecognizedString over the heart donk more the rest for loud don't know the rest 91.1 96.6
+RecognizedString so i used to queen on here's five o'clock 1013.2 1019.9
+RecognizedString falls cow to in a number one 1019.9 1022.6
+RecognizedString two three four five six seven eight seven called when the time 1022.6 1030.1
+RecognizedString eight nine ten this is a kind of optical the right when i 1030.1 1037.9
+RecognizedString put one card at the table look its not one card 1037.9 1041.5
+RecognizedString is look is a bunch of called that give this is a depression yeah 1041.5 1048.6
+RecognizedString now some holsters 1048.6 1052.6
+RecognizedString um i think we keep the queen here yes 1052.6 1058.8
+RecognizedString now for the satellites to is this 1058.8 1066.7
+RecognizedString i'm sorry don't look at the be my phone 1066.7 1069.8
+RecognizedString i don't know the rest of the heart tanto there is a forward 96.6 101.1
+RecognizedString this is 1069.8 1079
+RecognizedString high frequency laser annasophia frack 1079 1084.2
+RecognizedString shin of a second to destroy the retina complete the store for a video can relax 1084.2 1090.4
+RecognizedString because it takes half an hour before work sweetheart 1090.4 1093.5
+RecognizedString plenty of time to see my holder for me now apple delays on here 1093.5 1102.7
+RecognizedString add now when i d the called laser 1102.7 1108.1
+RecognizedString i know whether alvin yes did the can i go there now 1108.1 1114.8
+RecognizedString lydia 1114.8 1117.6
+RecognizedString what happen 1117.6 1121.7
+RecognizedString cantata another girl 1121.7 1125.9
+RecognizedString yeah 101.1 107.2
+RecognizedString 2 9.2
+RecognizedString do the commerce either the calls now no 1125.9 1132.1
+RecognizedString what you see the handle 1132.1 1134.8
+RecognizedString for now to now that was there a right to see the count yes 1134.8 1141.7
+RecognizedString 1141.7 1144.2
+RecognizedString good now 1144.2 1150.2
+RecognizedString one gaylor to now to find the queen 1150.2 1154
+RecognizedString to this way tic tac atlantic practically 1154 1159.4
+RecognizedString yeah interesting will riders 1159.4 1166
+RecognizedString haha i like to now alamo difficult 1166 1175.4
+RecognizedString play anyone name please enter zoo 1175.4 1180.1
+RecognizedString 107.2 112.6
+RecognizedString spades space good to hear 1180.1 1185.7
+RecognizedString here i have to pee lots of course i think that are lots of 1185.7 1190.6
+RecognizedString i don't know how many bit in ten fifteen cut this pints in a did i could list right to everytime olive to heat puppy correct 1190.6 1199.1
+RecognizedString then iran stums i can get on quick x 1199.1 1205.5
+RecognizedString five start with the s 1205.5 1207.6
+RecognizedString ya face opera spades same is right 1207.6 1215.5
+RecognizedString so uh iran's to spain the class 1215.5 1218.9
+RecognizedString just a to do this fantastic spence 1218.9 1222.9
+RecognizedString you say i the prestige always dummy sex 1222.9 1226.7
+RecognizedString i don't care about me 1226.7 1229.4
+RecognizedString to this position from this without pulling the rest 112.6 116.3
+RecognizedString now and then i get some extra sympathy points 1229.4 1232.5
+RecognizedString one two three four yes the chemical t5 1232.5 1241
+RecognizedString six seven eight 1241 1244.5
+RecognizedString nine ten the jack 1244.5 1250.6
+RecognizedString jack old spades green 1250.6 1255.5
+RecognizedString i like butler facebook canada quickpic 1255.5 1264.6
+RecognizedString good and we switch is for the game 1264.6 1267.4
+RecognizedString eighth of diamonds ronaldo a some diamonds with guide 1267.4 1273.1
+RecognizedString so i'll find king of pants that was a place and he has kings bass crack 1273.1 1280.2
+RecognizedString ok 1280.2 1285.9
+RecognizedString now the shortcut potato six six most now it one more i start here palm down you can follow 116.3 125.9
+RecognizedString now a little more difficulty maybe you think i have the cotton order already you help me to shuffle yet another so please 1285.9 1294.5
+RecognizedString one 1294.5 1300.2
+RecognizedString it was astor the blind phone 1300.2 1303.1
+RecognizedString hahaha i like is got ya okay that would be my and affected the armaan who said i'm on 1303.1 1312.5
+RecognizedString you are drop the can't use which size 1312.5 1316.9
+RecognizedString what size is piece of cake a lie challenges which size 1316.9 1323.6
+RecognizedString x locked ok say stop 1323.6 1326.6
+RecognizedString yeah 1326.6 1331.7
+RecognizedString ok 1331.7 1335.1
+RecognizedString 1335.1 1343.3
+RecognizedString and then look at me 125.9 128.7
+RecognizedString hi this is tough 1343.3 1347.4
+RecognizedString ok assault i've clubs the force base another so time diamonds perfect so in this case 1347.4 1355.9
+RecognizedString i tried to n 1355.9 1358
+RecognizedString add to locate diamonds i look at the cars and okay we retry yeah you help me if i drop it called face up 1358 1367.5
+RecognizedString like this you you robot 1367.5 1369.5
+RecognizedString ok read nude both hands 1369.5 1378.7
+RecognizedString 1378.7 1380.9
+RecognizedString you're so here diamonds hots no diamonds gaga 1380.9 1391.6
+RecognizedString stop busy the pattern 1391.6 1394.4
+RecognizedString yes yes okay i will fit pattern sri 1394.4 1403.8
+RecognizedString okay so that was a woman 128.7 137.7
+RecognizedString maybe it's important lionel dinosaur cat 1403.8 1408.9
+RecognizedString so now 1408.9 1414.2
+RecognizedString who i always s why do i put my tape andy specific 1414.2 1419.8
+RecognizedString i have to figure out zoom in an ounce 1419.8 1424.4
+RecognizedString when i'm a some cause but i love it to not i will do it i will try to find 1424.4 1431.4
+RecognizedString find the the the diamonds but i will do hardaway 1431.4 1435.8
+RecognizedString it's too easy to do it right away right i fink i will do it 1435.8 1443.3
+RecognizedString blind food 1443.3 1445.8
+RecognizedString this is the it works immediately 1445.8 1449.9
+RecognizedString app 1449.9 1457.2
+RecognizedString 137.7 141.1
+RecognizedString 1457.2 1462
+RecognizedString duct tape i look at shake the cards i don't 1462 1467.4
+RecognizedString yeah 1467.4 1471.6
+RecognizedString good i like the imported impetus what it was what it was women's voice hit the moto 1471.6 1481.5
+RecognizedString yeah good yeah you can take a note 1481.5 1484.6
+RecognizedString no because sam guys 1484.6 1492.6
+RecognizedString sam do i think i can pink through the no strings the date today 1492.6 1498.5
+RecognizedString google right get qualified 1498.5 1504.7
+RecognizedString looks go like batman o 1504.7 1510.8
+RecognizedString with big nephew in ella girls right 1510.8 1515.9
+RecognizedString now i need an assistant 141.1 148.6
+RecognizedString good i like are your eyes i deleted little tough and it's not the one of the last ok 1515.9 1523.9
+RecognizedString sorry 1523.9 1526.1
+RecognizedString now you must agree that i'm a 1526.1 1529.7
+RecognizedString i'm a three lyle other phones is right 1529.7 1531.7
+RecognizedString i've been vibration 1531.7 1539.5
+RecognizedString so uh 1539.5 1545
+RecognizedString what was the card a diamonds ah memorize house so now i had to to lycia 1545 1553.6
+RecognizedString maybe astana huff 1553.6 1556.9
+RecognizedString it diamonds i start with a for diamonds 1556.9 1562.6
+RecognizedString just kidding warming up kingdom hearts and i give you diamond slave korea put them hero nice right 1562.6 1571.9
+RecognizedString i'll talk to nice girl before sui chess left 148.6 153.1
+RecognizedString you can say 1571.9 1574.4
+RecognizedString a fantasy f a tiger 1574.4 1579.5
+RecognizedString hey i never ever miss to assistant resting always i've onto 1579.5 1584.2
+RecognizedString but you're wrong tyler spades sorry 1584.2 1588.9
+RecognizedString and the dickie for gift to after the lettuce get tickets here in this cafe examiner right 1588.9 1595.7
+RecognizedString remind me to get a to able to space right 1595.7 1601.1
+RecognizedString four two diamonds adobe quick now three 1601.1 1606
+RecognizedString theme diamonds for 1606 1610.8
+RecognizedString i like chevys cell phone 1610.8 1618.5
+RecognizedString brooklyn 1618.5 1622.1
+RecognizedString no good night 153.1 160.7
+RecognizedString 1622.1 1630.3
+RecognizedString ok 1630.3 1636
+RecognizedString shut up 1636 1643.9
+RecognizedString 1643.9 1647.1
+RecognizedString 1647.1 1655.1
+RecognizedString 1655.1 1657.2
+RecognizedString golf 1657.2 1662.6
+RecognizedString yeah 1662.6 1671.8
+RecognizedString ok 1671.8 1677.9
+RecognizedString no leave face maybe a little tough 1677.9 1683.1
+RecognizedString and you can fit over there when i team here what's water right 160.7 165.9
+RecognizedString my favorite topics is sam short cats 9.2 17.6
+RecognizedString why we try this 1683.1 1686.6
+RecognizedString you're so 1686.6 1696.6
+RecognizedString how many pounds five four is five the next called 1696.6 1703.7
+RecognizedString oh so here 1703.7 1709.6
+RecognizedString call face down your agree 1709.6 1713.7
+RecognizedString yes that is very for next carl the five 1713.7 1721.5
+RecognizedString i will be nice if asap yet 1721.5 1725.8
+RecognizedString six six me the fam 1725.8 1732.9
+RecognizedString 1732.9 1737.7
+RecognizedString seven 1737.7 1743.1
+RecognizedString and i will get my tribute to water 165.9 171.3
+RecognizedString yes i do if i know let it did take the for drive 1743.1 1749.7
+RecognizedString hey 1749.7 1754.6
+RecognizedString got it 1754.6 1762.5
+RecognizedString turn the nine right 1762.5 1766
+RecognizedString yesterday the day before yesterday was india and i use this actually 1766 1770.7
+RecognizedString not right now to ten 1770.7 1779.4
+RecognizedString launch again i love this jaanu anal 1779.4 1784.7
+RecognizedString jack jack 1784.7 1792.3
+RecognizedString i'm diamonds correct 1792.3 1796
+RecognizedString yes add clean queen with miss direction 1796 1803.7
+RecognizedString i thing isn't off willow dummy yabba gas can talk about the chess am beer has about 171.3 179.9
+RecognizedString correct 1803.7 1811.8
+RecognizedString i'm then 1811.8 1814.6
+RecognizedString turn off the exact five second 1814.6 1820.4
+RecognizedString yeah 1820.4 1822.7
+RecognizedString five five second one two three 1822.7 1828.5
+RecognizedString for checkit laugh 1828.5 1834.7
+RecognizedString can you run a run 1834.7 1839.5
+RecognizedString arm 1839.5 1845.7
+RecognizedString touch me fees 1845.7 1848.3
+RecognizedString upgrade 1848.3 1859.9
+RecognizedString the lottery in beer 179.9 182.1
+RecognizedString 1859.9 1862.3
+RecognizedString 1862.3 1866
+RecognizedString so now 182.1 190.9
+RecognizedString i will demonstrate different ways of the memorizing 190.9 195.9
+RecognizedString control call just won't and have catacombs this 195.9 200.4
+RecognizedString 200.4 203.1
+RecognizedString i work with a special la mesa 203.1 207.7
+RecognizedString to to do it quick eh i work with a m 207.7 212.4
+RecognizedString in christian azar eh control 212.4 219.3
+RecognizedString the master of shortcuts it's of course nature but i will demonstrate 17.6 22.8
+RecognizedString and and very powerful 219.3 226.8
+RecognizedString eh memories after right so 226.8 233.2
+RecognizedString if i've study the pope at the alike gay 233.2 239.6
+RecognizedString the ghana eh that 239.6 241.8
+RecognizedString official i don't yammy that i am so if we are 241.8 248.5
+RecognizedString if we have a five person and i will your five hundred poker game now i will interact two different person 248.5 257.9
+RecognizedString what the time so it's not the same person can we have an agreement 257.9 263.3
+RecognizedString which you angelina good poker land which number one two three four o five 263.3 268.3
+RecognizedString three good and i'm here 268.3 273.4
+RecognizedString add matthew to make a little the critical moment is true 273.4 279.6
+RecognizedString different ways to to get 22.8 25.6
+RecognizedString if a concha data card together immediately when heat 279.6 287.1
+RecognizedString before he dealer cock 287.1 289.2
+RecognizedString now so i think number three i've arrange them in a full house 289.2 296.1
+RecognizedString what did queen and is again queens and ten 296.1 305
+RecognizedString 305 308.8
+RecognizedString i said i like this i'll explain it one two three 308.8 313.8
+RecognizedString four five three queens 313.8 316.4
+RecognizedString to hear you see the contrast where notary the calls 316.4 322.6
+RecognizedString add to town 322.6 324.9
+RecognizedString yeah thank you 324.9 333
+RecognizedString go to get rid of a data cut difficulties and go to the points to find an answer probably much quicker than off a date 25.6 34.1
+RecognizedString also the is good if all the other guys has good hands those this guy's hot 333 337.7
+RecognizedString i'd like to a straw man three a assistant okay 337.7 343.8
+RecognizedString this guy beats then went to for of a kind of deuce deuce 343.8 350.2
+RecognizedString no action that would be the ok um this this look in order i'm proc hopefully 350.2 358.3
+RecognizedString yeah three four five 358.3 360.7
+RecognizedString six seven four i will have the winning hand ten jack 360.7 369.8
+RecognizedString queen king yeah 369.8 371.9
+RecognizedString no 371.9 375.2
+RecognizedString good so the hand that looks 375.2 382.7
+RecognizedString so good from the beginning number three 382.7 385.2
+RecognizedString so fast we violate the common sense 34.1 40.6
+RecognizedString add an was actually the lowest tan such life right to please mixture 385.2 393.2
+RecognizedString now if you are interested i will demonstrate psalm underground techniques 393.2 400.1
+RecognizedString yes i will quit the 400.1 404.4
+RecognizedString kind of estimation an shuffle tracking ah good x 404.4 413.1
+RecognizedString impressive thank you 413.1 417.3
+RecognizedString so fast the first time is estimation 417.3 423
+RecognizedString here is the may exactly how many calls apple between the my ryan flash 423 428.7
+RecognizedString of course i can county carbon this is match quicker right here i have actually 428.7 436.9
+RecognizedString i know exactly why they call jar here i can make a bath 436.9 440.7
+RecognizedString and this is actually one of the point when i get my monic 440.7 444.5
+RecognizedString 40.6 47.7
+RecognizedString so you can jack queen king eighth ok 444.5 454.6
+RecognizedString next is a turn 454.6 459.2
+RecognizedString i do it quick equities stealing 459.2 462.7
+RecognizedString so here i think i a new of about weather cancer i was fred the cars and you say stop when i pointed to right 462.7 473.9
+RecognizedString red pants too stop 473.9 475.9
+RecognizedString here you see some on me sing and that's stealing call tweets idea ok 475.9 485.8
+RecognizedString now 485.8 490.4
+RecognizedString another time called shuffle tracking shuffle tracking means i keep track of the cards 490.4 496.9
+RecognizedString even if another person person chaplin 496.9 499.7
+RecognizedString this is a little risque so because it looked now i can stinks a new grey but if you're square 499.7 507.8
+RecognizedString all of you write pump up if you do this 47.7 52.3
+RecognizedString square an sheven 507.8 511.5
+RecognizedString ennis any kind 511.5 513.9
+RecognizedString so here 513.9 516
+RecognizedString to follow my calls i must look at the capital of the big are your salted later okay saga edit the color of your opinion einstein good 516 527.9
+RecognizedString 527.9 529.9
+RecognizedString calculate the thanks i don't like the calculator work direct with the right brain 529.9 535.1
+RecognizedString 535.1 539.8
+RecognizedString directions to right by that's matt 539.8 542.4
+RecognizedString a so author benjamin live a little above this i'm fine and you can work with 542.4 550.8
+RecognizedString in the right atmosphere with humor you have you back the password to the 550.8 556.7
+RecognizedString 52.3 58.1

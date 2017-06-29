@@ -1,0 +1,612 @@
+title 
+textStore ElonMusk_2017-480p.html
+MD5TextStore MD5
+soundStore ElonMusk_2017-480p.mp4
+MD5SoundStore MD5
+Bind 22 135 9.2 17.5
+Bind 135 188 17.5 23
+Bind 188 285 23 28.8
+Bind 285 359 28.8 37.9
+Bind 359 417 37.9 43.2
+Bind 417 580 43.2 58.7
+Bind 580 860 58.7 77.9
+Bind 860 942 77.9 82.8
+Bind 942 1138 82.8 94.7
+Bind 1138 1195 94.7 103.1
+Bind 1195 1557 103.1 128
+Bind 1557 1737 128 142.2
+Bind 1737 1826 142.2 147.4
+Bind 1826 1927 147.4 154.2
+Bind 1927 2051 154.2 161.3
+Bind 2051 2474 161.3 185.6
+Bind 2474 2701 185.6 201.5
+Bind 2701 2825 201.5 209.4
+Bind 2825 2970 209.4 219.5
+Bind 2970 3077 219.5 227.9
+Bind 3077 3214 227.9 235.7
+Bind 3214 3612 235.7 263.1
+Bind 3612 3783 263.1 273.7
+Bind 3783 3883 273.7 279.1
+Bind 3883 4127 279.1 292.6
+Bind 4127 4622 292.6 323.5
+Bind 4622 4725 323.5 332.9
+Bind 4725 4965 332.9 353.3
+Bind 4965 5030 353.3 356.1
+Bind 5030 5401 356.1 380.3
+Bind 5401 5617 380.3 397.2
+Bind 5617 5711 397.2 404.9
+Bind 5711 5962 404.9 426.3
+Bind 5962 6205 426.3 441.6
+Bind 6205 6430 441.6 460
+Bind 6430 6594 460 475.4
+Bind 6594 6977 475.4 503.4
+Bind 6977 7172 503.4 518.3
+Bind 7172 7262 518.3 525.9
+Bind 7262 7334 525.9 531.4
+Bind 7334 7659 531.4 556.1
+Bind 7659 7946 556.1 575.4
+Bind 7946 8027 575.4 578.8
+Bind 8027 8147 578.8 586.7
+Bind 8147 8330 586.7 601.2
+Bind 8330 8518 601.2 613.2
+Bind 8518 8658 613.2 623.2
+Bind 8658 8765 623.2 629.2
+Bind 8765 9178 629.2 659.6
+Bind 9178 9390 659.6 678.4
+Bind 9390 9591 678.4 688
+Bind 9591 9668 688 693.8
+Bind 9668 9810 693.8 706.5
+Bind 9810 10060 706.5 724
+Bind 10060 10502 724 754.3
+Bind 10502 11384 754.3 818.3
+Bind 11384 11540 818.3 829.2
+Bind 11540 11752 829.2 843.1
+Bind 11752 11800 843.1 849.4
+Bind 11800 12042 849.4 869.1
+Bind 12042 12149 869.1 877.4
+Bind 12149 12337 877.4 888.7
+Bind 12337 12558 888.7 903.6
+Bind 12558 12602 903.6 907.5
+Bind 12602 12821 907.5 923.4
+Bind 12821 12927 923.4 929.3
+Bind 12927 13147 929.3 944.8
+Bind 13147 13263 944.8 948.6
+Bind 13263 13406 948.6 962.2
+Bind 13406 13533 962.2 971.8
+Bind 13533 13551 971.8 974.3
+Bind 13551 13585 974.3 976.5
+Bind 13585 13713 976.5 986.9
+Bind 13713 13827 986.9 993.3
+Bind 13827 14091 993.3 1015.1
+Bind 14091 14199 1015.1 1020.9
+Bind 14199 14311 1020.9 1026.7
+Bind 14311 15015 1026.7 1078.1
+Bind 15015 15117 1078.1 1083.8
+Bind 15117 15343 1083.8 1100.5
+Bind 15343 15513 1100.5 1114.5
+Bind 15513 15677 1114.5 1124.7
+Bind 15677 15782 1124.7 1129.2
+Bind 15782 15850 1129.2 1134.8
+Bind 15850 15987 1134.8 1141.7
+Bind 15987 16078 1141.7 1146.1
+Bind 16078 16159 1146.1 1152.5
+Bind 16159 16316 1152.5 1163.6
+Bind 16316 16426 1163.6 1173.6
+Bind 16426 16434 1173.6 1175.7
+Bind 16434 16516 1175.7 1179.5
+Bind 16516 16729 1179.5 1192.6
+Bind 16729 16880 1192.6 1204.5
+Bind 16880 16971 1204.5 1210.8
+Bind 16971 17169 1210.8 1231.4
+Bind 17169 17360 1231.4 1243
+Bind 17360 17657 1243 1269.9
+Bind 17657 17720 1269.9 1274.5
+Bind 17720 18244 1274.5 1306.4
+Bind 18244 18735 1306.4 1331.9
+Bind 18735 18801 1331.9 1336.7
+Bind 18801 18966 1336.7 1344.1
+Bind 18966 19271 1344.1 1364.6
+Bind 19271 19430 1364.6 1377.6
+Bind 19430 19591 1377.6 1391.9
+Bind 19591 19688 1391.9 1397
+Bind 19688 19729 1397 1400.9
+Bind 19729 19775 1400.9 1408.5
+Bind 19775 19821 1408.5 1411.9
+Bind 19821 20193 1411.9 1430.8
+Bind 20193 20490 1430.8 1454.8
+Bind 20490 20627 1454.8 1466.3
+Bind 20627 21038 1466.3 1491.3
+Bind 21038 21164 1491.3 1502.4
+Bind 21164 21352 1502.4 1521.3
+Bind 21352 21492 1521.3 1533.4
+Bind 21492 21562 1533.4 1537.5
+Bind 21562 21639 1537.5 1542
+Bind 21639 21889 1542 1556.3
+Bind 21889 22035 1556.3 1565.2
+Bind 22035 22364 1565.2 1594
+Bind 22364 23278 1594 1648.1
+Bind 23278 23520 1648.1 1667.2
+Bind 23520 23646 1667.2 1673.6
+Bind 23646 24064 1673.6 1705.3
+Bind 24064 24215 1705.3 1713.8
+Bind 24215 24273 1713.8 1721.9
+Bind 24273 24587 1721.9 1755.2
+Bind 24587 24758 1755.2 1766.9
+Bind 24758 24920 1766.9 1777.9
+Bind 24920 25337 1777.9 1811.9
+Bind 25337 25376 1811.9 1814
+Bind 25376 25456 1814 1823
+Bind 25456 25585 1823 1835.3
+Bind 25585 25869 1835.3 1850.5
+Bind 25869 26637 1850.5 1905.1
+Bind 26637 26797 1905.1 1916.4
+Bind 26797 26857 1916.4 1922.7
+Bind 26857 27113 1922.7 1939.9
+Bind 27113 27496 1939.9 1969.2
+Bind 27496 27585 1969.2 1976.2
+Bind 27585 28216 1976.2 2025.2
+Bind 28216 28408 2025.2 2039.9
+Bind 28408 28796 2039.9 2072.4
+Bind 28796 28845 2072.4 2077.7
+Bind 28845 28881 2077.7 2082
+Bind 28881 29006 2082 2091.5
+Bind 29006 29240 2091.5 2109.4
+Bind 29240 29474 2109.4 2123
+Bind 29474 29635 2123 2134.7
+Bind 29635 30030 2134.7 2163.1
+Bind 30030 30134 2163.1 2173.1
+Bind 30134 30278 2173.1 2186
+Bind 30278 30319 2186 2190.5
+Bind 30319 30607 2190.5 2209.4
+Bind 30607 30934 2209.4 2231.9
+Bind 30934 31002 2231.9 2236.3
+Bind 31002 31199 2236.3 2251.6
+Bind 31199 31380 2251.6 2264.2
+Bind 31380 31537 2264.2 2276
+Bind 31537 31914 2276 2302.5
+Bind 31914 32320 2302.5 2325.6
+Bind 32320 32488 2325.6 2339.1
+Bind 32488 32563 2339.1 2343.3
+Bind 32563 32798 2343.3 2355.5
+Bind 32798 32973 2355.5 2367.4
+Bind 32973 33064 2367.4 2373.5
+Bind 33064 33487 2373.5 2411.8
+Bind 33487 33557 2411.8 2416.8
+Bind 33557 33737 2416.8 2426.5
+Bind 33737 33834 2426.5 2432.4
+Bind 33834 33986 2432.4 2440.2
+RecognizedString 0 2
+RecognizedString three or four tonopah mraz nico how's you will not able to check the bingo around 586.7 592
+RecognizedString i'm electric the um if you if you're able to take the tunnel 592 597.7
+RecognizedString bink bink that you whatever device you're using 597.7 601.2
+RecognizedString you can get a lot of money for advice from the israeli military right to tech thomas from hamas am and a from the u s a customs motorola tron 601.2 610.9
+RecognizedString tech drug turtles so 610.9 613.2
+RecognizedString i edit the rowdy is that a earth is incredibly good observing by brushes and once the tunnel def is below sea level it is 613.2 623.2
+RecognizedString i'm detect go maybe have a very sastre seismic instruct you might be able to taxes 623.2 629.2
+RecognizedString so you start a new company to do this called the boring company very nice a very funny 629.2 635.2
+RecognizedString that's funny baton haha alarm 635.2 639.7
+RecognizedString i'm time is it 639.7 643.2
+RecognizedString i'm effects people every part of the world i it's a text away so much of your life near me 58.7 65.7
+RecognizedString it's it's i'm happy it's maybe 643.2 647.4
+RecognizedString till three percent if you put a hobby 647.4 650.7
+RecognizedString this is this is what on iran mask hobby lobby flight evett really is a we actually you know if this is basically interns 650.7 659.6
+RecognizedString and people doing a part-time sources 659.6 662.1
+RecognizedString i'm a report egg report yeah i'm missions on second of scenery and it has its kinda flattering long but it's making progress o 662.1 671.5
+RecognizedString set an event bigger parker thomas pink benton on the light fine 671.5 675.9
+RecognizedString carson transport through tesla 675.9 678.4
+RecognizedString i'm is is one of the motivation for the telling project the realization the actually in worldwide cause electric a weather weather self driving 678.4 688
+RecognizedString samantha bmo cars on the road on any kevin outlander i now 688 693.8
+RecognizedString yeah exactly the 693.8 697.5
+RecognizedString best it's it's horrible is prickly harlin ah ah and 65.7 71.9
+RecognizedString got largo think that once when you make cause a thomas that 697.5 702.1
+RecognizedString doubled go faster and that will be back justin 702.1 706.5
+RecognizedString i'm addison degree that will be true a pet 706.5 709.8
+RecognizedString what do you have cheryl tommy where it's much cheaper tika by car hugo points point i'm before booty of 709.8 719
+RecognizedString i'm going to harvey's void better than better bus cyclic costa bus ticket 719 724
+RecognizedString so i'm the matter driving car will be much grader with sharat army and actually traffic will get or worse 724 731.8
+RecognizedString when is tasha tasha with go live of the sweating the world 731.8 736
+RecognizedString to the traffic and was the future 736 739.7
+RecognizedString under years ago people lafayette a now nothing much i mean okay 739.7 745.5
+RecognizedString go to the pretty much every ocean manufacture has an ounce 745.5 754.3
+RecognizedString i'm so happy if you brought tell with your the first visualization netspend shana this coming gala sheriff 71.9 77.9
+RecognizedString serious lex vacation plans for the show to medium time future 754.3 759.5
+RecognizedString uh yeah yeah the i'm the i think almost every auto maker has has some electrical program 759.5 767.9
+RecognizedString they variance sarah sama sama very serious about transitioning itali electric 767.9 773.5
+RecognizedString i'm a samaj establish a in um 773.5 777
+RecognizedString 777 781.7
+RecognizedString what is a you can notice declare victory in say in a we did that that the word electrify you gonna focus on other stuff 781.7 791.9
+RecognizedString yeah i'm 791.9 795.5
+RecognizedString i hope i pinterest a with tessa as a spiders like imagine 795.5 800
+RecognizedString i'm and the lyric sorry things that you were coming i've got some austin moultrie at concern 800 807.4
+RecognizedString i will be i'm feeling p a semi truck um 807.4 812.1
+RecognizedString yeah please that was the first time just a surf show were talking about 77.9 82.8
+RecognizedString and i'll get back recommend tomorrow three south coming becoming in july 812.1 818.3
+RecognizedString fish yup at it's looking quite good for starting production in july while 818.3 824.4
+RecognizedString um what do you think about is is fabric sams 824.4 829.2
+RecognizedString go to pilot and i'm you you put out this video allow back sewing what that german 829.2 835.1
+RecognizedString 835.1 839.9
+RecognizedString what about in molest right now what do you think i'm 839.9 843.1
+RecognizedString yes it was a using only cameras and a gps 843.1 849.4
+RecognizedString there's no light are radar being used here this is just using pass vauxhall which is search for person users 849.4 856.2
+RecognizedString i'm the alright system is maths been updated with 856.2 860.6
+RecognizedString a has bottle of cameras and so what is of cameras of vision 860.6 869.1
+RecognizedString the become lucky things that are important in a having um 82.8 87.4
+RecognizedString a than autonomy solved if you don't for vision it's not salt 869.1 874
+RecognizedString so that's why alpha kisses so heavily on 874 877.4
+RecognizedString having a eta vision neutral net that's very effective for road conditions 877.4 883.2
+RecognizedString write melted look on the light are you what cameras plus read ours is masturbate 883.2 888.7
+RecognizedString you can abso baby superhuman with just towers 888.7 891.8
+RecognizedString i'm looking for holiday ten times ballon humans with just just cameras 891.8 895.9
+RecognizedString can you call springfield runner have a eight cameras in the birthday cake on yet do 895.9 903.6
+RecognizedString what that showed umm when will they be able to 903.6 907.5
+RecognizedString um i think the whistle on track for be able to go i'm cross country from la to new york weather year fully autonomous 907.5 917.2
+RecognizedString i'm so so akka by the into diego saying sominski duffit 917.2 923.4
+RecognizedString 3d tell network wesley hatfield integrate the infection exit of the tunnel samus and fabric of siri 87.4 94.7
+RecognizedString in a tesla without touching the screen will top in new york of gaza 923.4 929.3
+RecognizedString one have to of attach the will by the end of two thousand seventeen 929.3 934.1
+RecognizedString yeah it's a november fifth 934.1 937.6
+RecognizedString what is sarah this year which avail score from yep ollie for my parking lot in california to new york 937.6 944.8
+RecognizedString no controls touched ready point during a ta johnny 944.8 948.6
+RecognizedString metric because you've already got a feet of testers 948.6 955.5
+RecognizedString driving aldi's roger your in cable agent huge about data of that national read system 955.5 962.2
+RecognizedString yes but the thing at work exercise that a i'm i'm actually valley cop and a it will be able to do that route 962.2 971.8
+RecognizedString i'm even if you 971.8 974.3
+RecognizedString change the route dynamic lee 974.3 976.5
+RecognizedString so why having a 94.7 97.5
+RecognizedString it's it's very is if you sam let it be really good at one specific route 976.5 983
+RecognizedString that's one thing but i am ishmael to go 983 986.9
+RecognizedString really be very good silly wants you answer highway to go anywhere on the highway system 986.9 993.3
+RecognizedString in elgin country on the limited to ah me hope we can we could change and make it seattle florida whom 993.3 1001.7
+RecognizedString oh yeah after real fatso you're going for me 1001.7 1005.8
+RecognizedString eleina neal now go from la to toronto 1005.8 1009.7
+RecognizedString 1009.7 1015.1
+RecognizedString i'm the time when someone will be able to buy one of your cars in literally just 1015.1 1020.9
+RecognizedString huh well and go to sleep and wake up and find slave arrived how far away is that 1020.9 1026.7
+RecognizedString did i that's what does about vs that the real track of it is not in how to make it work say nine nine 1026.7 1034.7
+RecognizedString elevators lover x server icar skate that's on on an a an elevator 97.5 103.1
+RecognizedString point nine time is it a if if it car crashes say one and a thousand times then you're probably sarkari comfortable falling asleep 1034.7 1043.7
+RecognizedString um 1043.7 1046.1
+RecognizedString that's enough you shouldn't be set me a s s a 1046.1 1052
+RecognizedString what is the bus avril smoking its never can we perfect necessary perfect reset apps 1052 1058.3
+RecognizedString um it's it's a peppa cow is unlike that a crash in a hundred life times four thousand five times 1058.3 1066.2
+RecognizedString then pill like ok while i will of a thousand lives out 1066.2 1070.9
+RecognizedString what's the most likely never express crash that's probably ok rae lynn speaking senegal metric get 1070.9 1078.1
+RecognizedString seduced too early to think that safe and that you have some horrible incident happened 1078.1 1083.8
+RecognizedString present perfect back while i think puppy what honey system is likely to at least mitigate the a dakota crash 1083.8 1090.9
+RecognizedString i'm except rest accents is it 1090.9 1093.7
+RecognizedString you can integrate the address of an exits at the tall network all just by using to parking spaces 103.1 109.9
+RecognizedString that the thanks fishin about a vehicle safety is assist with publicity that there is 1093.7 1100.5
+RecognizedString unless i'm chance that anytime a human drive a car that they will have an accent that a there fault 1100.5 1106.5
+RecognizedString no i'm it's never zera on and is so the really it but lucky for shop for autonomy is 1106.5 1114.5
+RecognizedString how much better the autonomy to be 1114.5 1117
+RecognizedString a person before you can violet violet what's you get the literally five hands up drive in the departed restaurant 1117 1124.7
+RecognizedString the whole industry seems massa because about point you've spoken of people be able to 1124.7 1129.2
+RecognizedString why call drop your work and then you let it go 1129.2 1132.5
+RecognizedString and under provider for 1132.5 1134.8
+RecognizedString uber like service to other people on you money rave even cover the cost of your list of that car is i clean car car car for free 1134.8 1141.7
+RecognizedString is that isn't really likely yeah a absolutely this is what will happen 1141.7 1146.1
+RecognizedString i'm a man the car gets honest gate there's no speed limit error so uh what sign is to be 109.9 117.1
+RecognizedString 2 9.2
+RecognizedString set bearshare dot on me fleet where you by a car and you can chase used car exclusively 1146.1 1152.5
+RecognizedString are you can choose to i'm happy is only by fezan family only by a five -star at other drivers for rate it five star you can choose to 1152.5 1163.6
+RecognizedString sharat sometimes but not other times i'm 1163.6 1167.9
+RecognizedString that's that's it that's one percent what walker it''s question why 1167.9 1173.6
+RecognizedString wow so um 1173.6 1175.7
+RecognizedString you mention the semi antarctica planet satin september 1175.7 1179.5
+RecognizedString what time i'm curious weather there's anything you could shows today i will say a teaser shot a video of russia 1179.5 1186.9
+RecognizedString it's live ok 1186.9 1192.6
+RecognizedString play casselberry wannabe cautious about the autonomy features 1192.6 1196.6
+RecognizedString yeah just become famous will it doesn't look like a little 1196.6 1204.5
+RecognizedString r l top read hundred kilometers an hour about a hundred and thirty two hundred kilometers narrow orbit hundred and thirty mph 117.1 124.6
+RecognizedString friendly neighborhood track looks cabarrus out how what sort of semi is this 1204.5 1210.8
+RecognizedString this is a a heavy duty long range semi trucks that's like a 1210.8 1217.2
+RecognizedString highest await capability i'm an end with long range 1217.2 1222.3
+RecognizedString i'm sorry i meant to i'm levy put the the heavy duty trucking world 1222.3 1228.9
+RecognizedString a and this is something which 1228.9 1231.4
+RecognizedString are you up to today thank is possible to think the truck doesn't have a power or it doesn't have range i'm allen with best with that has a semi 1231.4 1240.9
+RecognizedString you are so that no electric 1240.9 1243
+RecognizedString truck actually can out torque 1243 1245.7
+RecognizedString a any diesel a sam i am and put it if you had a tagore competition 1245.7 1253.1
+RecognizedString that baked potato semi what will take but the devil semi uphill 1253.1 1258.8
+RecognizedString i saw you for velvet get from say it 124.6 128
+RecognizedString hahaha africa are so dumb 1258.8 1264.8
+RecognizedString what is the weather gonna be truck for truck drivers wanted drive 1264.8 1269.9
+RecognizedString yes that so at what will be really for at this is you don't have 1269.9 1274.5
+RecognizedString you have a flat took rpm curve with electric motor 1274.5 1278.3
+RecognizedString i whereas with a diesel motor henri hotel personal cari but i'm talkin cuddle tikka hill i'm supposed to be a very sprite truck 1278.3 1288.1
+RecognizedString um you drive a raunak sports car 1288.1 1291.3
+RecognizedString this is a bit 1291.3 1293.4
+RecognizedString the is does a great movie three major some i don't know what additional duggar ends well but there's a great my right have a what is a test 1293.4 1301.9
+RecognizedString driving but but but in it went when i'm driving via 1301.9 1306.4
+RecognizedString the test prototype for the first track it's really weird because you're driving round and you're just you're so number 1306.4 1312.4
+RecognizedString a westwood to alex airhead six minutes five six minutes 128 133.1
+RecognizedString canyons giant track id 1312.4 1314.8
+RecognizedString you very driven app prototype two other help fucking crazy 1314.8 1321.6
+RecognizedString read my last love driving track and make a map nervous 1321.6 1327
+RecognizedString disco ok from from really bad ass pictures what kind of let's karas picture 1327 1331.9
+RecognizedString um this is just a cute house i'm desperate housewives listening what what the fuck 1331.9 1336.7
+RecognizedString what what on earth is going on here will is else rate the picture of a future that isaac 1336.7 1341.5
+RecognizedString a is ha ha things will evolve 1341.5 1344.1
+RecognizedString you got electric harley driveway up if you look emma twin electric car aunty house other actually three powells a stacked up against the side of house 1344.1 1354.1
+RecognizedString and then the that house roof is is a celery 1354.1 1357.1
+RecognizedString the best actual solar classroom ok feathers real or italy it's it's a real fake house 1357.1 1364.6
+RecognizedString i'm super flint michigan is like an a honestly toll road type basis yeah 133.1 142.2
+RecognizedString that that's real fake house 1364.6 1369.4
+RecognizedString search for this is with tiles at some of them have in the yeah i'm leave solar power zebras it up 1369.4 1377.6
+RecognizedString yet sauce soda styles week uh um you can adjust the texture and the color 1377.6 1383.7
+RecognizedString a avai find grade level i'm an app that there's a micro rivers i end up in the glass 1383.7 1391.9
+RecognizedString search that i'm when you looking at the roof from street level of places three level 1391.9 1397
+RecognizedString ola tiles look the same weather there is 1397 1400.9
+RecognizedString a solar panel behind it or sala silva handed or not 1400.9 1405.2
+RecognizedString i'm so you haven't even um 1405.2 1408.5
+RecognizedString even color from from i'm v8 1408.5 1411.9
+RecognizedString brown double if you'd look at it from a helicopter youtube asheville look through and see that some of the the glass styles 1411.9 1418.4
+RecognizedString which i guess alleviate some traffic from the streets as well 142.2 147.4
+RecognizedString have a social vitamin some did i write a problem with a lot of san yes 1418.4 1425.2
+RecognizedString not that make fisheries super affordable right the nuggets want spencer then just calling the rate 1425.2 1430.8
+RecognizedString yeah but the big were very cooperate that the cost of roof up 1430.8 1437.3
+RecognizedString a plus the cost of electricity over that that that was the last roofie less than a carcinoma riff plus the because what was the 1437.3 1445.9
+RecognizedString so it's an this will be 1445.9 1448.6
+RecognizedString a economic leno renner i'm a will look up with a look great i'm and your last 1448.6 1454.8
+RecognizedString any with what like having that the warranty be infinity i'm potential that wall that might sound like we're just talking i wish but 1454.8 1463.1
+RecognizedString activate the the like that 1463.1 1466.3
+RecognizedString buses like tennessee tophan glass like well after the house has collapsed 1466.3 1470.7
+RecognizedString um nothing there the roof pathak big last hazel still there 1470.7 1476.6
+RecognizedString i think you are double nurse in the that there's no real limit to how many levels of of towel you can have 147.4 154.2
+RecognizedString yep 1476.6 1480
+RecognizedString free wanting the in a cup time thank with fort like for different reefing types 1480 1485.4
+RecognizedString there was sorry off with to i'm to initially i'ma seconds you will be introduced raleigh next year 1485.4 1491.3
+RecognizedString what's the scale of ambition how how how how many houses do believe current up having is the start briefing 1491.3 1499.5
+RecognizedString menifee eventually um 1499.5 1502.4
+RecognizedString actually almost all houses will have a celery 1502.4 1506.6
+RecognizedString i'm not that thanks with tickets to the times share to be probably on the order of 1506.6 1514.9
+RecognizedString fourty or fifty years it's a on average ed rufus replaced every twenty two twenty five years 1514.9 1521.3
+RecognizedString so i'm but you don't start replacing oreos immediately abbott eventually if you say road fast forward 1521.3 1529.9
+RecognizedString to set fifteen years from now 1529.9 1533.4
+RecognizedString is it you can go much for the deep when you can go up the deepest miles on much deeper than the tallest building tato 154.2 161.3
+RecognizedString it will be unusual to have a roof pet does not have solar 1533.4 1537.5
+RecognizedString is there a meant tomorrow thing that people get heather that time does 1537.5 1542
+RecognizedString distant cousin assistance requested economics acela power that like most houses actually have enough sunlight on there is pretty much to power all of the needs africa caps the hour 1542 1553.1
+RecognizedString yeah capri much carol the needs right but you could off great can a 1553.1 1556.3
+RecognizedString get vince on on on way you are and what the hell size is relative to rivera patio experience affair statement say the most houses 1556.3 1565.2
+RecognizedString i am us have enough roof area to power albany the house 1565.2 1571.5
+RecognizedString okay so the the kids of a economics of a van 1571.5 1576.3
+RecognizedString the cause send me the houses this is the the 1576.3 1580.2
+RecognizedString falling price of lithium batteries switch admitted huge better on as the comic cafe in and um 1580.2 1589
+RecognizedString you've decided activity like i'm on that 1589 1594
+RecognizedString so you can we be a any arbitrary level of open congestion 161.3 166.4
+RecognizedString competency it you just have to build the world's largest 1594 1597.8
+RecognizedString manufactured patra double the my battery yeah is with with with the sky what is the 1597.8 1604
+RecognizedString yes that's the giga factory i'm the what 1604 1607.6
+RecognizedString progress so far nugget factory 1607.6 1609.6
+RecognizedString a benchley pizza rafi see that has its a deserve a diamond shape of rawat when it's 1609.6 1616.4
+RecognizedString fully done it'll be a look like a giant by mental that's the i there by that it's aligned on tree north list wall tower 1616.4 1625.3
+RecognizedString i'm incapable of please like a hundred 1625.3 1628.5
+RecognizedString events vaca hundred giggle hours of the battery sia hundred what else with impala maurya 1628.5 1634.9
+RecognizedString i'm getting produce right now ready heron video yeah i'm in made it up on that's that's too slow down version 1634.9 1643.9
+RecognizedString yeah how fast does akshata 1643.9 1648.1
+RecognizedString a with with a 3d told that what does if i'm porn.com acura bottle to the tallest is that if you add 166.4 173.6
+RecognizedString well i'm when it's postpaid um you can actually see the sells without a strobe light 1648.1 1654.5
+RecognizedString hello 1654.5 1657.7
+RecognizedString and help mean one if you want to joker ideas about what mixing satin teachers if you have another feel guilty about energy um 1657.7 1667.2
+RecognizedString how is picture that summit how many giga factors if you like does it take to get a fat 1667.2 1673.6
+RecognizedString at four hundred rafi tennis not a thousand most likely hundred 1673.6 1679.7
+RecognizedString i like you krashley picture 1679.7 1683.4
+RecognizedString if you can picture whatever take to move the word of the boss of your things like i'm you'll building one 1683.4 1691.4
+RecognizedString cost five billion dollars baby next one or whatever mcfly to ten billion dollars like it 1691.4 1697.6
+RecognizedString it is can according picture that that project you'll planning to do 1697.6 1701.6
+RecognizedString a restaurant east another to announce another to this year 1701.6 1705.3
+RecognizedString one lira tunnels than that was available national get used up and 173.6 179.4
+RecognizedString hey welcome back to tat sweat have you hear me 9.2 17.5
+RecognizedString i think i what will announced locations for so twenty two and four kk factories later this year yeah probably for 1705.3 1713.8
+RecognizedString wow please check number teasing from you for here 1713.8 1721.9
+RecognizedString like where consonants 1721.9 1726.8
+RecognizedString i'm looking for now 1726.8 1729
+RecognizedString uh we need to address a clever market 1729 1732.9
+RecognizedString okay i a cisco i'm hits 1732.9 1739.3
+RecognizedString i think we should talk for 1739.3 1744.3
+RecognizedString ha double market so i'm 1744.3 1747.2
+RecognizedString i have to aussie one class one crush rapper six only one i'm traffic balls off but i didn't say that i have your your 1747.2 1755.2
+RecognizedString i'm on a adina giving advice to a guy but he doesn't anybody then climate change 1755.2 1763.9
+RecognizedString i'm and then you'll be back we started puppy gesture but you've got any upgrade number of titles any number levels 179.4 185.6
+RecognizedString and time does the yahoo kind of think 1763.9 1766.9
+RecognizedString you shouldn't be doing that that that like you to walk away from that what would you say to them 1766.9 1772
+RecognizedString i will i think that the bess 1772 1775.1
+RecognizedString address for i'm just on to me 1775.1 1777.9
+RecognizedString advisor castles where the for my consists of going round the and asking feels opinion on things i'm and 1777.9 1785.8
+RecognizedString is that it's like a meeting every month are too are you not the some total of of of 1785.8 1791.9
+RecognizedString my conversation by they told me that therapy ballroom who arguing in favor of drink something about climate change 1791.9 1799.3
+RecognizedString i'm or your other arson insert social issues um 1799.3 1805.3
+RecognizedString i don't like i'm have use that list the meetings i have as far to again favor of immigration 1805.3 1811.9
+RecognizedString and in favorite climate change 1811.9 1814
+RecognizedString the people seem traditional incredibly expensive today can that would block this idea 185.6 191.3
+RecognizedString i'm and i'm hunter not the one that wasn't on the agenda before so 1814 1823
+RecognizedString maybe nothing will happen but at least the weather outside 1823 1826.5
+RecognizedString ok go let the let's talk psx and mars at 1826.5 1835.3
+RecognizedString last time you hear you talk about the somewhat seem like a kind of incredibly amber stream to 1835.3 1841.4
+RecognizedString a develop rockets right she re usable 1841.4 1844.3
+RecognizedString a eveningcan danny phantom a toca finally to have through the fort lauderdale of yeah 1844.3 1850.5
+RecognizedString yes it is a one of our rocket vs coming back a from 1850.5 1855.4
+RecognizedString hi hi hi hi on fastest space so just delivered birthday offers stage 1855.4 1861.1
+RecognizedString at at hi vlc effects maybe a seven or so 1861.1 1867.1
+RecognizedString blurry of the episodes 1867.1 1869.4
+RecognizedString yeah i'm weather rights to going example b 191.3 195.9
+RecognizedString i'm a capital of africa 1869.4 1875.7
+RecognizedString slow down person hahaha hahaha that was a pervert 1875.7 1881
+RecognizedString tell me the definition of this fell before you funny figured out how to how to get cats definitely learned it on this what five six times 1881 1889.2
+RecognizedString i think for eight eight or nine a m 1889.2 1892.8
+RecognizedString fs anniversary flown 1892.8 1895.1
+RecognizedString one of the yeah rockefeller and it's a zero landed iraq booster i'm and then 1895.1 1900.3
+RecognizedString practice for flight again for flurry answer for it's the first re flatter for me 1900.3 1905.1
+RecognizedString the of on all over booster where that re fighters relevance or is wants a to fisher that reuse bloody is only relevant if it is rafi 1905.1 1913.7
+RecognizedString i'm a rabbit incomplete 1913.7 1916.4
+RecognizedString write a so like an aircraft or car a the raspberries rabbit complete 1916.4 1922.7
+RecognizedString ellie subway extension i witches at angus at two a half mile extension 195.9 201.5
+RecognizedString are you do not send your aircraft in to to to boeing in between flights 1922.7 1928.2
+RecognizedString right to tremendous this really 1928.2 1932
+RecognizedString ambitious idea of of sending by mini mini mini people to mars enlightened tara twentieth funniest amigos next reyes 1932 1939.9
+RecognizedString i'm just designed outrageous a rocket to do it check to help us understand the scale of the say bye paisley ac that sam 1939.9 1949.3
+RecognizedString person 1949.3 1951.3
+RecognizedString that's vehicle setup event was skyscraper 1951.3 1958.9
+RecognizedString for traveler fourty stories yeah a little more here 1958.9 1963.3
+RecognizedString the bit the the trash level versus really i'm 1963.3 1969.2
+RecognizedString i'm is configuration is about four times with recipes of saturn five min rocket um 1969.2 1976.2
+RecognizedString what rhymes with rest of the biggest rocket humanity ever created before 1976.2 1981.1
+RecognizedString that was just completed for two billion dollars says roughly a billion dollars a mile today the subway in ah 201.5 209.4
+RecognizedString yeah yeah um um um in in one does yeah i'm in units of seven fourty seven 1981.1 1991.5
+RecognizedString i get some fourty seven cyber cora cora my has a thrust 1991.5 1995
+RecognizedString so that's so there amphetamine halifax this 1995 1998.8
+RecognizedString fourty some forty seven west supposed to be the first president of a hundred and hundred twenty seven fourty seventh 1998.8 2004.5
+RecognizedString with all engines blazing into even even with the machine to scientists k s gravity the buffet district lexie take 2004.5 2013.3
+RecognizedString a fully loaded sum fourty seven people cago everything 2013.3 2017.3
+RecognizedString into into into obey is i can take a fully loaded simply seven with with maximum fuel maxim passengers 2017.3 2025.2
+RecognizedString i'm maximum haga understand fourty seven this can take it as cago 2025.2 2031.1
+RecognizedString assistant phone based on the you you are presented a recent is independent transport system which chan 2031.1 2039.9
+RecognizedString i'm is visualize the swain picture in arabic 2039.9 2044.3
+RecognizedString and this is not the highest utility subway in the world i'm so 209.4 214.4
+RecognizedString have you found twentieth people walking to the this rocket i'm helpful it's seven eight 2044.3 2051.6
+RecognizedString ha ha ha frame 2051.6 2053.8
+RecognizedString especially that's our targets 2053.8 2056.3
+RecognizedString i will tell targets aggressive but i fix um yes 2056.3 2062.6
+RecognizedString k sweetbay close is a quite lodging is lodge bike personal rockets eric 2062.6 2069.7
+RecognizedString i'm the the the future 2069.7 2072.4
+RecognizedString space park bobby will make this look like a robot mitosis 2072.4 2077.7
+RecognizedString did the futures specials for be truly enormous 2077.7 2082
+RecognizedString um what why electric cars what why do we need to build a sissy on mars with a million people on it 2082 2091.5
+RecognizedString your lifetime widget africans kind of what you said you like to do 2091.5 2095.8
+RecognizedString yes quite to pick up the donalds norway when you have a beast 214.4 219.5
+RecognizedString yeah i think it's cool to have um 2095.8 2100.8
+RecognizedString future that is inspiring and feeling i think a like about me recent state golf in the morning and you wanna live 2100.8 2109.4
+RecognizedString why do you wanna live what what what what what is spicy what what do you love about the future 2109.4 2114.6
+RecognizedString and if if we're not up there futures lani heard me out there among stars 2114.6 2119.7
+RecognizedString i have a being multiplayer species i funding 2119.7 2123
+RecognizedString the axing probably depressing if that's not the future that we can have 2123 2127.3
+RecognizedString i'm businesses neither oh that that 2127.3 2134.7
+RecognizedString some there's other seventy duster things happening on the planet now from climate pavitra you put your picture issue 2134.7 2141.9
+RecognizedString i'm an and stuff like a distraction your using the think about the sushi solving 2141.9 2147.6
+RecognizedString what's what's here now and to be for identify arabic to actually do that with with york 2147.6 2153.1
+RecognizedString a ten fold improvements in cost per mile of tackling and how could you check that i guess 219.5 227.9
+RecognizedString you know what work understandable angie what to do that 2153.1 2157.4
+RecognizedString what i think this 2157.4 2163.1
+RecognizedString i like the future from san point of of 2163.1 2168
+RecognizedString the fog otis its like a sucker branch extreme of probabilities 2168 2173.1
+RecognizedString and they're actions that we can take perfect les paul abilities an or that accelerate one thing or slow down another thing 2173.1 2183.7
+RecognizedString i make your introduce 2183.7 2186
+RecognizedString something you to the probability stream um 2186 2190.5
+RecognizedString assistaint will energy will happen no matter what if there was no tesla tv never existed it would have to happen 2190.5 2197.4
+RecognizedString 2197.4 2205
+RecognizedString 2205 2209.4
+RecognizedString actually if you just do two things you can get to approximately in order to improvements 227.9 233.5
+RecognizedString a wraps versation towards sustainable energy inevitable e 2209.4 2213.7
+RecognizedString but but let the value of a cadillac tesla is greenwich eric 2213.7 2218.4
+RecognizedString accelerate the advent assistaint letter j a fast then what otherwise occur 2218.4 2223.5
+RecognizedString i'm so weather like what is the pronography connect hazard i'm outside hopefully it does it if if it 2223.5 2231.9
+RecognizedString if it accelerated that by decade potentially more than a decade 2231.9 2236.3
+RecognizedString that would be quite a good thing tucker that's what i can salary 2236.3 2240
+RecognizedString 2240 2248.2
+RecognizedString volume off has species in space bank civilization 2248.2 2251.6
+RecognizedString this is not inevitable it's very point appreciate this is not inevitable the sustainable energy picture i think is large lena verbal abbott 2251.6 2260.3
+RecognizedString blank space by was a shit is definitely not inevitable 2260.3 2264.2
+RecognizedString a an beyond that 233.5 235.7
+RecognizedString so internet for thorough so i'm going to spend some time 17.5 23
+RecognizedString if you look at at at the progress in space in nineteen sixty nine were able to sense of humor 2264.2 2271.8
+RecognizedString nineteen sixty nine i'm then we had 2271.8 2276
+RecognizedString the space shuttle that special the only take people to lower thor but then space shuttle a tired and when i say techno one to orbit 2276 2285.6
+RecognizedString so that's the tran translate down to nothing 2285.6 2289.4
+RecognizedString this is not you're mistaken what one 2289.4 2293.6
+RecognizedString 2293.6 2302.5
+RecognizedString and actually it will i think it by itself degrade actually 2302.5 2308.3
+RecognizedString you can tell us a sounds like ancient egypt and arrows make the pyramids 2308.3 2312.5
+RecognizedString um i forgot how to be back in a and the roman stapleton cuddle aqueduct day forgot how to do it 2312.5 2320.2
+RecognizedString robinsons in listen to a different things you down the you've got this this unique 2320.2 2325.6
+RecognizedString set up the first name is to cut the tell tunnel diameter 235.7 239.4
+RecognizedString double motivation on everything i find seven saying i'm 2325.6 2329.7
+RecognizedString when we get out which one is this i'm desire to work for humanity song to get there is a disaster something site cigarettes 2329.7 2339.1
+RecognizedString it's often if you like you you feel like you need the wanted drive the other 2339.1 2343.3
+RecognizedString with with tesla you want to have central energy you make is super sexy rising cause to do it 2343.3 2350.8
+RecognizedString can i get some nice miley cyrus we haven't spoken about your 2350.8 2355.5
+RecognizedString new sandwich ronnie of time today but you want to save humanity from bad i 2355.5 2360.9
+RecognizedString you gonna create this very cool bray machine interface together so infinite memory in telepathy answer for 2360.9 2367.4
+RecognizedString i'm and i'm on a mas feels like what you're saying is yeah we need we need to save 2367.4 2373.5
+RecognizedString humanity and have a i've a backup planned also we need to inspire humanity and and and and and this is 2373.5 2381.6
+RecognizedString this is of itunes bar 2381.6 2384.4
+RecognizedString a by factor to omar 239.4 241.8
+RecognizedString i think the adjective 2384.4 2387.6
+RecognizedString the value of uranus ratios 2387.6 2389.9
+RecognizedString primus unrated version um but only clear i i'm not trying to be anyone saver app that is not the i understand it 2389.9 2399.4
+RecognizedString toilet talk about the future not be sad 2399.4 2403.4
+RecognizedString add event hibbett agree that 2403.4 2411.8
+RecognizedString it is not none of this is gonna happen inevitable the fact that 2411.8 2416.8
+RecognizedString in your mind you dream stuff 2416.8 2419.3
+RecognizedString you dream stefano else would would daydream about none of bk paula dreaming available of complex day 2419.3 2426.5
+RecognizedString um yeah you do you do that is really remarkable ten thank you 2426.5 2432.4
+RecognizedString for happy assorted primavera put your tell me if it ever saw screen 2432.4 2436.2
+RecognizedString set the it's a single road lantana with of at a quicker iglesias has to be twenty six beat maybe twentieth diameter 241.8 248.6
+RecognizedString genuinely and center 2436.2 2440.2
+RecognizedString really really compactor 2440.2 2444.4
+RecognizedString cat 2444.4 2453.9
+RecognizedString 2453.9 2459.9
+RecognizedString 2459.9 2461.9
+RecognizedString tell are for crushes and emergency vehicles i'm insufficient ventilation a for a version engine cars 248.6 255.9
+RecognizedString but if you speak shake that diameter to what what what where tempting richest at twelve feet which is twenty to get electric stay true 255.9 263.1
+RecognizedString are you drop the at the diameter by factor to and the car sexual area bye bye patrick 263.1 268.6
+RecognizedString for so a and the botanica scales with car sexual area sweats 268.6 273.7
+RecognizedString roughly a have order nineteen for right there bend telling machines are currently 273.7 279.1
+RecognizedString turn off i have the time then i stop and the restless i'm is putting in reports mints for the wall 279.1 286
+RecognizedString so if you have a suzanne machines thats a continuous tumbling and rate for saying i'll give you factor to improvement 286 292.6
+RecognizedString exploring eurovision for what an exciting future my look like a snake for fest 23 28.8
+RecognizedString combine that answer factor eight of asa these machines a for from at being at the power or thermal limit 292.6 299.8
+RecognizedString so you can track apart machine 299.8 301.9
+RecognizedString translate i love you get lisa factor to maybe a factor of 301.9 306.7
+RecognizedString four o five improvement on the on top of that so i the best valley street port search steps to get a somewhere access nora mintu improvement and a smile 306.7 317.7
+RecognizedString i'm and i'm at our talking actually bieber pet smell called gary 317.7 323.5
+RecognizedString i'm from carrier snail from south park meets i am spongebob spongebob square pants 323.5 329.5
+RecognizedString suck gary 329.5 332.9
+RecognizedString what is is capable a of currently capable of 332.9 337.5
+RecognizedString going fourteen times basta that dun dunna tunnel boring machine ok you utility karen 337.5 346
+RecognizedString wanna beat gary hahaha notification little fellow and we want the t 346 353.3
+RecognizedString question a little ironic why you boring 28.8 32.7
+RecognizedString that will be victory victory is putting this now 353.3 356.1
+RecognizedString set the alarm people imagining dreaming about future cities imagine pollution is 356.1 361.8
+RecognizedString is samsung flying cars drones except for you to take you go above ground um why isn't that a better felicia nice able that telling cost 361.8 370.1
+RecognizedString write a in favorite flank vice city rockets 370.1 373.8
+RecognizedString tell him i like big supply is not some in hurt bios against fine thanks but 373.8 380.3
+RecognizedString there is a challenger flying cars in that they terrific quite noisy at the the wind force generator be by hi 380.3 388.6
+RecognizedString are the best 388.6 391.2
+RecognizedString um what is the next flying over your head homage a flank hospital of place 391.2 397.2
+RecognizedString i'm that is not enix i anxiety reducing situation um 397.2 404.9
+RecognizedString yourself will i feel better about 404.9 408
+RecognizedString yeah i sweat south africa lay a 32.7 37.9
+RecognizedString today and you're thinking like that they service there hub cat or come off and guillotine me pilot has 408 417.7
+RecognizedString i'm in the future cities with this is rich 417.7 424.1
+RecognizedString 3g network cell of tunnels 424.1 426.3
+RecognizedString underneath is there a time here with with hyperloop could you applied is tunnels to use for the happily by j you hard erased years ago 426.3 434.6
+RecognizedString yes up an appointment for a purring around with hi flip stuff for a for while we boats 434.6 441.6
+RecognizedString a happy test track desert spacex just reston competition 441.6 446.2
+RecognizedString add to ecards invite is in transport i'm actions are pendeja the biggest um 446.2 453.4
+RecognizedString back in shaver in the world after the latte rock later bye bye bye answer 453.4 460
+RecognizedString i'm sorry but it's quite fun to do that a cuppa hubby thing 460 466.4
+RecognizedString and and then i'm 466.4 468.7
+RecognizedString the we're trying to dig a hole i'm under ah 37.9 43.2
+RecognizedString when we think we might little pusher car to push this pepper student pods 468.7 475.4
+RecognizedString i'm at but we got my say how fast can make the pusher go shopping 475.4 482.1
+RecognizedString so what are your xo courses the up was like obesity faster than a art 482.1 488.6
+RecognizedString the lowest passes bullet train even an in a point eight miles scratch while i'm good breakfast yeah minutes 488.6 496.5
+RecognizedString yeah smash into tiny faces or you could you can talk for a hyperloop 496.5 503.4
+RecognizedString in tunnel get running quite quite long distances exact peso 503.4 508.6
+RecognizedString 508.6 513.2
+RecognizedString you have to a emergency against the water table 513.2 518.3
+RecognizedString you've got a typically design a tunnel wall to be a a good how about five or six atmosphere 518.3 525.9
+RecognizedString i'm so to go to backham is only one atmosphere boner vaca 525.9 531.4
+RecognizedString and buses to create the beginning of well have a b a 3g network of tunnels 43.2 50.9
+RecognizedString so i actually it is returns out that automatically if you're both a tunnel that is good enough to the water table 531.4 539.8
+RecognizedString is automatically k-pop holding back a huh so yeah 539.8 545.4
+RecognizedString french picture flat lego what kind of length tono do is is in illinois picture 545.4 551.9
+RecognizedString twenty happily yet i think this is a relax limit 551.9 556.1
+RecognizedString are you could do can you could take as much as you wants um i think fe by if you to do something like um 556.1 563
+RecognizedString is it in new york 563 565.1
+RecognizedString if i believe i think you're following ago underground entire way because it's a hi does the area it does gang gang 565.1 572.7
+RecognizedString i'm andhra lar buildings in houses 572.7 575.4
+RecognizedString add if you got the enough you cannot detect the title 575.4 578.8
+RecognizedString i'm sorry i feel that is great buddy annoying to have a tunnel duck under my house ipoh tunnel is diet more than about 578.8 586.7
+RecognizedString to leave a congestion so right now it well was a souls rang painted traffic 50.9 58.7

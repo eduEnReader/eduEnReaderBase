@@ -1,0 +1,283 @@
+title 
+textStore KathyHull_2016W-480p.html
+MD5TextStore MD5
+soundStore KathyHull_2016W-480p.mp4
+MD5SoundStore MD5
+Bind 0 110 9.2 20.5
+Bind 110 190 20.5 26.6
+Bind 190 288 26.6 34.8
+Bind 288 388 34.8 40.9
+Bind 388 423 40.9 44.6
+Bind 423 518 44.6 49.9
+Bind 518 626 49.9 59.1
+Bind 626 731 59.1 67.3
+Bind 731 818 67.3 73.2
+Bind 818 954 73.2 82.2
+Bind 954 1052 82.2 90.9
+Bind 1052 1159 90.9 98.6
+Bind 1159 1222 98.6 103
+Bind 1222 1256 103 106.6
+Bind 1256 1315 106.6 110.7
+Bind 1315 1393 110.7 116.2
+Bind 1393 1606 116.2 131.3
+Bind 1606 1723 131.3 139.3
+Bind 1723 1895 139.3 153.8
+Bind 1895 2082 153.8 165.5
+Bind 2082 2119 165.5 170.1
+Bind 2119 2257 170.1 179.7
+Bind 2257 2315 179.7 184
+Bind 2315 2384 184 188.5
+Bind 2384 2542 188.5 202
+Bind 2542 2598 202 205.9
+Bind 2598 2681 205.9 213.1
+Bind 2681 2815 213.1 221.4
+Bind 2815 2929 221.4 227.9
+Bind 2929 2969 227.9 233.3
+Bind 2969 3175 233.3 245.9
+Bind 3175 3386 245.9 263
+Bind 3386 3424 263 266
+Bind 3424 3498 266 271.1
+Bind 3498 3627 271.1 279.3
+Bind 3627 3710 279.3 286.3
+Bind 3710 3878 286.3 304.6
+Bind 3878 3939 304.6 312.7
+Bind 3939 4087 312.7 325.3
+Bind 4087 4253 325.3 338.3
+Bind 4253 4434 338.3 350
+Bind 4434 4535 350 357.8
+Bind 4535 4565 357.8 360.2
+Bind 4565 4662 360.2 367.9
+Bind 4662 4838 367.9 382.8
+Bind 4838 4881 382.8 386.6
+Bind 4881 5084 386.6 401.7
+Bind 5084 5127 401.7 406.3
+Bind 5127 5190 406.3 411.2
+Bind 5190 5279 411.2 418.7
+Bind 5279 5352 418.7 423.8
+Bind 5352 5445 423.8 431.9
+Bind 5445 5471 431.9 434
+Bind 5471 5671 434 447.5
+Bind 5671 5802 447.5 455.8
+Bind 5802 5901 455.8 461.8
+Bind 5901 5979 461.8 467.4
+Bind 5979 6077 467.4 473.6
+Bind 6077 6136 473.6 477.9
+Bind 6136 6197 477.9 482
+Bind 6197 6309 482 490.4
+Bind 6309 6352 490.4 494.1
+Bind 6352 6425 494.1 500
+Bind 6425 6476 500 504.6
+Bind 6476 6529 504.6 507.7
+Bind 6529 6603 507.7 512.8
+Bind 6603 6630 512.8 517.1
+Bind 6630 6743 517.1 527
+Bind 6743 6773 527 529.4
+Bind 6773 7114 529.4 560.1
+Bind 7114 7188 560.1 565.2
+Bind 7188 7297 565.2 575
+Bind 7297 7468 575 586.6
+Bind 7468 7558 586.6 593.3
+Bind 7558 7596 593.3 597.3
+Bind 7596 7787 597.3 611.9
+Bind 7787 7852 611.9 616.4
+Bind 7852 7912 616.4 618.8
+Bind 7912 7996 618.8 630.4
+Bind 7996 8204 630.4 645.7
+Bind 8204 8282 645.7 651.5
+Bind 8282 8385 651.5 659.8
+Bind 8385 8452 659.8 668.3
+Bind 8452 8524 668.3 673.8
+Bind 8524 8652 673.8 683.5
+Bind 8652 8707 683.5 687.7
+Bind 8707 8810 687.7 695.5
+Bind 8810 8843 695.5 699
+Bind 8843 9006 699 710.1
+Bind 9006 9105 710.1 716.5
+Bind 9105 9235 716.5 725.8
+Bind 9235 9294 725.8 730.8
+Bind 9294 9418 730.8 737.8
+Bind 9418 9482 737.8 742.9
+Bind 9482 9542 742.9 748.8
+Bind 9542 9592 748.8 752.6
+Bind 9592 9654 752.6 758.2
+Bind 9654 9757 758.2 766.5
+Bind 9757 9861 766.5 771.7
+Bind 9861 9971 771.7 779.3
+Bind 9971 10030 779.3 785.6
+Bind 10030 10279 785.6 802.6
+Bind 10279 10334 802.6 808.8
+Bind 10334 10392 808.8 815.9
+Bind 10392 10483 815.9 821.9
+Bind 10483 10538 821.9 826.5
+Bind 10538 10592 826.5 833.4
+Bind 10592 10662 833.4 838.6
+Bind 10662 10791 838.6 851.4
+Bind 10791 10883 851.4 857.6
+Bind 10883 10916 857.6 861.6
+Bind 10916 10964 861.6 866.6
+Bind 10964 11041 866.6 881.9
+Bind 11041 11195 881.9 888.7
+Bind 11195 11270 888.7 897.6
+Bind 11270 11390 897.6 908.7
+RecognizedString yes 0 2.2
+RecognizedString haskell intensive care urine and are famous don't save down 580.5 586.6
+RecognizedString wherever grateful to the supporters you believe in is important work that we're doing 586.6 593.3
+RecognizedString the truth is put my colleagues tonight 593.3 597.3
+RecognizedString and appearance and other family members who get your experience this special wisdom or any uni position 597.3 605.9
+RecognizedString the only to free standing pediatric hospice in united states 605.9 611.9
+RecognizedString i'm happy to report the based on our model under eighteen others 611.9 616.4
+RecognizedString i'm very stages of government 616.4 618.8
+RecognizedString still most of the children who die in united states every year 618.8 628.3
+RecognizedString diane house pomeranians 628.3 630.4
+RecognizedString surrounded by beeping machines an anxious exhausted and talk to have no other options but to say goodbye under those harsh institutional types 630.4 640.7
+RecognizedString talking to john i was surprise to learn the camels haven't average life expectancy 59.1 64.8
+RecognizedString and i'm on virtual strangers 640.7 643.5
+RecognizedString for comparison sake 643.5 645.7
+RecognizedString united kingdom which is the country with about one fifth the population of united states 645.7 651.5
+RecognizedString how about half the size of the state of california has fifty four hospice in respite centers 651.5 659.8
+RecognizedString why is that 659.8 663.5
+RecognizedString i've asked myself 663.5 665.6
+RecognizedString that question i'm pissing many times 665.6 668.3
+RecognizedString my best gas is that americans with are positive can do at a tune 668.3 673.8
+RecognizedString what the expectation that are medical care system fix it even know maybe a childhood illness from which is milk you 673.8 683.5
+RecognizedString we go to extraordinary measures to keep shelton alive 683.5 687.7
+RecognizedString a fourty two fifty years 64.8 67.3
+RecognizedString when i track the greatest kindness that we might give them would be a peaceful pin free into five 687.7 695.5
+RecognizedString the transition from curity care 695.5 699
+RecognizedString remain to challenging one from any hospital physicians who's training is really ben about saving lives 699 705.7
+RecognizedString not about gently guiding impatient at the end of life 705.7 710.1
+RecognizedString the day out if a sweet baby for me carrot at the end of for life certainly capture just i ca to me 710.1 716.5
+RecognizedString when can reflected that there's a lot of people to help you bring an infant into the world but very few to help you usher baby out 716.5 725.8
+RecognizedString so what is the magic concrete in a george mark 725.8 730.8
+RecognizedString the complex medical diagnosis that bring are young patients to s minute their lives of often can restricted 730.8 737.8
+RecognizedString sam do hospital batra long periods of time others to wheelchairs 737.8 742.9
+RecognizedString still others to intensive courses of chemotherapy of rehab 742.9 748.8
+RecognizedString the life expectancy of many the children with new i work is last year 67.3 73.2
+RecognizedString we make a practice ignoring this limitations 748.8 752.6
+RecognizedString are default answer is yes and are defah question as why not 752.6 758.2
+RecognizedString that's why we took a young boy who wasn't going to look for another baseball season to game five of the world series 758.2 766.5
+RecognizedString that's why we have a talent show put on my the staffing shots for family and friends 766.5 771.7
+RecognizedString who wouldn't p enchanted by young boy playing piano keys with this feet because it's arms are atrophy 771.7 779.3
+RecognizedString that's why we have a problem ever your it's pretty magica 779.3 785.6
+RecognizedString we started prom 785.6 787.7
+RecognizedString after hearing dad one man but he would never pineapple niranjan signs tuxedo hotel 787.7 795
+RecognizedString the weeks before the dance 795 797.4
+RecognizedString the houses in floree and i don't know who smart five at the staff at i can't 797.4 802.6
+RecognizedString this is a picture of the george mark children's house the first pediatric palliative respite care center to open in united states 73.2 82.2
+RecognizedString the night of the invent involves ride in vintage cars 802.6 808.8
+RecognizedString a walk on red carpet into the great room a terrific t j 808.8 815.9
+RecognizedString anna photographer at the ready to capture pictures of the is attendees and your families 815.9 821.9
+RecognizedString at the end of the into this year one of are young 821.9 826.5
+RecognizedString delightful teenage girls caitlin center her mom 826.5 833.4
+RecognizedString that was the best neither my whole life not just appoint 833.4 838.6
+RecognizedString the capturing the best day for nights to abolish limitations 838.6 845
+RecognizedString to have your default answer be yes and your default question be why not 845 851.4
+RecognizedString ultimately life is too short weather we live to be eighty five years or just eight 851.4 857.6
+RecognizedString trust me better yet trust sam 857.6 861.6
+RecognizedString i found it in two thousand and four 82.2 85.2
+RecognizedString it's not by pretending that death doesn't exist 861.6 866.6
+RecognizedString that we keep the people especially the little people that we've love faith 866.6 872.7
+RecognizedString any and we can't control how long any of a slaps what we can control is how we spend are days 872.7 881.9
+RecognizedString the spaces we create 881.9 884.8
+RecognizedString the meaning enjoy that we make 884.8 888.7
+RecognizedString we cannot change the outcome but we can change the churney 888.7 895.1
+RecognizedString is the time 895.1 897.6
+RecognizedString to recognize the children deserve nothing last 897.6 902.9
+RecognizedString no most on compromise in prayer free and are wildest imagination 902.9 908.7
+RecognizedString thank you 908.7 917.8
+RecognizedString 85.2 90.9
+RecognizedString 917.8 922.3
+RecognizedString 922.3 924.4
+RecognizedString frustrated with the an dignify def sound many children experienced and your family sandhu into our 90.9 98.6
+RecognizedString as i stop with families two children with the and their lives 98.6 103
+RecognizedString i was a cutely aware of our surroundings 103 106.6
+RecognizedString while the elevated train rumble over here on it's track 106.6 110.7
+RecognizedString 2.2 9.2
+RecognizedString quite literally the room reverb read it with each passing train car 110.7 116.2
+RecognizedString the lights on word were fluorescent i'm too bright my tours beeped as did the elevator noisy announcing it's arrival 116.2 125.6
+RecognizedString he's family swear experiencing someone domestic screw shading moments have their lives 125.6 131.3
+RecognizedString and i so wanna them to have a more peaceful place 131.3 134.9
+RecognizedString in which to say alaska by tutor young daughter some fun 134.9 139.3
+RecognizedString surely i thought there must be a better spot hospital intensive care in for children at the end of sir lives 139.3 148.4
+RecognizedString are children's house 148.4 151
+RecognizedString is com enter train 151 153.8
+RecognizedString it's a place for famous can stay together to enjoy quality time with their children menu for there for respite status 153.8 161.9
+RecognizedString song with repeated jess its over spanner many years 161.9 165.5
+RecognizedString i want to introduce you to sing very wise kids right now 9.2 17.3
+RecognizedString recall those kids are frequent flyers 165.5 170.1
+RecognizedString rather than the bright noisy quarters of the hospital there rooms are com uncomfortable with actual living spaces for the families 170.1 179.7
+RecognizedString a sanctuary of gardens in wonderful outdoor playground 179.7 184
+RecognizedString what's special structures for children with physical limitations 184 188.5
+RecognizedString this sweet baby lars came to ice directly from hospital intensive care unit 188.5 196.1
+RecognizedString imagine hearing the heart breaking news los whatever i want to hear 196.1 202
+RecognizedString just parents had been told that lars herobrine anomaly 202 205.9
+RecognizedString that would keep him from ever swallowing walking talking are developing mentally 205.9 213.1
+RecognizedString recognizing my little chancey had for survival his parents chose to focus on the quality of time to take it spend gather 213.1 221.4
+RecognizedString they moved into one of our family apartments in treasure each day that they hat which refer to few 221.4 227.9
+RecognizedString the first i want to introduce you to campbell 17.3 20.5
+RecognizedString versus life was brief tv sure mere weeks 227.9 233.3
+RecognizedString but it was com uncomfortable he went on hikes with his parents 233.3 238.7
+RecognizedString the timer dispensing pool with are quarterback therapist lesson seizure serious experiencing helped him to sleep at night 238.7 245.9
+RecognizedString his family i had a peaceful place in which tapout celebrate has life 245.9 250.7
+RecognizedString and morn hamster 250.7 252.8
+RecognizedString it's been five years in florence with axe enough time his family housework and a daughter and another song 252.8 263
+RecognizedString they are such a powerful testing 263 266
+RecognizedString to positive outcome that specialize children's hospice care can create 266 271.1
+RecognizedString your babies physical discomfort was well manage kevin all of them the gift of time to be together in a beautiful place 271.1 279.3
+RecognizedString i'm going to talk to you know about the elephant rather than calendar room 279.3 286.3
+RecognizedString this is cassie a therapy campbell visiting one of are young patients in her room 20.5 26.6
+RecognizedString very few people want to talk about death 286.3 290.4
+RecognizedString an even your about children's duck 290.4 297.2
+RecognizedString what's the child specially for the sebastian haver on children is frightening 297.2 304.6
+RecognizedString more than frightening carol icing do billa tanning 304.6 310.6
+RecognizedString impossible 310.6 312.7
+RecognizedString but what app learn to stuff children don't stop dying just because we the adults can't comprehend the injustice of 312.7 322.7
+RecognizedString and what's more 322.7 325.3
+RecognizedString if we can be brave in to facebook passcode if das even among the most innocent regain and on parallel to kind of wisdom 325.3 335.7
+RecognizedString kik christopher example 335.7 338.3
+RecognizedString choose one of the first jordan come for care after we opener doors 338.3 344
+RecognizedString which is pretty magical a friend of mine raises camels edison ranch in santa cruz mountains 26.6 34.8
+RecognizedString 344 350
+RecognizedString sharon in opera bumper in tumor and her juckline timberlake celebrated in week before she came to ass 350 357.8
+RecognizedString after settling into her room 357.8 360.2
+RecognizedString breast entirely and pink in lavender surrounded by the hello kitty accessories that she mont 360.2 367.9
+RecognizedString she spent the next several bday is winning over the hurts every staff member 367.9 374.2
+RecognizedString bit by her condition staple iced an anti or astonish my she actually improved 374.2 382.8
+RecognizedString the world variety of factors that contribute didn't 382.8 386.6
+RecognizedString to crystals improvement which we later came to call the george mark punk 386.6 392.9
+RecognizedString a lovely not uncommon phenomenon were children out live soprano say sup there on asus if there outside at the hospital 392.9 401.7
+RecognizedString the corner atmosphere for surroundings 401.7 406.3
+RecognizedString he has about eight of the any started thirty years ago because he fat horses were to mundane 34.8 40.9
+RecognizedString tasty meals that were fixed off until comedy for requests 406.3 411.2
+RecognizedString the resident hats the therapy dog and rabbit spent lots of cozy time with crystal 411.2 418.7
+RecognizedString after she had been with us for the week she called her grandmother 418.7 423.8
+RecognizedString and she said g i'm staying in great pick house and there's room for you to come to 423.8 431.9
+RecognizedString and guess what you 431.9 434
+RecognizedString don't have to bring any quarters because the washer and dryer are free crystals grimace soon arrive from out of town 434 442.9
+RecognizedString any spencer remaining for month of christoph life 442.9 447.5
+RecognizedString enjoying very special days together some days for special because crystal was outside and her wheelchair sitting by the fountain 447.5 455.8
+RecognizedString for little girl who had spent most of the year earlier in hospital bad being outside 455.8 461.8
+RecognizedString killing hummingbirds made for an amazing time with grandma and lots of laughter 461.8 467.4
+RecognizedString john is an outbox thinker 40.9 44.6
+RecognizedString other days for special because of the activities that are cowboys specialist created for her 467.4 473.6
+RecognizedString crystal strong beach in rachel ray for everybody in the house 473.6 477.9
+RecognizedString she paint at a pumpkin to help decorate for halloween 477.9 482
+RecognizedString she spent maniac saturday is planning for tenth birthday which of course none of stats you've ever see 482 490.4
+RecognizedString all of us more pitbulls for the occation 490.4 494.1
+RecognizedString ang crystal as you can say queen for day were sparkly tiara 494.1 500
+RecognizedString one hot morning i arrived at work and crystal ann 500 504.6
+RecognizedString her partner in crime charlie greeted me 504.6 507.7
+RecognizedString recent help they had setup a lemonade and cookie stand outside the front door 507.7 512.8
+RecognizedString a very strategic location 512.8 517.1
+RecognizedString which explains why the two of us have been such good friends over lights 44.6 49.9
+RecognizedString i asked crystal the price of the cookie that i add flattered mc sad three dollars 517.1 527
+RecognizedString i said that seem to bit hottie 527 529.4
+RecognizedString for one cookie it was smile 529.4 535.3
+RecognizedString i know shave knowledge program but i'm riffic an ariane live the words of wisdom into young girl 535.3 544.5
+RecognizedString please brief live forever impact going 544.5 548.2
+RecognizedString crystal was don't should book air for child who's life is shorten pie horrific illness people worthless 548.2 557.8
+RecognizedString together all of us today 557.8 560.1
+RecognizedString can offer that same specialized care that krista receive my recognizing 560.1 565.2
+RecognizedString the children's respite an hospice care is a critical component missing from are healthcare landscape 565.2 575
+RecognizedString it's also interesting to note that we're able to provide discard about one third of the cost 575 580.5
+RecognizedString order yours i've convinced him to shuttle those sweet freebies up to hang out with are seconds from time to time 49.9 59.1

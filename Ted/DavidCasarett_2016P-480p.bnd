@@ -1,0 +1,298 @@
+title 
+textStore DavidCasarett_2016P-480p.html
+MD5TextStore MD5
+soundStore DavidCasarett_2016P-480p.mp4
+MD5SoundStore MD5
+Bind 2 143 13.4 22.6
+Bind 143 208 22.6 26.3
+Bind 208 262 26.3 30.3
+Bind 262 355 30.3 37.6
+Bind 355 520 37.6 47.8
+Bind 520 611 47.8 53.9
+Bind 611 681 53.9 58.6
+Bind 681 768 58.6 64.9
+Bind 768 840 64.9 69.7
+Bind 840 909 69.7 73.8
+Bind 909 1000 73.8 80.6
+Bind 1000 1144 80.6 93.1
+Bind 1144 1244 93.1 98.9
+Bind 1244 1343 98.9 106
+Bind 1343 1427 106 113.9
+Bind 1427 1482 113.9 118
+Bind 1482 1528 118 120.6
+Bind 1528 1698 120.6 131.9
+Bind 1698 1765 131.9 135.2
+Bind 1765 1931 135.2 149.8
+Bind 1931 2050 149.8 152.1
+Bind 2050 2169 152.1 158.2
+Bind 2169 2247 158.2 163.9
+Bind 2247 2318 163.9 168.7
+Bind 2318 2398 168.7 185.4
+Bind 2398 2640 185.4 188.2
+Bind 2640 2689 188.2 192.2
+Bind 2689 2787 192.2 198.1
+Bind 2787 3078 198.1 218
+Bind 3078 3260 218 226.6
+Bind 3260 3367 226.6 232.9
+Bind 3367 3548 232.9 243.8
+Bind 3548 3601 243.8 248
+Bind 3601 3745 248 255.8
+Bind 3745 3902 255.8 264.5
+Bind 3902 4069 264.5 272.8
+Bind 4069 4121 272.8 277.7
+Bind 4121 4290 277.7 287.2
+Bind 4290 4398 287.2 293
+Bind 4398 4530 293 301.1
+Bind 4530 4617 301.1 306.9
+Bind 4617 4799 306.9 320.7
+Bind 4799 4956 320.7 331.7
+Bind 4956 5131 331.7 341
+Bind 5131 5203 341 346.5
+Bind 5203 5321 346.5 353.3
+Bind 5321 5354 353.3 355.4
+Bind 5354 5406 355.4 359.1
+Bind 5406 5478 359.1 362.9
+Bind 5478 5614 362.9 371.9
+Bind 5614 5717 371.9 377.9
+Bind 5717 5791 377.9 383.9
+Bind 5791 5859 383.9 388.7
+Bind 5859 5886 388.7 390.7
+Bind 5886 6053 390.7 401.9
+Bind 6053 6116 401.9 406.7
+Bind 6116 6205 406.7 412.6
+Bind 6205 6291 412.6 424.6
+Bind 6291 6426 424.6 427.5
+Bind 6426 6554 427.5 433.7
+Bind 6554 6663 433.7 439.1
+Bind 6663 6856 439.1 452.3
+Bind 6856 6993 452.3 461.4
+Bind 6993 7050 461.4 465.3
+Bind 7050 7095 465.3 468.5
+Bind 7095 7115 468.5 470.8
+Bind 7115 7216 470.8 475.9
+Bind 7216 7276 475.9 480.6
+Bind 7276 7369 480.6 487.5
+Bind 7369 7430 487.5 492.4
+Bind 7430 7564 492.4 500.4
+Bind 7564 7702 500.4 507.6
+Bind 7702 7807 507.6 513.5
+Bind 7807 7851 513.5 516.7
+Bind 7851 7981 516.7 525
+Bind 7981 8016 525 527.5
+Bind 8016 8071 527.5 530
+Bind 8071 8174 530 536.1
+Bind 8174 8317 536.1 546.7
+Bind 8317 8407 546.7 553.2
+Bind 8407 8515 553.2 560.4
+Bind 8515 8591 560.4 564.9
+Bind 8591 8761 564.9 577
+Bind 8761 8954 577 587.9
+Bind 8954 9015 587.9 591.2
+Bind 9015 9176 591.2 600.8
+Bind 9176 9277 600.8 606.9
+Bind 9277 9496 606.9 620.4
+Bind 9496 9593 620.4 625.7
+Bind 9593 9737 625.7 635.5
+Bind 9737 9796 635.5 639.4
+Bind 9796 9937 639.4 646.1
+Bind 9937 9972 646.1 648.5
+Bind 9972 10081 648.5 655.9
+Bind 10081 10222 655.9 663.4
+Bind 10222 10273 663.4 666.4
+Bind 10273 10437 666.4 676.8
+Bind 10437 10550 676.8 683.8
+Bind 10550 10608 683.8 686.8
+Bind 10608 10709 686.8 693.7
+Bind 10709 10835 693.7 701.3
+Bind 10835 10878 701.3 704
+Bind 10878 11047 704 712.6
+Bind 11047 11103 712.6 716.5
+Bind 11103 11219 716.5 722.8
+Bind 11219 11270 722.8 726.4
+Bind 11270 11409 726.4 734.9
+Bind 11409 11533 734.9 742.4
+Bind 11533 11577 742.4 745
+Bind 11577 11772 745 755.8
+Bind 11772 11837 755.8 758.9
+Bind 11837 11885 758.9 772.8
+Bind 11885 12105 772.8 776.6
+Bind 12105 12266 776.6 784.6
+Bind 12266 12309 784.6 787.7
+Bind 12309 12509 787.7 799.9
+Bind 12509 12642 799.9 809.2
+Bind 12642 12724 809.2 813.8
+Bind 12724 12824 813.8 819.3
+Bind 12824 12934 819.3 826.2
+Bind 12934 13044 826.2 832.3
+Bind 13044 13166 832.3 839.3
+Bind 13166 13198 839.3 842.2
+Bind 13198 13264 842.2 845.8
+Bind 13264 13321 845.8 849.6
+Bind 13321 13383 849.6 854.2
+Bind 13383 13443 854.2 857.3
+Bind 13443 13484 857.3 859.7
+Bind 13484 13784 859.7 875.2
+Bind 13784 13862 875.2 879
+Bind 13862 14018 879 887.3
+Bind 14018 14117 887.3 892.6
+Bind 14117 14261 892.6 900.6
+RecognizedString yes 0 2.2
+RecognizedString are going to this clinics are going this spencer is and getting that sort of personalize attention and education in service really should be a wake up call to healthcare system 577 587.9
+RecognizedString people like robin are turning away from mainstream medicine 587.9 591.2
+RecognizedString turning to medical marijuana dispensaries because those dispensaries are giving them what they need 591.2 598.2
+RecognizedString if that's a wake up call to medical stablishment 598.2 600.8
+RecognizedString it's a wake up call that many of my colleagues are eater not hearing or not wanting to hear 600.8 606.9
+RecognizedString my talk to my colleagues physicians in particular about medical marijuana obey say uh we need more evidence we need more researching benefits we need more evidence about risks 606.9 617.7
+RecognizedString and you know what there right 617.7 620.4
+RecognizedString there absolutely right we do need much more evidence about the benefits of medical marijuana 620.4 625.7
+RecognizedString we also need to ask federal government to be schedule marijuana to schedule to or titty scheduled entirely to make that research possible 625.7 635.5
+RecognizedString we also need more research inten medical marijuana is risks 635.5 639.4
+RecognizedString m so i told her that as far as i knew medical marijuana has no benefits whatsoever 58.6 64.9
+RecognizedString medical marijuana swift's we know a lot about the rest of recreational use we know next to nothing about the risks medical marijuana 639.4 646.1
+RecognizedString show me absolutely do need research 646.1 648.5
+RecognizedString what to say that we need research and not that we need to make any changes now is the mr point tire lee 648.5 655.9
+RecognizedString keep alike robin aren't freaking out medical marijuana because they tickets a wonder drug or because they tickets entirely risk free 655.9 663.4
+RecognizedString there's a kid out because the contacts in which is 663.4 666.4
+RecognizedString delivered and minister and used give them sort of control they need over there lives in a to wake up call we really need to pay attention to 666.4 676.8
+RecognizedString the good news though is there lessons we can learn today from those medical marijuana dispensary 676.8 683.8
+RecognizedString i'm also lessons me really should learn these are often 683.8 686.8
+RecognizedString mall mom and pop operations run by people with no medical training 686.8 691.1
+RecognizedString end well it's embarrassing to think 691.1 693.7
+RecognizedString and she smiled and nodded and beach dinda the handbag next to the bad 64.9 69.7
+RecognizedString that many of these clinics in dispensary is are providing services and support and meeting patients needs in ways that 693.7 701.3
+RecognizedString billion dollar healthcare systems aren't 701.3 704
+RecognizedString we should embarrassed five add that we can also learn from that near probably three lessons at least that we can burn from no small dispensaries 704 712.6
+RecognizedString one we need to find ways to give patients more control 712.6 716.5
+RecognizedString in small but important ways how to interact with healthcare providers wind interact with after providers 716.5 722.8
+RecognizedString how to use medications in ways that work for them 722.8 726.4
+RecognizedString in my own practice i've gotten much more creative and flexible in supporting my patients in using drugs safely to manage there's imports 726.4 734.9
+RecognizedString emphasis on safely many of the drugs i prescribed are drugs like okie lloyds or benzo lesbians which can be dangerous 734.9 742.4
+RecognizedString if overused but here's the point 742.4 745
+RecognizedString check lee dangerous if there over use but i can awesome enough active if they're not used in away that's consistent with what patients want any so that flexibility if its delivered safely 745 755.8
+RecognizedString in pulled out a stack if about it doesn't grandma's control trials 69.7 73.8
+RecognizedString can we extraordinary valuable for patient samir families 755.8 758.9
+RecognizedString that's number one number to education 758.9 762.2
+RecognizedString huge opportunities to learn from somebody tricks those medical marijuana dispensaries to provide more education that doesn't require a lot of physician time necessarily or any fish in time 762.2 772.8
+RecognizedString but opportunities to learn about what medications 772.8 776.6
+RecognizedString where are you saying and why prognosis to jack trees of illness and must importantly opportunities for patients to learn from each other 776.6 784.6
+RecognizedString how can we replication what goes on in the news 784.6 787.7
+RecognizedString clinic in medical sensory waiting rooms how patients learn from each other people share for each other 787.7 794.3
+RecognizedString i'm not list putting patients first waiters medical marijuana dispensaries do 794.3 799.9
+RecognizedString making patients feel to jeanette leave like what bay want what they need is y s healthcare providers we're here 799.9 809.2
+RecognizedString asking patients about there hopes there fears their goals in preferences 809.2 813.8
+RecognizedString showing that medical marijuana health benefits for symptoms like nausea and pain anxiety 73.8 80.6
+RecognizedString spelled girl provider i ask all my patience weather hoping for and motor afraid of 813.8 819.3
+RecognizedString what here's the thing patient shouldn't have to wait until beer clinically seriously ill often near the end of life 819.3 826.2
+RecognizedString i don't have to wait shouldn't have to wait until basing physician like me before somebody ask from 826.2 832.3
+RecognizedString what do you hoping for what are you afraid of that should be bake into the way that healthcare is to madrid 832.3 839.3
+RecognizedString we can do this we really can 839.3 842.2
+RecognizedString medical marijuana dispensaries in clinics all across the country 842.2 845.8
+RecognizedString are figuring this out there figuring this out in ways 845.8 849.6
+RecognizedString that marjorie more mainstream health systems are years behind 849.6 854.2
+RecognizedString but we can learn from them and we have to learn from now on 854.2 857.3
+RecognizedString are we have to do is swallow are pride 857.3 859.7
+RecognizedString she handed me those articles and said maybe you should be the before offering an opinion 80.6 88.3
+RecognizedString put aside without for a minute that because we have lots of letters after i named because we're experts because we're chief medical officers of a large healthcare system 859.7 868.2
+RecognizedString we know arteries to know about harley patience me 868.2 872.3
+RecognizedString we need to swallower pride we need to go visit 872.3 875.2
+RecognizedString you medical marijuana dispensaries we need to figure out what they're doing 875.2 879
+RecognizedString we need to figure out why so many patient like robin are leaving are mainstream medical clinics in going to these medical marijuana dispensaries instead 879 887.3
+RecognizedString we need to figure out what they're tricks are weather tools are and we need to learn from them 887.3 892.6
+RecognizedString if we do and i think we can and i absolutely think we have to 892.6 897.1
+RecognizedString we can guarantee oliver patience will have much better experience 897.1 900.6
+RecognizedString thank you 900.6 911.1
+RecognizedString 911.1 913.1
+RecognizedString dr so i did 88.3 93.1
+RecognizedString dad night i read olive those articles in saudi punch more when i came to see her the next morning 93.1 98.9
+RecognizedString i had to admit that it looks like there is son evidence that marijuana can offer medical benefits 98.9 106
+RecognizedString am i suggested that if she really was interested she should try it naughty sad 106 113.9
+RecognizedString this seventy three year old retired english professor 113.9 118
+RecognizedString 2.2 9.2
+RecognizedString she said i did tried about six months ago 118 120.6
+RecognizedString it was amazing i've been using it everyday since it's the best drug i've discovered are know why it to me seventy three years cities kevin stuff it's amazing 120.6 131.9
+RecognizedString that was the moment at richard realized i needed 131.9 135.2
+RecognizedString so learn something about medical marijuana because what i was prepared for medical school board no relationship to reality 135.2 143.5
+RecognizedString so i start reading more articles i started talking to researchers i started talking to doctors and most important list 143.5 149.8
+RecognizedString started listening to patients 149.8 152.1
+RecognizedString ended up writing a book based on those conversations in that book really revolt around three surprises 152.1 158.2
+RecognizedString to prices to me anyway one i regular to the really are some benefits 158.2 163.9
+RecognizedString to medical marijuana benefits may not be as huge or else stunning 163.9 168.7
+RecognizedString add some of the most added performance of medical marijuana woodhouse obese but they are real 168.7 174.6
+RecognizedString 9.2 13.4
+RecognizedString surprise number to medical marijuana does have some risks those risks may not be as huge in a scary a somebody opponent medical marijuana woodhouse please 174.6 185.4
+RecognizedString what they are real risks nonetheless 185.4 188.2
+RecognizedString the third surprised it was most surprising 188.2 192.2
+RecognizedString and that is a lot of the patients i talk quiz who's turn to medical marijuana for help 192.2 198.1
+RecognizedString weren't turning to medical marijuana because if its benefits or the balance of risks and benefits or because i thought it was a wondered rod but because it gave them control over there aliens 198.1 209.1
+RecognizedString let pen manage therehell in away that was productive 209.1 213.8
+RecognizedString inefficient an effective uncomfortable for them 213.8 218
+RecognizedString to show you i mean let me type another patient robin was in her early forties when i met hershey town likes you as in her late sixty is 218 226.6
+RecognizedString she had suffered from rheumatory arthritis last twenty years her hands for naruto pirates riders hurts 226.6 232.9
+RecognizedString i'm was crooked she had rider wheelchair to get around 232.9 236.6
+RecognizedString i would like to tell you about the most embarrassing thing that ever happened to me and my years of working as a palliative care physician 13.4 22.6
+RecognizedString 236.6 243.8
+RecognizedString she was among the office people i've ever met 243.8 248
+RecognizedString am i sat down next to are in a medical marijuana dispensary northern california to ask her about my she turns medical marijuana o 248 255.8
+RecognizedString what did for her in how it helped her 255.8 258.7
+RecognizedString she started oppa told me things ride heard from many patience before peter anxiety 258.7 264.5
+RecognizedString it'll peter pan when are pain was better she slept better plate heard that before been sephanin like never heard before and that is 264.5 272.8
+RecognizedString ajay for control over her life and over her health 272.8 277.7
+RecognizedString she could use it when she wanted in the way that she wanted at the dose and frequency that worked for her and it didn't work for her ten she could make changes 277.7 287.2
+RecognizedString everything was up to her most important thing she said was she didn't need anybody else's permission 287.2 293
+RecognizedString not a clinic appointment not a doctor's prescription pharmacist order it was all up to her 293 299
+RecognizedString this happen a couple years ago i was asking consultants 22.6 26.3
+RecognizedString she was in control 299 301.1
+RecognizedString is that seems like a little thing brasilia chromosomes it's not not at all 301.1 306.9
+RecognizedString when we face for chronic serious on a sweater it's rheumatory arthritis or lupus or cancer for diabetes or cirrhosis we lose control 306.9 317.9
+RecognizedString i know what i said when nadia 317.9 320.7
+RecognizedString all of us at some point nor lives what facebook chronic series illness that causes us to lose control 320.7 327.3
+RecognizedString what's your function to climb summer sophia cognition declined punk 327.3 331.7
+RecognizedString no longer able to care for ourselves to do the things that we want to do our bodies movie trailers in that process will lose control 331.7 341
+RecognizedString and that's scary just scary that's frightening it's terrifying 341 346.5
+RecognizedString when i talk to my patience make idk patients many if room are facing illnesses that will end their lives 346.5 353.3
+RecognizedString they have a lot to be frightened of 353.3 355.4
+RecognizedString ca a woman in her seven knees retired english professor 26.3 30.3
+RecognizedString pain nausea and vomiting constipation fatigue 355.4 359.1
+RecognizedString turn pending mortality but what scares the more than anything else 359.1 362.9
+RecognizedString is this possibility that at some point tomorrow fremont for now they're going to lose control of bear health of their lives 362.9 371.9
+RecognizedString update healthcare and they're going to become dependent on others and that's terrifying 371.9 377.9
+RecognizedString south no wonder really that patience like robin i just told you about 377.9 383.9
+RecognizedString why met in that clinic turn to medical marijuana to try to claw backs 383.9 388.7
+RecognizedString some someone's of control 388.7 390.7
+RecognizedString how does a do without how titties medical marijuana dispensary is like the one where i met robin how did they give patients like robin back to sort of control 390.7 401.9
+RecognizedString the fe need and how do they do a in away that mainstream 401.9 406.7
+RecognizedString medical hospitals and clinics reese for robin weren't able to what's your secret 406.7 412.6
+RecognizedString who had pancreatic cancer i was asda see her because she had pain nausea and vomiting 30.3 37.6
+RecognizedString so i decided to find out 412.6 415.5
+RecognizedString i went to a siri clinic in venice beach california and got a recommendation would allow me to be a medical marijuana patient 415.5 424.6
+RecognizedString i got letter recommendation that would let me bye 424.6 427.5
+RecognizedString medical marijuana i gotta recommendation illegally because i'm not a resume california should not that 427.5 433.7
+RecognizedString i also no for the record that i never use that letter recommendation to make a purchase 433.7 439.1
+RecognizedString and olive you da agents out there the work that you're doing keep it up even though it didn't let me make a purchase though 439.1 449.9
+RecognizedString that letter was priceless 449.9 452.3
+RecognizedString because it let me be patient it let me experience white patients like robin experience when they go to a medical marijuana dispensary 452.3 461.4
+RecognizedString and what experienced what day experience everyday 461.4 465.3
+RecognizedString hundreds of thousands of people like robin 465.3 468.5
+RecognizedString when i went to see her we talked about those symptoms and intercourse about consultation she asked me weather i thought that medical marijuana of my help 37.6 47.8
+RecognizedString was really amazing 468.5 470.8
+RecognizedString i walked into the clinic and from the moment i entered many of these clinics in dispensaries 470.8 475.9
+RecognizedString i felt like that dispensary about clinic was there for me 475.9 480.6
+RecognizedString there are questions at the outside about who i am what kind of work i do what my goals are 480.6 487.5
+RecognizedString i'm looking for a medical marijuana prescription word a product 487.5 492.4
+RecognizedString what my goals are what my preferences are what my hopes are how do i think how do i hope this might help me what am i afraid of 492.4 500.4
+RecognizedString these are resorts of questions that patient like robin get asked all the time desoto questions that make me confident 500.4 507.6
+RecognizedString set the person i'm talking with really has my best interests at heart and want to get to know me 507.6 513.5
+RecognizedString the second thing i learned and those clinics 513.5 516.7
+RecognizedString is the availability of education education from the folks behind the calendar but also education from folks in the dining room 516.7 525
+RecognizedString i thought back to everything that i learned medical school about medical marijuana 47.8 53.9
+RecognizedString people i met we're more than happy 525 527.5
+RecognizedString yes i was sitting next to them people like robin 527.5 530
+RecognizedString tell me about who they are why they use medical marijuana what helps them how it helps them 530 536.1
+RecognizedString give me advice and suggestions those waiting rooms really are off hi ever interaction advice and support 536.1 543.9
+RecognizedString enter the fox behind the counter 543.9 546.7
+RecognizedString i was amazed at how will in those people were to spend sometimes an hour or more 546.7 553.2
+RecognizedString talking me through the nuance is strain versus that's drain smoking vs vape rising edibles versus thanks yours 553.2 560.4
+RecognizedString what will remember without me making any purchase whatsoever 560.4 564.9
+RecognizedString pink about the last time you went to any hospital are clinic in last time anybody's ten an hour explaining no sorts of things to you 564.9 574.3
+RecognizedString the fact that patients like robin 574.3 577
+RecognizedString which didn't take very long because i learned absolutely nothing 53.9 58.6
